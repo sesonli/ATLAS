@@ -1,0 +1,81 @@
+Residue conformations -------------------------------------------
+A124 : PRO
+A125 : LYS
+A126 : GLY
+A127 : LYS
+A128 : SER
+A129 : MET
+A130 : GLN
+A131 : LYS
+A132 : ARG
+A133 : ARG
+A134 : SER
+A135 : LYS
+A136 : GLY
+A137 : ASP
+A138 : ARG
+A139 : CYS
+A140 : TYR
+A141 : ASN
+A142 : CYS
+A143 : GLY
+A144 : GLY
+A145 : LEU
+A146 : ASP
+A147 : HIS
+A148 : HIS
+A149 : ALA
+A150 : LYS
+A151 : GLU
+A152 : CYS
+A153 : LYS
+A154 : LEU
+A155 : PRO
+A156 : PRO
+A157 : GLN
+A158 : PRO
+A159 : LYS
+A160 : LYS
+A161 : CYS
+A162 : HIS
+A163 : PHE
+A164 : CYS
+A165 : GLN
+A166 : SER
+A167 : ILE
+A168 : SER
+A169 : HIS
+A170 : MET
+A171 : VAL
+A172 : ALA
+A173 : SER
+A174 : CYS
+A175 : PRO
+A176 : LEU
+A177 : LYS
+A178 : ALA
+A179 : GLN
+A180 : GLN
+A181 : GLY
+A182 : PRO
+A183 : SER
+A184 : ALA
+A185 : GLN
+A186 : GLY
+B1 : A C2p_endo syn
+B2 : G C3p_endo anti
+B3 : G C1p_exo syn
+B4 : A C3p_exo anti
+B5 : G C2p_endo anti
+B6 : A C2p_endo syn
+B7 : U C2p_endo anti
+A187 : ZN
+A188 : ZN
+Adjacent stackings ----------------------------------------------
+B6-B7 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+Number of stackings = 1
+Number of adjacent stackings = 1
+Number of non adjacent stackings = 0
+Base-pairs ------------------------------------------------------
+B1-B2 : A-G O2'/Hh adjacent_5p pairing 

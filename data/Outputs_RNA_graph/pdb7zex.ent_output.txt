@@ -1,0 +1,111 @@
+Residue conformations -------------------------------------------
+A-3 : ALA
+A-2 : GLY
+A-1 : HIS
+A1 : MET
+A2 : ALA
+A3 : THR
+A4 : THR
+A5 : LYS
+A6 : ARG
+A7 : VAL
+A8 : LEU
+A9 : TYR
+A10 : VAL
+A11 : GLY
+A12 : GLY
+A13 : LEU
+A14 : ALA
+A15 : GLU
+A16 : GLU
+A17 : VAL
+A18 : ASP
+A19 : ASP
+A20 : LYS
+A21 : VAL
+A22 : LEU
+A23 : HIS
+A24 : ALA
+A25 : ALA
+A26 : PHE
+A27 : ILE
+A28 : PRO
+A29 : PHE
+A30 : GLY
+A31 : ASP
+A32 : ILE
+A33 : THR
+A34 : ASP
+A35 : ILE
+A36 : GLN
+A37 : ILE
+A38 : PRO
+A39 : LEU
+A40 : ASP
+A41 : TYR
+A42 : GLU
+A43 : THR
+A44 : GLU
+A45 : LYS
+A46 : HIS
+A47 : ARG
+A48 : GLY
+A49 : PHE
+A50 : ALA
+A51 : PHE
+A52 : VAL
+A53 : GLU
+A54 : PHE
+A55 : GLU
+A56 : LEU
+A57 : ALA
+A58 : GLU
+A59 : ASP
+A60 : ALA
+A61 : ALA
+A62 : ALA
+A63 : ALA
+A64 : ILE
+A65 : ASP
+A66 : ASN
+A67 : MET
+A68 : ASN
+A69 : GLU
+A70 : SER
+A71 : GLU
+A72 : LEU
+A73 : PHE
+A74 : GLY
+A75 : ARG
+A76 : THR
+A77 : ILE
+A78 : ARG
+A79 : VAL
+A80 : ASN
+A81 : LEU
+A82 : ALA
+A83 : LYS
+A84 : PRO
+A85 : MET
+A86 : ARG
+A87 : ILE
+A88 : LYS
+A89 : GLU
+A90 : GLY
+B1 : U C1p_endo syn
+B2 : A C2p_endo anti
+B3 : A C3p_endo anti
+B4 : U O4p_exo syn
+B5 : G C2p_endo anti
+B6 : U C3p_exo anti
+B7 : C C4p_endo syn
+B8 : G C2p_endo anti
+Adjacent stackings ----------------------------------------------
+Non-Adjacent stackings ------------------------------------------
+Number of stackings = 0
+Number of adjacent stackings = 0
+Number of non adjacent stackings = 0
+Base-pairs ------------------------------------------------------
+A88-B7 : LYS-C pairing one_hbond 
+A88-B8 : LYS-G pairing one_hbond 
+B5-B7 : G-C O2P/Bh pairing 

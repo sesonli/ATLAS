@@ -1,0 +1,110 @@
+Residue conformations -------------------------------------------
+A1 : G C3p_endo anti
+A2 : G C3p_endo anti
+A3 : G C3p_endo anti
+A4 : U C4p_exo anti
+A5 : U O4p_endo anti
+A6 : A C1p_endo anti
+A7 : G O4p_endo anti
+A8 : G C3p_endo anti
+A9 : G C2p_exo anti
+A10 : U C3p_exo anti
+B11 : G C3p_endo anti
+B12 : G C3p_endo anti
+B13 : G C3p_endo anti
+B14 : U C4p_exo anti
+B15 : U C4p_exo anti
+B16 : A C2p_exo anti
+B17 : G O4p_endo anti
+B18 : G C3p_endo anti
+B19 : G C2p_exo anti
+B20 : U C2p_endo anti
+C21 : G C3p_endo anti
+C22 : G C3p_endo anti
+C23 : G C3p_endo anti
+C24 : U C4p_exo anti
+C25 : U C4p_exo anti
+C26 : A C2p_exo anti
+C27 : G O4p_endo anti
+C28 : G C3p_endo anti
+C29 : G C2p_exo anti
+C30 : U C2p_endo anti
+D31 : G C2p_exo anti
+D32 : G C3p_endo anti
+D33 : G C3p_endo anti
+D34 : U C4p_exo anti
+D35 : U C4p_exo anti
+D36 : A C2p_exo anti
+D37 : G C3p_exo anti
+D38 : G C3p_endo anti
+D39 : G C3p_endo anti
+D40 : U C3p_exo anti
+Adjacent stackings ----------------------------------------------
+A1-A2 : adjacent_5p upward 
+A2-A3 : adjacent_5p upward 
+A7-A8 : adjacent_5p upward 
+A8-A9 : adjacent_5p upward 
+A9-A10 : adjacent_5p upward 
+B11-B12 : adjacent_5p upward 
+B12-B13 : adjacent_5p upward 
+B17-B18 : adjacent_5p upward 
+B18-B19 : adjacent_5p upward 
+B19-B20 : adjacent_5p upward 
+C21-C22 : adjacent_5p upward 
+C22-C23 : adjacent_5p upward 
+C27-C28 : adjacent_5p upward 
+C28-C29 : adjacent_5p upward 
+C29-C30 : adjacent_5p upward 
+D31-D32 : adjacent_5p upward 
+D32-D33 : adjacent_5p upward 
+D37-D38 : adjacent_5p upward 
+D38-D39 : adjacent_5p upward 
+D39-D40 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+A1-D37 : outward 
+A4-A6 : inward 
+A6-D36 : outward pairing 
+A7-D31 : outward 
+B11-C27 : outward 
+B14-B16 : inward 
+B16-C26 : outward pairing 
+B17-C21 : outward 
+B17-D37 : outward 
+C24-C26 : inward pairing 
+D34-D36 : inward 
+Number of stackings = 31
+Number of adjacent stackings = 20
+Number of non adjacent stackings = 11
+Base-pairs ------------------------------------------------------
+A1-A7 : G-G Ww/Hh pairing parallel cis VI 
+A1-B17 : G-G Hh/Ww pairing parallel cis VI 
+A2-A4 : G-U O2'/Ww pairing 
+A2-A8 : G-G Ww/Hh pairing parallel cis VI 
+A2-B18 : G-G Hh/Ww pairing parallel cis VI 
+A3-A9 : G-G Ww/Hh pairing parallel cis VI 
+A3-B19 : G-G Hh/Ww pairing parallel cis VI 
+A6-D36 : A-A O2P/Bh Bh/O2P outward pairing 
+A7-B11 : G-G Ww/Hh pairing parallel cis VI 
+A8-B12 : G-G Ww/Hh pairing parallel cis VI 
+A9-B13 : G-G Ww/Hh pairing parallel cis VI 
+B11-B17 : G-G Ww/Hh pairing parallel cis VI 
+B12-B14 : G-U Sw/Hw O2'/Hh O2'/Ww pairing antiparallel cis one_hbond 88 
+B12-B18 : G-G Ww/Hh pairing parallel cis VI 
+B13-B19 : G-G Ww/Hh pairing parallel cis VI 
+B15-C25 : U-U Ww/O2' pairing 
+B16-C26 : A-A O2P/Bh Bh/O2P outward pairing 
+C21-C27 : G-G Ww/Hh pairing parallel cis VI 
+C21-D37 : G-G Hh/Ww pairing parallel cis VI 
+C22-C24 : G-U O2'/Hh O2'/Ww pairing 
+C22-C28 : G-G Ww/Hh pairing parallel cis VI 
+C22-D38 : G-G Hh/Ww pairing parallel cis VI 
+C23-C29 : G-G Ww/Hh pairing parallel cis VI 
+C23-D39 : G-G Hh/Ww pairing parallel cis VI 
+C24-C26 : U-A O2'/Hh inward pairing 
+C27-D31 : G-G Ww/Hh pairing parallel cis VI 
+C28-D32 : G-G Ww/Hh pairing parallel cis VI 
+C29-D33 : G-G Ww/Hh pairing parallel cis VI 
+D31-D37 : G-G Ww/Hh pairing parallel cis VI 
+D32-D34 : G-U O2'/Ww pairing 
+D32-D38 : G-G Ww/Hh pairing parallel cis VI 
+D33-D39 : G-G Ww/Hh pairing parallel cis VI 

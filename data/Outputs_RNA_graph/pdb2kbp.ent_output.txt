@@ -1,0 +1,60 @@
+Residue conformations -------------------------------------------
+A1 : U C3p_exo anti
+A2 : A C2p_endo anti
+A3 : G C2p_endo anti
+A4 : G C3p_endo anti
+A5 : G C2p_endo anti
+A6 : U C2p_endo anti
+A7 : U C3p_exo syn
+A8 : A C3p_exo anti
+A9 : G C2p_endo anti
+A10 : G C3p_endo anti
+A11 : G C3p_endo anti
+A12 : U C3p_exo anti
+B13 : U C3p_exo anti
+B14 : A C2p_endo anti
+B15 : G C2p_endo anti
+B16 : G C3p_endo anti
+B17 : G C2p_endo anti
+B18 : U C2p_endo anti
+B19 : U C3p_exo syn
+B20 : A C3p_exo anti
+B21 : G C2p_endo anti
+B22 : G C3p_endo anti
+B23 : G C3p_endo anti
+B24 : U C3p_exo anti
+Adjacent stackings ----------------------------------------------
+A3-A4 : adjacent_5p upward 
+A4-A5 : adjacent_5p upward 
+A9-A10 : adjacent_5p upward 
+A11-A12 : adjacent_5p inward 
+B15-B16 : adjacent_5p upward 
+B16-B17 : adjacent_5p upward 
+B21-B22 : adjacent_5p upward 
+B23-B24 : adjacent_5p inward 
+Non-Adjacent stackings ------------------------------------------
+A1-B21 : outward 
+A9-B13 : outward 
+Number of stackings = 10
+Number of adjacent stackings = 8
+Number of non adjacent stackings = 2
+Base-pairs ------------------------------------------------------
+A1-B13 : U-U Hh/Hh pairing parallel trans 
+A2-B22 : A-G Ww/O2' Bh/O2' pairing 
+A3-A9 : G-G Ww/Hh pairing parallel cis VI 
+A3-B21 : G-G Hh/Ww pairing parallel cis VI 
+A4-A9 : G-G Bs/O2P pairing 
+A4-A10 : G-G Ww/Hh pairing parallel cis VI 
+A4-B22 : G-G Hh/Ww pairing parallel cis VI 
+A5-A11 : G-G Ww/Hh pairing parallel cis VI 
+A5-B23 : G-G Hh/Ww pairing parallel cis VI 
+A7-A8 : U-A O2'/Hh adjacent_5p pairing 
+A9-B15 : G-G Ww/Hh pairing parallel cis VI 
+A10-B14 : G-A O2'/Ww O2'/Bh pairing 
+A10-B16 : G-G Ww/Hh pairing parallel cis VI 
+A11-B17 : G-G Ww/Hh pairing parallel cis VI 
+B15-B21 : G-G Ww/Hh pairing parallel cis VI 
+B16-B21 : G-G Bs/O2P pairing 
+B16-B22 : G-G Ww/Hh pairing parallel cis VI 
+B17-B23 : G-G Ww/Hh pairing parallel cis VI 
+B19-B20 : U-A O2'/Hh adjacent_5p pairing 

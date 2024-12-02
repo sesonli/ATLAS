@@ -1,0 +1,121 @@
+Residue conformations -------------------------------------------
+A93 : G O4p_endo anti
+A94 : G O4p_endo anti
+A95 : G C4p_exo anti
+A96 : C C3p_endo anti
+A97 : U C3p_endo anti
+A98 : G C4p_exo anti
+A99 : U O4p_endo anti
+A100 : U C2p_exo anti
+A101 : U C4p_exo anti
+A102 : U C2p_exo anti
+A103 : U O4p_endo anti
+A104 : C O4p_endo anti
+A105 : U C3p_endo anti
+A106 : C C4p_endo anti
+A107 : G C3p_endo anti
+A108 : C C2p_exo anti
+A109 : U C3p_endo anti
+A110 : G C3p_endo anti
+A111 : A C3p_endo anti
+A112 : C C3p_endo anti
+A113 : U C3p_endo anti
+A114 : U O4p_endo anti
+A115 : U C3p_endo anti
+A116 : C C3p_endo anti
+A117 : A C4p_exo anti
+A118 : G C3p_endo anti
+A119 : C C3p_endo anti
+A120 : C C3p_endo anti
+A121 : C C4p_exo anti
+A166 : C C1p_endo anti
+A167 : A C1p_exo anti
+A168 : A C2p_exo anti
+A169 : A C3p_endo anti
+A170 : C C4p_exo anti
+A171 : A O4p_endo anti
+A172 : A C2p_exo anti
+A173 : A C2p_endo anti
+A174 : A C4p_exo anti
+A175 : A C3p_endo anti
+A176 : A C4p_exo anti
+A178 : G C3p_endo anti
+A179 : U O4p_endo anti
+A180 : C C4p_exo anti
+A181 : A C2p_exo anti
+A182 : G C3p_endo anti
+A183 : C C2p_exo anti
+A184 : A C2p_exo anti
+Adjacent stackings ----------------------------------------------
+A93-A94 : adjacent_5p upward 
+A94-A95 : adjacent_5p upward 
+A95-A96 : adjacent_5p upward 
+A96-A97 : adjacent_5p upward 
+A97-A98 : adjacent_5p upward 
+A100-A101 : adjacent_5p upward 
+A102-A103 : adjacent_5p upward 
+A107-A108 : adjacent_5p upward 
+A109-A110 : adjacent_5p upward 
+A110-A111 : adjacent_5p upward 
+A111-A112 : adjacent_5p upward 
+A113-A114 : adjacent_5p upward 
+A115-A116 : adjacent_5p upward 
+A116-A117 : adjacent_5p upward 
+A117-A118 : adjacent_5p upward 
+A118-A119 : adjacent_5p upward 
+A167-A168 : adjacent_5p upward pairing 
+A169-A170 : adjacent_5p upward 
+A170-A171 : adjacent_5p upward 
+A171-A172 : adjacent_5p upward 
+A173-A174 : adjacent_5p upward 
+A174-A175 : adjacent_5p upward 
+A175-A176 : adjacent_5p upward 
+A176-A178 : adjacent_5p upward 
+A178-A179 : adjacent_5p upward 
+A179-A180 : adjacent_5p upward pairing 
+A181-A182 : adjacent_5p upward 
+A182-A183 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+A98-A117 : outward 
+A99-A172 : downward 
+Number of stackings = 30
+Number of adjacent stackings = 28
+Number of non adjacent stackings = 2
+Base-pairs ------------------------------------------------------
+A93-A121 : G-C Ww/Ww pairing antiparallel cis XIX 
+A94-A120 : G-C Ww/Ww pairing antiparallel cis XIX 
+A95-A119 : G-C Ww/Ww pairing antiparallel cis XIX 
+A96-A118 : C-G Ww/Ww pairing antiparallel cis XIX 
+A97-A117 : U-A Ww/Ww pairing antiparallel cis XX 
+A97-A171 : U-A Bs/Hw pairing parallel cis one_hbond 47 
+A98-A99 : G-U O2'/Hh adjacent_5p pairing 
+A98-A116 : G-C Ww/Ww pairing antiparallel cis XIX 
+A98-A172 : G-A Ss/Ww O2'/Bh pairing parallel trans X 
+A99-A173 : U-A Ww/Hh pairing parallel cis XXIII 
+A100-A174 : U-A Ww/Hh pairing parallel cis XXIII 
+A101-A175 : U-A Ww/Hh pairing parallel cis XXIII 
+A102-A176 : U-A Ww/Hh pairing parallel cis XXIII 
+A103-A104 : U-C O2P/Bh adjacent_5p pairing 
+A103-A178 : U-G Ww/Hh pairing parallel cis one_hbond 96 
+A104-A109 : C-U Bh/O2P pairing 
+A104-A180 : C-C O2'/Bh pairing 
+A104-A181 : C-A O2'/Bh pairing 
+A105-A107 : U-G O2'/Hh pairing 
+A105-A180 : U-C O2P/Bh pairing 
+A105-A181 : U-A O2P/Bh pairing 
+A105-A182 : U-G Hh/Hw pairing parallel trans one_hbond 
+A105-A183 : U-C Wh/Hw pairing antiparallel trans one_hbond 104 
+A107-A183 : G-C Ww/Ww pairing antiparallel cis XIX 
+A108-A182 : C-G Ww/Ww pairing antiparallel cis XIX 
+A109-A181 : U-A Ww/Ww pairing antiparallel cis XX 
+A110-A180 : G-C Ww/Ww pairing antiparallel cis XIX 
+A111-A179 : A-U Ww/Ww pairing antiparallel cis XX 
+A112-A178 : C-G Ww/Ww pairing antiparallel cis XIX 
+A113-A176 : U-A Ww/Ww pairing antiparallel cis XX 
+A114-A175 : U-A Ww/Ww pairing antiparallel cis XX 
+A115-A174 : U-A Ww/Ww pairing antiparallel cis XX 
+A118-A169 : G-A Ss/Hh pairing antiparallel trans XI 
+A120-A167 : C-A O2'/Ss pairing 
+A167-A168 : A-A O2'/C8 adjacent_5p upward pairing 
+A179-A180 : U-C O2'/Hh adjacent_5p upward pairing 
+A180-A181 : C-A O2'/Hh adjacent_5p pairing 

@@ -1,0 +1,156 @@
+Residue conformations -------------------------------------------
+A44 : GLY
+A45 : LEU
+A46 : PRO
+A47 : ASN
+A48 : ASN
+A49 : THR
+A50 : ALA
+A51 : SER
+A52 : TRP
+A53 : PHE
+A54 : THR
+A55 : ALA
+A56 : LEU
+A57 : THR
+A58 : GLN
+A59 : HIS
+A60 : GLY
+A61 : LYS
+A62 : GLU
+A63 : ASP
+A64 : LEU
+A65 : LYS
+A66 : PHE
+A67 : PRO
+A68 : ARG
+A69 : GLY
+A70 : GLN
+A71 : GLY
+A72 : VAL
+A73 : PRO
+A74 : ILE
+A75 : ASN
+A76 : THR
+A77 : ASN
+A78 : SER
+A79 : SER
+A80 : PRO
+A81 : ASP
+A82 : ASP
+A83 : GLN
+A84 : ILE
+A85 : GLY
+A86 : TYR
+A87 : TYR
+A88 : ARG
+A89 : ARG
+A90 : ALA
+A91 : THR
+A92 : ARG
+A93 : ARG
+A94 : ILE
+A95 : ARG
+A96 : GLY
+A97 : GLY
+A98 : ASP
+A99 : GLY
+A100 : LYS
+A101 : MET
+A102 : LYS
+A103 : ASP
+A104 : LEU
+A105 : SER
+A106 : PRO
+A107 : ARG
+A108 : TRP
+A109 : TYR
+A110 : PHE
+A111 : TYR
+A112 : TYR
+A113 : LEU
+A114 : GLY
+A115 : THR
+A116 : GLY
+A117 : PRO
+A118 : GLU
+A119 : ALA
+A120 : GLY
+A121 : LEU
+A122 : PRO
+A123 : TYR
+A124 : GLY
+A125 : ALA
+A126 : ASN
+A127 : LYS
+A128 : ASP
+A129 : GLY
+A130 : ILE
+A131 : ILE
+A132 : TRP
+A133 : VAL
+A134 : ALA
+A135 : THR
+A136 : GLU
+A137 : GLY
+A138 : ALA
+A139 : LEU
+A140 : ASN
+A141 : THR
+A142 : PRO
+A143 : LYS
+A144 : ASP
+A145 : HIS
+A146 : ILE
+A147 : GLY
+A148 : THR
+A149 : ARG
+A150 : ASN
+A151 : PRO
+A152 : ALA
+A153 : ASN
+A154 : ASN
+A155 : ALA
+A156 : ALA
+A157 : ILE
+A158 : VAL
+A159 : LEU
+A160 : GLN
+A161 : LEU
+A162 : PRO
+A163 : GLN
+A164 : GLY
+A165 : THR
+A166 : THR
+A167 : LEU
+A168 : PRO
+A169 : LYS
+A170 : GLY
+A171 : PHE
+A172 : TYR
+A173 : ALA
+A174 : GLU
+A175 : GLY
+A176 : SER
+A177 : ARG
+A178 : GLY
+A179 : GLY
+A180 : SER
+B1 : U C2p_exo anti
+B2 : C C1p_exo anti
+B3 : U C3p_exo anti
+B4 : C C3p_endo anti
+B5 : U C3p_exo anti
+B6 : A C2p_exo anti
+B7 : A C4p_exo syn
+B8 : A C4p_exo syn
+B9 : C C2p_exo anti
+B10 : G C2p_endo syn
+Adjacent stackings ----------------------------------------------
+B1-B2 : adjacent_5p upward 
+B7-B8 : adjacent_5p inward 
+Non-Adjacent stackings ------------------------------------------
+Number of stackings = 2
+Number of adjacent stackings = 2
+Number of non adjacent stackings = 0
+Base-pairs ------------------------------------------------------

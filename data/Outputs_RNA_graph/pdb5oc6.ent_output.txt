@@ -1,0 +1,146 @@
+Residue conformations -------------------------------------------
+A351 : GLY
+A352 : VAL
+A353 : ILE
+A354 : LYS
+A355 : MET
+A356 : ALA
+A357 : VAL
+A358 : LYS
+A359 : PHE
+A360 : ASP
+A361 : ARG
+A362 : ARG
+A363 : ALA
+A364 : TYR
+A365 : PRO
+A366 : ALA
+A367 : GLN
+A368 : ILE
+A369 : THR
+A370 : PRO
+A371 : LYS
+A372 : MET
+A373 : CYS
+A374 : LEU
+A375 : LEU
+A376 : GLU
+A377 : TRP
+A378 : CYS
+A379 : ARG
+A380 : ARG
+A381 : GLU
+A382 : LYS
+A383 : LEU
+A384 : ALA
+A385 : GLN
+A386 : PRO
+A387 : VAL
+A388 : TYR
+A389 : GLU
+A390 : THR
+A391 : VAL
+A392 : GLN
+A393 : ARG
+A394 : PRO
+A395 : LEU
+A396 : ASP
+A397 : ARG
+A398 : LEU
+A399 : PHE
+A400 : SER
+A401 : SER
+A402 : ILE
+A403 : VAL
+A404 : THR
+A405 : VAL
+A406 : ALA
+A407 : GLU
+A408 : GLN
+A409 : LYS
+A410 : TYR
+A411 : GLN
+A412 : SER
+A413 : THR
+A414 : LEU
+A415 : TRP
+A416 : ASP
+A417 : LYS
+A418 : SER
+A419 : LYS
+A420 : LYS
+A421 : LEU
+A422 : ALA
+A423 : GLU
+A424 : GLN
+A425 : ALA
+A426 : ALA
+A427 : ALA
+A428 : ILE
+A429 : VAL
+A430 : CYS
+A431 : LEU
+A432 : ARG
+A433 : SER
+A434 : GLN
+A435 : GLY
+A436 : LEU
+A437 : PRO
+A438 : GLU
+A439 : GLY
+A440 : ARG
+B1 : C C3p_endo anti
+B2 : G C3p_endo anti
+B3 : A C3p_endo anti
+B4 : A C3p_endo anti
+B5 : C C3p_endo anti
+B6 : U C3p_endo anti
+B7 : U C3p_endo anti
+B8 : C C3p_endo anti
+B9 : G C3p_endo anti
+B10 : C C3p_endo anti
+B11 : G C3p_exo anti
+C1 : C C2p_exo anti
+C2 : G C3p_endo anti
+C3 : A C3p_endo anti
+C4 : A C3p_endo anti
+C5 : C C3p_endo anti
+C6 : U C3p_endo anti
+C7 : U C3p_endo anti
+C8 : C C3p_endo anti
+C9 : G C3p_endo anti
+C10 : C C3p_endo anti
+C11 : G C3p_endo anti
+Adjacent stackings ----------------------------------------------
+B1-B2 : adjacent_5p upward 
+B2-B3 : adjacent_5p upward 
+B3-B4 : adjacent_5p upward 
+B4-B5 : adjacent_5p upward 
+B6-B7 : adjacent_5p upward 
+B7-B8 : adjacent_5p upward 
+B8-B9 : adjacent_5p upward 
+B9-B10 : adjacent_5p upward 
+B10-B11 : adjacent_5p upward 
+C1-C2 : adjacent_5p upward 
+C2-C3 : adjacent_5p upward 
+C3-C4 : adjacent_5p upward 
+C4-C5 : adjacent_5p upward 
+C5-C6 : adjacent_5p upward 
+C6-C7 : adjacent_5p upward 
+C8-C9 : adjacent_5p upward 
+C9-C10 : adjacent_5p upward 
+C10-C11 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+B9-C2 : outward 
+Number of stackings = 19
+Number of adjacent stackings = 18
+Number of non adjacent stackings = 1
+Base-pairs ------------------------------------------------------
+B1-C9 : C-G Ww/Ww pairing antiparallel cis XIX 
+B2-C8 : G-C Ww/Ww pairing antiparallel cis XIX 
+B3-C7 : A-U Ww/Ww pairing antiparallel cis XX 
+B4-C6 : A-U Ww/Ww pairing antiparallel cis XX 
+B6-C4 : U-A Ww/Ww pairing antiparallel cis XX 
+B7-C3 : U-A Ww/Ww pairing antiparallel cis XX 
+B8-C2 : C-G Ww/Ww pairing antiparallel cis 
+B9-C1 : G-C Ww/Ww pairing antiparallel cis XIX 

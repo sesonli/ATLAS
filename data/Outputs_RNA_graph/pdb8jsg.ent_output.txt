@@ -1,0 +1,5592 @@
+Residue conformations -------------------------------------------
+'1'19 : GLU
+'1'20 : ILE
+'1'21 : ASP
+'1'22 : TYR
+'1'23 : LYS
+'1'24 : ASP
+'1'25 : ILE
+'1'26 : ALA
+'1'27 : THR
+'1'28 : LEU
+'1'29 : LYS
+'1'30 : ASN
+'1'31 : TYR
+'1'32 : ILE
+'1'33 : THR
+'1'34 : GLU
+'1'35 : SER
+'1'36 : GLY
+'1'37 : LYS
+'1'38 : ILE
+'1'39 : VAL
+'1'40 : PRO
+'1'41 : SER
+'1'42 : ARG
+'1'43 : ILE
+'1'44 : THR
+'1'45 : GLY
+'1'46 : THR
+'1'47 : ARG
+'1'48 : ALA
+'1'49 : LYS
+'1'50 : TYR
+'1'51 : GLN
+'1'52 : ARG
+'1'53 : GLN
+'1'54 : LEU
+'1'55 : ALA
+'1'56 : ARG
+'1'57 : ALA
+'1'58 : ILE
+'1'59 : LYS
+'1'60 : ARG
+'1'61 : ALA
+'1'62 : ARG
+'1'63 : TYR
+'1'64 : LEU
+'1'65 : SER
+'1'66 : LEU
+'1'67 : LEU
+'1'68 : PRO
+'1'69 : TYR
+'1'70 : THR
+'1'71 : ASP
+'1'72 : ARG
+'1'73 : HIS
+'2'3 : ILE
+'2'4 : LYS
+'2'5 : VAL
+'2'6 : ARG
+'2'7 : GLU
+'2'8 : ASN
+'2'9 : GLU
+'2'10 : PRO
+'2'11 : PHE
+'2'12 : ASP
+'2'13 : VAL
+'2'14 : ALA
+'2'15 : LEU
+'2'16 : ARG
+'2'17 : ARG
+'2'18 : PHE
+'2'19 : LYS
+'2'20 : ARG
+'2'21 : SER
+'2'22 : CYS
+'2'23 : GLU
+'2'24 : LYS
+'2'25 : ALA
+'2'26 : GLY
+'2'27 : VAL
+'2'28 : LEU
+'2'29 : ALA
+'2'30 : GLU
+'2'31 : VAL
+'2'32 : ARG
+'2'33 : ARG
+'2'34 : ARG
+'2'35 : GLU
+'2'36 : PHE
+'2'37 : TYR
+'2'38 : GLU
+'2'39 : LYS
+'2'40 : PRO
+'2'41 : THR
+'2'42 : THR
+'2'43 : GLU
+'2'44 : ARG
+'2'45 : LYS
+'2'46 : ARG
+'2'47 : ALA
+'2'48 : LYS
+'2'49 : ALA
+'2'50 : SER
+'2'51 : ALA
+'2'52 : VAL
+'2'53 : LYS
+'3'2 : ASN
+'3'3 : ILE
+'3'4 : LYS
+'3'5 : SER
+'3'6 : ALA
+'3'7 : LYS
+'3'8 : LYS
+'3'9 : ARG
+'3'10 : ALA
+'3'11 : ILE
+'3'12 : GLN
+'3'13 : SER
+'3'14 : GLU
+'3'15 : LYS
+'3'16 : ALA
+'3'17 : ARG
+'3'18 : LYS
+'3'19 : HIS
+'3'20 : ASN
+'3'21 : ALA
+'3'22 : SER
+'3'23 : ARG
+'3'24 : ARG
+'3'25 : SER
+'3'26 : MET
+'3'27 : MET
+'3'28 : ARG
+'3'29 : THR
+'3'30 : PHE
+'3'31 : ILE
+'3'32 : LYS
+'3'33 : LYS
+'3'34 : VAL
+'3'35 : TYR
+'3'36 : ALA
+'3'37 : ALA
+'3'38 : ILE
+'3'39 : GLU
+'3'40 : ALA
+'3'41 : GLY
+'3'42 : ASP
+'3'43 : LYS
+'3'44 : ALA
+'3'45 : ALA
+'3'46 : ALA
+'3'47 : GLN
+'3'48 : LYS
+'3'49 : ALA
+'3'50 : PHE
+'3'51 : ASN
+'3'52 : GLU
+'3'53 : MET
+'3'54 : GLN
+'3'55 : PRO
+'3'56 : ILE
+'3'57 : VAL
+'3'58 : ASP
+'3'59 : ARG
+'3'60 : GLN
+'3'61 : ALA
+'3'62 : ALA
+'3'63 : LYS
+'3'64 : GLY
+'3'65 : LEU
+'3'66 : ILE
+'3'67 : HIS
+'3'68 : LYS
+'3'69 : ASN
+'3'70 : LYS
+'3'71 : ALA
+'3'72 : ALA
+'3'73 : ARG
+'3'74 : HIS
+'3'75 : LYS
+'3'76 : ALA
+'3'77 : ASN
+'3'78 : LEU
+'3'79 : THR
+'3'80 : ALA
+'3'81 : GLN
+'3'82 : ILE
+'3'83 : ASN
+'3'84 : LYS
+'3'85 : LEU
+'3'86 : ALA
+A14 : ARG
+A15 : ILE
+A16 : ASN
+A17 : GLY
+A18 : GLU
+A19 : ILE
+A20 : ARG
+A21 : ALA
+A22 : GLN
+A23 : GLU
+A24 : VAL
+A25 : ARG
+A26 : LEU
+A27 : THR
+A28 : GLY
+A29 : LEU
+A30 : GLU
+A31 : GLY
+A32 : GLU
+A33 : GLN
+A34 : LEU
+A35 : GLY
+A36 : ILE
+A37 : VAL
+A38 : SER
+A39 : LEU
+A40 : ARG
+A41 : GLU
+A42 : ALA
+A43 : LEU
+A44 : GLU
+A45 : LYS
+A46 : ALA
+A47 : GLU
+A48 : GLU
+A49 : ALA
+A50 : GLY
+A51 : VAL
+A52 : ASP
+A53 : LEU
+A54 : VAL
+A55 : GLU
+A56 : ILE
+A57 : SER
+A58 : PRO
+A59 : ASN
+A60 : ALA
+A61 : GLU
+A62 : PRO
+A63 : PRO
+A64 : VAL
+A65 : CYS
+A66 : ARG
+A67 : ILE
+A68 : MET
+A69 : ASP
+A70 : TYR
+A71 : GLY
+A72 : LYS
+A73 : PHE
+A74 : LEU
+A75 : TYR
+A76 : GLU
+A77 : LYS
+A78 : SER
+A79 : LYS
+A80 : SER
+A81 : SER
+A82 : LYS
+A83 : GLU
+A84 : GLN
+A85 : LYS
+A86 : LYS
+A87 : LYS
+A88 : GLN
+A89 : LYS
+A90 : VAL
+A91 : ILE
+A92 : GLN
+A93 : VAL
+A94 : LYS
+A95 : GLU
+A96 : ILE
+A97 : LYS
+A98 : PHE
+A99 : ARG
+A100 : PRO
+A101 : GLY
+A102 : THR
+A103 : ASP
+A104 : GLU
+A105 : GLY
+A106 : ASP
+A107 : TYR
+A108 : GLN
+A109 : VAL
+A110 : LYS
+A111 : LEU
+A112 : ARG
+A113 : SER
+A114 : LEU
+A115 : ILE
+A116 : ARG
+A117 : PHE
+A118 : LEU
+A119 : GLU
+A120 : GLU
+A121 : GLY
+A122 : ASP
+A123 : LYS
+A124 : ALA
+A125 : LYS
+A126 : ILE
+A127 : THR
+A128 : LEU
+A129 : ARG
+A130 : PHE
+A131 : ARG
+A132 : GLY
+A133 : ARG
+A134 : GLU
+A135 : MET
+A136 : ALA
+A137 : HIS
+A138 : GLN
+A139 : GLN
+A140 : ILE
+A141 : GLY
+A142 : MET
+A143 : GLU
+A144 : VAL
+A145 : LEU
+A146 : ASN
+A147 : ARG
+A148 : VAL
+A149 : LYS
+A150 : ASP
+A151 : ASP
+A152 : LEU
+A153 : GLN
+A154 : GLU
+A155 : LEU
+A156 : ALA
+A157 : VAL
+A158 : VAL
+A159 : GLU
+A160 : SER
+A161 : PHE
+A162 : PRO
+A163 : THR
+A164 : LYS
+A165 : ILE
+A166 : GLU
+A167 : GLY
+A168 : ARG
+A169 : GLN
+A170 : MET
+A171 : ILE
+A172 : MET
+A173 : VAL
+A174 : LEU
+A175 : ALA
+A176 : PRO
+A177 : LYS
+A178 : LYS
+A179 : LYS
+A180 : GLN
+P3 : LYS
+P4 : ILE
+P5 : ARG
+P6 : THR
+P7 : LEU
+P8 : GLN
+P9 : GLY
+P10 : ARG
+P11 : VAL
+P12 : VAL
+P13 : SER
+P14 : ASP
+P15 : LYS
+P16 : MET
+P17 : GLU
+P18 : LYS
+P19 : SER
+P20 : ILE
+P21 : VAL
+P22 : VAL
+P23 : ALA
+P24 : ILE
+P25 : GLU
+P26 : ARG
+P27 : PHE
+P28 : VAL
+P29 : LYS
+P30 : HIS
+P31 : PRO
+P32 : ILE
+P33 : TYR
+P34 : GLY
+P35 : LYS
+P36 : PHE
+P37 : ILE
+P38 : LYS
+P39 : ARG
+P40 : THR
+P41 : THR
+P42 : LYS
+P43 : LEU
+P44 : HIS
+P45 : VAL
+P46 : HIS
+P47 : ASP
+P48 : GLU
+P49 : ASN
+P50 : ASN
+P51 : GLU
+P52 : CYS
+P53 : GLY
+P54 : ILE
+P55 : GLY
+P56 : ASP
+P57 : VAL
+P58 : VAL
+P59 : GLU
+P60 : ILE
+P61 : ARG
+P62 : GLU
+P63 : CYS
+P64 : ARG
+P65 : PRO
+P66 : LEU
+P67 : SER
+P68 : LYS
+P69 : THR
+P70 : LYS
+P71 : SER
+P72 : TRP
+P73 : THR
+P74 : LEU
+P75 : VAL
+P76 : ARG
+P77 : VAL
+P78 : VAL
+P79 : GLU
+P80 : LYS
+P81 : ALA
+P82 : VAL
+g2 : A C3p_endo anti
+g3 : A C3p_endo syn
+g4 : U C2p_endo anti
+g5 : U C3p_endo anti
+g6 : G C3p_endo syn
+g7 : A C2p_endo anti
+g8 : A C2p_endo anti
+g9 : G C3p_endo anti
+g10 : A C3p_endo anti
+g11 : G C3p_endo anti
+g12 : U C3p_endo anti
+g13 : U C2p_endo syn
+g14 : U C3p_endo anti
+g15 : G C3p_endo anti
+g16 : A C3p_endo anti
+g17 : U C3p_endo anti
+g18 : C C3p_endo anti
+g19 : A C3p_endo anti
+g20 : U C3p_endo anti
+g21 : G C3p_endo anti
+g22 : G C3p_endo anti
+g23 : C C3p_endo anti
+g24 : U C3p_endo anti
+g25 : C C3p_endo anti
+g26 : A C3p_endo anti
+g27 : G C3p_endo anti
+g28 : A C3p_endo anti
+g29 : U C3p_endo anti
+g30 : U C2p_endo anti
+g31 : G C3p_exo anti
+g32 : A C3p_endo anti
+g33 : A C3p_endo anti
+g34 : C C3p_endo anti
+g35 : G C3p_endo anti
+g36 : C C3p_endo anti
+g37 : U C3p_endo anti
+g38 : G C3p_endo anti
+g39 : G C3p_endo anti
+g40 : C C3p_endo anti
+g41 : G C3p_endo anti
+g42 : G C3p_endo anti
+g43 : C C3p_endo anti
+g44 : A C3p_endo anti
+g45 : G C3p_endo anti
+g46 : G C3p_endo anti
+g47 : C C2p_endo anti
+g48 : C C2p_endo anti
+g49 : U C2p_endo anti
+g50 : A C2p_endo anti
+g51 : A C2p_endo anti
+g52 : C C3p_endo anti
+g53 : A C3p_endo anti
+g54 : C C3p_endo anti
+g55 : A C3p_endo anti
+g56 : U C3p_endo anti
+g57 : G C3p_endo anti
+g58 : C C3p_endo anti
+g59 : A C3p_endo anti
+g60 : A C2p_endo syn
+g61 : G C3p_endo anti
+g62 : U C3p_endo anti
+g63 : C C3p_endo anti
+g64 : G C2p_endo anti
+g65 : A C2p_endo anti
+g66 : A C3p_endo anti
+g67 : C C3p_endo anti
+g68 : G C3p_endo anti
+g69 : G C3p_endo anti
+g70 : U C2p_endo anti
+g71 : A C3p_endo anti
+g72 : A C3p_endo syn
+g73 : C C2p_endo anti
+g74 : A C3p_endo anti
+g75 : G C3p_endo anti
+g76 : G C3p_endo anti
+g77 : A C3p_endo syn
+g78 : A C3p_endo anti
+g79 : G C3p_endo anti
+g80 : A C3p_endo anti
+g81 : A C3p_endo anti
+g82 : G C3p_endo anti
+g83 : C C2p_endo anti
+g84 : U C2p_endo anti
+g85 : U C2p_endo anti
+g86 : G C2p_endo syn
+g87 : C C3p_endo anti
+g88 : U C3p_endo anti
+g89 : U C3p_endo anti
+g90 : C C3p_endo anti
+g91 : U C3p_endo anti
+g92 : U C3p_endo anti
+g93 : U C3p_endo anti
+g94 : G C2p_endo anti
+g95 : C C3p_endo anti
+g96 : U C3p_endo anti
+g97 : G C3p_endo anti
+g98 : A C3p_endo anti
+g99 : C C3p_endo anti
+g100 : G C3p_endo anti
+g101 : A C3p_endo anti
+g102 : G C3p_endo anti
+g103 : U C3p_endo anti
+g104 : G C3p_endo anti
+g105 : G C3p_endo anti
+g106 : C C3p_endo anti
+g107 : G C3p_endo anti
+g108 : G C3p_endo syn
+g109 : A C2p_endo syn
+g110 : C C3p_endo anti
+g111 : G C3p_endo anti
+g112 : G C3p_endo anti
+g113 : G C3p_endo anti
+g114 : U C3p_endo anti
+g115 : G C2p_endo anti
+g116 : A C2p_exo anti
+g117 : G C3p_endo syn
+g118 : U C3p_endo anti
+g119 : A C2p_endo anti
+g120 : A C2p_endo syn
+g121 : U C3p_endo anti
+g122 : G C3p_endo anti
+g123 : U C3p_endo anti
+g124 : C C3p_endo anti
+g125 : U C3p_endo anti
+g126 : G C3p_endo anti
+g127 : G C3p_endo anti
+g128 : G C3p_endo anti
+g129 : A C2p_endo anti
+g130 : A C2p_endo syn
+g131 : A C3p_endo anti
+g132 : C C3p_endo anti
+g133 : U C3p_endo anti
+g134 : G C3p_endo anti
+g135 : C C3p_endo anti
+g136 : C C3p_endo anti
+g137 : U C3p_endo anti
+g138 : G C3p_endo anti
+g139 : A C3p_endo anti
+g140 : U C3p_endo anti
+g141 : G C3p_endo anti
+g142 : G C3p_endo anti
+g143 : A C3p_endo anti
+g144 : G C3p_endo anti
+g145 : G C3p_endo anti
+g146 : G C3p_endo anti
+g147 : G C3p_endo anti
+g148 : G C3p_endo anti
+g149 : A C3p_endo anti
+g150 : U C3p_endo anti
+g151 : A C3p_endo anti
+g152 : A C3p_endo anti
+g153 : C C3p_endo anti
+g154 : U C3p_endo anti
+g155 : A C3p_endo anti
+g156 : C C3p_endo anti
+g157 : U C3p_endo anti
+g158 : G C3p_endo anti
+g159 : G C3p_endo anti
+g160 : A C3p_endo anti
+g161 : A C3p_endo anti
+g162 : A C3p_endo anti
+g163 : C C3p_endo anti
+g164 : G C3p_endo anti
+g165 : G C3p_endo anti
+g166 : U C3p_endo anti
+g167 : A C3p_endo anti
+g168 : G C3p_endo anti
+g169 : C C3p_endo anti
+g170 : U C3p_endo anti
+g171 : A C3p_endo anti
+g172 : A C3p_endo anti
+g173 : U C2p_endo anti
+g174 : A C3p_endo anti
+g175 : C C3p_endo anti
+g176 : C C3p_endo anti
+g177 : G C3p_endo syn
+g178 : C C3p_endo anti
+g179 : A C3p_endo anti
+g180 : U C3p_endo anti
+g181 : A C2p_endo anti
+g182 : A C2p_endo anti
+g183 : C C2p_endo anti
+g184 : G C3p_endo anti
+g185 : U C3p_endo anti
+g186 : C C3p_endo anti
+g187 : G C3p_endo anti
+g188 : C C3p_endo syn
+g189 : A C3p_endo anti
+g190 : A C3p_endo anti
+g191 : G C3p_endo anti
+g192 : A C3p_endo anti
+g193 : C C3p_endo anti
+g194 : C C3p_endo anti
+g195 : A C3p_endo anti
+g196 : A C3p_endo anti
+g197 : A C2p_endo anti
+g198 : G C3p_endo anti
+g199 : A C3p_endo anti
+g200 : G C3p_endo anti
+g201 : G C3p_endo anti
+g202 : G C3p_endo anti
+g203 : G C3p_endo anti
+g204 : G C3p_endo anti
+g205 : A C3p_endo anti
+g206 : C C3p_endo anti
+g207 : C C3p_endo anti
+g208 : U C3p_endo anti
+g209 : U C3p_endo anti
+g210 : C C2p_endo anti
+g211 : G C3p_endo syn
+g212 : G C3p_endo anti
+g213 : G C3p_endo anti
+g214 : C C3p_endo anti
+g215 : C C3p_endo anti
+g216 : U C3p_endo anti
+g217 : C C3p_endo anti
+g218 : U C3p_endo anti
+g219 : U C3p_endo anti
+g220 : G C3p_endo anti
+g221 : C C3p_endo anti
+g222 : C C3p_endo anti
+g223 : A C3p_endo anti
+g224 : U C3p_endo syn
+g225 : C C3p_endo anti
+g226 : G C3p_endo anti
+g227 : G C3p_endo anti
+g228 : A C3p_endo anti
+g229 : U C3p_endo anti
+g230 : G C3p_endo anti
+g231 : U C3p_endo anti
+g232 : G C3p_endo anti
+g233 : C C3p_endo anti
+g234 : C C3p_endo anti
+g235 : C C3p_endo anti
+g236 : A C3p_endo anti
+g237 : G C3p_endo anti
+g238 : A C3p_endo anti
+g239 : U C3p_endo anti
+g240 : G C3p_endo anti
+g241 : G C3p_endo anti
+g242 : G C3p_endo anti
+g243 : A C2p_endo syn
+g244 : U C2p_endo anti
+g245 : U C3p_endo anti
+g246 : A C2p_endo anti
+g247 : G C3p_endo anti
+g248 : C C3p_endo anti
+g249 : U C3p_endo anti
+g250 : A C2p_endo syn
+g251 : G C2p_endo anti
+g252 : U C3p_endo anti
+g253 : A C3p_endo anti
+g254 : G C3p_endo anti
+g255 : G C3p_endo anti
+g256 : U C3p_endo anti
+g257 : G C3p_endo anti
+g258 : G C3p_endo anti
+g259 : G C3p_endo anti
+g260 : G C3p_endo anti
+g261 : U C3p_endo anti
+g262 : A C2p_exo syn
+g263 : A C3p_endo syn
+g264 : C C3p_endo anti
+g265 : G C3p_endo anti
+g266 : G C2p_endo syn
+g267 : C C3p_endo anti
+g268 : U C3p_endo anti
+g269 : C C3p_endo anti
+g270 : A C3p_endo anti
+g271 : C C3p_endo anti
+g272 : C C3p_endo anti
+g273 : U C3p_endo anti
+g274 : A C2p_endo anti
+g275 : G C3p_endo anti
+g276 : G C3p_endo anti
+g277 : C C3p_endo anti
+g278 : G C3p_endo anti
+g279 : A C2p_endo anti
+g280 : C C2p_endo anti
+g281 : G C2p_endo anti
+g282 : A C3p_endo anti
+g283 : U C3p_endo anti
+g284 : C C3p_endo anti
+g285 : C C3p_endo anti
+g286 : C C3p_endo anti
+g287 : U C3p_endo anti
+g288 : A C3p_endo anti
+g289 : G C3p_endo anti
+g290 : C C3p_endo anti
+g291 : U C3p_endo anti
+g292 : G C3p_endo anti
+g293 : G C3p_endo anti
+g294 : U C3p_endo anti
+g295 : C C3p_endo anti
+g296 : U C3p_endo anti
+g297 : G C3p_endo anti
+g298 : A C3p_endo anti
+g299 : G C3p_endo anti
+g300 : A C3p_endo anti
+g301 : G C3p_endo anti
+g302 : G C3p_endo anti
+g303 : A C3p_endo anti
+g304 : U C3p_endo anti
+g305 : G C2p_endo anti
+g306 : A C3p_endo anti
+g307 : C C3p_endo anti
+g308 : C C3p_endo anti
+g309 : A C3p_endo anti
+g310 : G C3p_endo anti
+g311 : C C3p_endo anti
+g312 : C C3p_endo anti
+g313 : A C3p_endo anti
+g314 : C C3p_endo anti
+g315 : A C2p_endo anti
+g316 : C C3p_endo anti
+g317 : U C3p_endo anti
+g318 : G C3p_endo anti
+g319 : G C3p_endo anti
+g320 : A C3p_endo anti
+g321 : A C3p_endo anti
+g322 : C C3p_endo anti
+g323 : U C3p_endo anti
+g324 : G C3p_endo anti
+g325 : A C3p_endo anti
+g326 : G C3p_endo anti
+g327 : A C2p_endo anti
+g328 : C C2p_endo syn
+g329 : A C2p_endo anti
+g330 : C C3p_endo anti
+g331 : G C3p_endo anti
+g332 : G C3p_endo anti
+g333 : U C3p_endo anti
+g334 : C C3p_endo anti
+g335 : C C3p_endo anti
+g336 : A C3p_endo anti
+g337 : G C3p_endo anti
+g338 : A C3p_endo anti
+g339 : C C3p_endo anti
+g340 : U C3p_endo anti
+g341 : C C3p_endo anti
+g342 : C C3p_endo anti
+g343 : U C3p_endo anti
+g344 : A C2p_endo syn
+g345 : C C2p_endo anti
+g346 : G C3p_endo syn
+g347 : G C3p_endo anti
+g348 : G C3p_endo anti
+g349 : A C3p_endo anti
+g350 : G C3p_endo anti
+g351 : G C2p_endo anti
+g352 : C C3p_endo anti
+g353 : A C2p_exo anti
+g354 : G C3p_endo anti
+g355 : C C3p_endo anti
+g356 : A C3p_endo anti
+g357 : G C3p_endo anti
+g358 : U C3p_endo anti
+g359 : G C3p_endo anti
+g360 : G C3p_endo anti
+g361 : G C3p_endo anti
+g362 : G C3p_endo anti
+g363 : A C2p_exo anti
+g364 : A C3p_endo anti
+g365 : U C3p_endo anti
+g366 : A C2p_endo anti
+g367 : U C2p_endo syn
+g368 : U C3p_endo anti
+g369 : G C3p_endo anti
+g370 : C C3p_endo anti
+g371 : A C3p_endo anti
+g372 : C C2p_endo anti
+g373 : A C3p_endo anti
+g374 : A C3p_endo anti
+g375 : U C3p_endo anti
+g376 : G C3p_endo anti
+g377 : G C3p_endo anti
+g378 : G C3p_endo anti
+g379 : C C3p_endo anti
+g380 : G C3p_endo anti
+g381 : C C3p_endo anti
+g382 : A C3p_endo anti
+g383 : A C3p_endo anti
+g384 : G C3p_endo anti
+g385 : C C3p_endo anti
+g386 : C C3p_endo anti
+g387 : U C3p_endo anti
+g388 : G C2p_endo anti
+g389 : A C3p_endo anti
+g390 : U C3p_endo anti
+g391 : G C3p_endo anti
+g392 : C C3p_endo anti
+g393 : A C3p_endo anti
+g394 : G C3p_endo anti
+g395 : C C3p_endo anti
+g396 : C C3p_endo anti
+g397 : A C3p_endo syn
+g398 : U C3p_endo anti
+g399 : G C3p_endo anti
+g400 : C C3p_endo anti
+g401 : C C3p_endo anti
+g402 : G C3p_endo anti
+g403 : C C3p_endo anti
+g404 : G C3p_endo anti
+g405 : U C3p_endo anti
+g406 : G C3p_endo anti
+g407 : U C3p_endo anti
+g408 : A C3p_endo anti
+g409 : U C3p_endo anti
+g410 : G C3p_endo anti
+g411 : A C2p_endo syn
+g412 : A C2p_endo anti
+g413 : G C2p_endo anti
+g414 : A C3p_endo anti
+g415 : A C3p_endo anti
+g416 : G C3p_endo anti
+g417 : G C3p_endo anti
+g418 : C C3p_endo anti
+g419 : C C3p_endo anti
+g420 : U C3p_endo anti
+g421 : U C2p_endo anti
+g422 : C C2p_endo anti
+g423 : G C3p_endo syn
+g424 : G C3p_endo anti
+g425 : G C3p_endo anti
+g426 : U C3p_endo anti
+g427 : U C3p_endo anti
+g428 : G C2p_endo anti
+g429 : U C2p_endo syn
+g430 : A C3p_endo anti
+g431 : A C3p_endo anti
+g432 : A C3p_endo anti
+g433 : G C3p_endo anti
+g434 : U C3p_endo anti
+g435 : A C3p_endo anti
+g436 : C C3p_endo anti
+g437 : U C3p_endo anti
+g438 : U C2p_endo anti
+g439 : U C3p_endo anti
+g440 : C C3p_endo anti
+g441 : A C3p_endo anti
+g442 : G C3p_endo anti
+g443 : C C3p_endo anti
+g444 : G C3p_endo anti
+g445 : G C3p_endo anti
+g446 : G C3p_endo anti
+g447 : G C3p_endo anti
+g448 : A C3p_endo anti
+g449 : G C3p_endo anti
+g450 : G C3p_endo anti
+g451 : A C2p_endo anti
+g452 : A C3p_endo anti
+g453 : G C3p_endo anti
+g454 : G C3p_endo anti
+g455 : G C3p_endo anti
+g456 : A C3p_endo anti
+g457 : G C3p_endo anti
+g458 : U C3p_endo anti
+g459 : A C3p_endo anti
+g460 : A C3p_endo anti
+g461 : A C3p_endo anti
+g462 : G C3p_endo anti
+g463 : U C3p_endo anti
+g464 : U C3p_endo anti
+g465 : A C2p_endo syn
+g466 : A C3p_endo anti
+g467 : U C3p_endo anti
+g468 : A C3p_endo syn
+g469 : C C3p_endo anti
+g470 : C C3p_endo anti
+g471 : U C3p_endo anti
+g472 : U C3p_endo anti
+g473 : U C3p_endo anti
+g474 : G C3p_endo anti
+g475 : C C3p_endo anti
+g476 : U C3p_endo anti
+g477 : C C3p_endo anti
+g478 : A C3p_endo anti
+g479 : U C3p_endo anti
+g480 : U C3p_endo anti
+g481 : G C2p_endo anti
+g482 : A C3p_endo anti
+g483 : C C3p_endo anti
+g484 : G C2p_endo anti
+g485 : U C2p_endo anti
+g486 : U C3p_endo anti
+g487 : A C3p_endo anti
+g488 : C C3p_endo anti
+g489 : C C3p_endo anti
+g490 : C C3p_endo anti
+g491 : G C3p_endo anti
+g492 : C C3p_endo anti
+g493 : A C3p_endo anti
+g494 : G C3p_endo anti
+g495 : A C2p_endo anti
+g496 : A C4p_exo syn
+g497 : G C3p_endo syn
+g498 : A C3p_endo syn
+g499 : A C2p_endo anti
+g500 : G C3p_endo anti
+g501 : C C3p_endo anti
+g502 : A C3p_endo anti
+g503 : C C3p_endo anti
+g504 : C C3p_endo anti
+g505 : G C3p_endo anti
+g506 : G C3p_endo anti
+g507 : C C3p_endo anti
+g508 : U C2p_endo anti
+g509 : A C3p_endo anti
+g510 : A C3p_endo anti
+g511 : C C2p_endo anti
+g512 : U C3p_endo anti
+g513 : C C3p_endo anti
+g514 : C C3p_endo anti
+g515 : G C3p_endo anti
+g516 : U C3p_endo anti
+g517 : G C2p_endo anti
+g518 : C C2p_endo syn
+g519 : C C3p_endo anti
+g520 : A C3p_endo anti
+g521 : G C3p_endo anti
+g522 : C C3p_endo anti
+g523 : A C3p_endo anti
+g524 : G C3p_endo anti
+g525 : C C3p_endo anti
+g526 : C C3p_endo anti
+g527 : G C3p_endo anti
+g528 : C C3p_endo anti
+g529 : G C3p_endo anti
+g530 : G C3p_endo syn
+g531 : U C2p_endo anti
+g532 : A C2p_endo syn
+g533 : A C2p_endo syn
+g534 : U C3p_endo anti
+g535 : A C2p_endo anti
+g536 : C C3p_endo anti
+g537 : G C3p_endo anti
+g538 : G C3p_endo anti
+g539 : A C3p_endo anti
+g540 : G C3p_endo anti
+g541 : G C3p_endo anti
+g542 : G C3p_endo anti
+g543 : U C3p_endo anti
+g544 : G C3p_endo anti
+g545 : C C3p_endo anti
+g546 : A C3p_endo anti
+g547 : A C2p_endo anti
+g548 : G C3p_endo anti
+g549 : C C3p_endo anti
+g550 : G C3p_endo anti
+g551 : U C3p_endo anti
+g552 : U C3p_endo anti
+g553 : A C3p_endo anti
+g554 : A C3p_endo anti
+g555 : U C3p_endo anti
+g556 : C C3p_endo anti
+g557 : G C3p_endo anti
+g558 : G C3p_endo anti
+g559 : A C2p_endo syn
+g560 : A C2p_endo anti
+g561 : U C2p_endo anti
+g562 : U C2p_endo anti
+g563 : A C3p_endo syn
+g564 : C C2p_endo anti
+g565 : U C3p_endo anti
+g566 : G C2p_endo anti
+g567 : G C3p_endo anti
+g568 : G C3p_endo anti
+g569 : C C3p_endo anti
+g570 : G C3p_endo anti
+g571 : U C3p_endo anti
+g572 : A C2p_endo anti
+g573 : A C3p_endo syn
+g574 : A C3p_endo anti
+g575 : G C2p_endo syn
+g576 : C C2p_endo anti
+g577 : G C3p_endo anti
+g578 : C C3p_endo anti
+g579 : A C3p_endo anti
+g580 : C C3p_endo anti
+g581 : G C3p_endo anti
+g582 : C C3p_endo anti
+g583 : A C3p_endo anti
+g584 : G C3p_endo anti
+g585 : G C3p_endo anti
+g586 : C C3p_endo anti
+g587 : G C3p_endo anti
+g588 : G C3p_endo anti
+g589 : U C3p_endo anti
+g590 : U C3p_endo anti
+g591 : U C3p_endo anti
+g592 : G C3p_endo anti
+g593 : U C3p_endo anti
+g594 : U C3p_endo anti
+g595 : A C2p_endo syn
+g596 : A C3p_endo anti
+g597 : G C3p_endo anti
+g598 : U C3p_endo anti
+g599 : C C3p_endo anti
+g600 : A C3p_endo anti
+g601 : G C3p_endo anti
+g602 : A C3p_endo anti
+g603 : U C3p_endo anti
+g604 : G C3p_endo anti
+g605 : U C3p_endo anti
+g606 : G C3p_endo syn
+g607 : A C3p_endo anti
+g608 : A C3p_endo anti
+g609 : A C3p_endo syn
+g610 : U C3p_endo anti
+g611 : C C3p_endo anti
+g612 : C C3p_endo anti
+g613 : C C3p_endo anti
+g614 : C C3p_endo anti
+g615 : G C3p_endo anti
+g616 : G C3p_endo anti
+g617 : G C3p_endo anti
+g618 : C C3p_endo anti
+g619 : U C3p_endo anti
+g620 : C C3p_endo anti
+g621 : A C3p_endo anti
+g622 : A C3p_endo anti
+g623 : C C3p_endo anti
+g624 : C C3p_endo anti
+g625 : U C3p_endo anti
+g626 : G C3p_endo anti
+g627 : G C3p_endo anti
+g628 : G C4p_exo anti
+g629 : A C2p_exo anti
+g630 : A C3p_endo anti
+g631 : C C3p_endo anti
+g632 : U C3p_endo anti
+g633 : G C3p_endo anti
+g634 : C C3p_endo anti
+g635 : A C3p_endo anti
+g636 : U C3p_endo anti
+g637 : C C3p_endo anti
+g638 : U C3p_endo anti
+g639 : G C3p_endo anti
+g640 : A C3p_endo anti
+g641 : U C2p_endo anti
+g642 : A C3p_endo anti
+g643 : C C3p_endo anti
+g644 : U C3p_endo anti
+g645 : G C3p_endo anti
+g646 : G C3p_endo anti
+g647 : C C3p_endo anti
+g648 : A C3p_endo anti
+g649 : A C3p_endo anti
+g650 : G C3p_endo anti
+g651 : C C3p_endo anti
+g652 : U C2p_endo anti
+g653 : U C2p_endo anti
+g654 : G C3p_endo anti
+g655 : A C3p_endo anti
+g656 : G C3p_endo anti
+g657 : U C3p_endo anti
+g658 : C C3p_endo anti
+g659 : U C3p_endo anti
+g660 : C C3p_endo anti
+g661 : G C3p_endo anti
+g662 : U C3p_endo anti
+g663 : A C3p_endo anti
+g664 : G C3p_endo anti
+g665 : A C3p_endo anti
+g666 : G C3p_endo anti
+g667 : G C3p_endo anti
+g668 : G C3p_endo anti
+g669 : G C3p_endo anti
+g670 : G C3p_endo anti
+g671 : G C3p_endo anti
+g672 : U C3p_endo anti
+g673 : A C3p_endo anti
+g674 : G C3p_endo anti
+g675 : A C3p_endo anti
+g676 : A C3p_endo anti
+g677 : U C3p_endo anti
+g678 : U C3p_endo anti
+g679 : C C3p_endo anti
+g680 : C C3p_endo anti
+g681 : A C3p_endo anti
+g682 : G C3p_endo anti
+g683 : G C3p_endo anti
+g684 : U C3p_endo anti
+g685 : G C3p_endo anti
+g686 : U C2p_endo anti
+g687 : A C2p_endo anti
+g688 : G C3p_endo anti
+g689 : C C3p_endo anti
+g690 : G C3p_endo anti
+g691 : G C3p_endo syn
+g692 : U C3p_endo anti
+g693 : G C3p_endo anti
+g694 : A C3p_endo syn
+g695 : A C3p_endo anti
+g696 : A C3p_endo anti
+g697 : U C3p_endo anti
+g698 : G C3p_endo anti
+g699 : C C3p_endo anti
+g700 : G C3p_endo anti
+g701 : U C2p_endo anti
+g702 : A C2p_endo anti
+g703 : G C2p_endo syn
+g704 : A C3p_endo syn
+g705 : G C3p_endo anti
+g706 : A C3p_endo anti
+g707 : U C3p_endo anti
+g708 : C C3p_endo anti
+g709 : U C3p_endo anti
+g710 : G C3p_endo anti
+g711 : G C3p_endo anti
+g712 : A C3p_endo anti
+g713 : G C3p_endo anti
+g714 : G C3p_endo anti
+g715 : A C3p_endo anti
+g716 : A C3p_endo anti
+g717 : U C2p_endo anti
+g718 : A C3p_endo anti
+g719 : C C3p_endo anti
+g720 : C C3p_endo anti
+g721 : G C2p_endo anti
+g722 : G C3p_endo syn
+g723 : U C3p_endo anti
+g724 : G C3p_endo anti
+g725 : G C3p_endo anti
+g726 : C C3p_endo anti
+g727 : G C3p_endo anti
+g728 : A C3p_endo anti
+g729 : A C3p_endo anti
+g730 : G C3p_endo anti
+g731 : G C3p_endo anti
+g732 : C C3p_endo anti
+g733 : G C2p_endo anti
+g734 : G C3p_endo anti
+g735 : C C3p_endo anti
+g736 : C C3p_endo anti
+g737 : C C3p_endo anti
+g738 : C C3p_endo anti
+g739 : C C3p_endo anti
+g740 : U C3p_endo anti
+g741 : G C3p_endo anti
+g742 : G C3p_endo anti
+g743 : A C3p_endo anti
+g744 : C C3p_endo anti
+g745 : G C3p_endo anti
+g746 : A C3p_endo anti
+g747 : A C3p_endo anti
+g748 : G C3p_endo anti
+g749 : A C3p_endo anti
+g750 : C C3p_endo anti
+g751 : U C3p_endo anti
+g752 : G C2p_endo anti
+g753 : A C2p_endo anti
+g754 : C C3p_endo syn
+g755 : G C3p_endo anti
+g756 : C C3p_endo anti
+g757 : U C3p_endo anti
+g758 : C C3p_endo anti
+g759 : A C3p_endo anti
+g760 : G C3p_endo anti
+g761 : G C3p_endo anti
+g762 : U C3p_endo anti
+g763 : G C3p_endo anti
+g764 : C C3p_endo anti
+g765 : G C3p_endo anti
+g766 : A C3p_endo anti
+g767 : A C3p_endo anti
+g768 : A C3p_endo anti
+g769 : G C3p_endo anti
+g770 : C C3p_endo anti
+g771 : G C3p_endo anti
+g772 : U C3p_endo anti
+g773 : G C3p_endo anti
+g774 : G C3p_endo anti
+g775 : G C3p_endo anti
+g776 : G C3p_endo anti
+g777 : A C3p_endo anti
+g778 : G C3p_endo anti
+g779 : C C4p_exo anti
+g780 : A C3p_endo anti
+g781 : A C3p_endo anti
+g782 : A C3p_endo anti
+g783 : C C3p_endo anti
+g784 : A C3p_endo anti
+g785 : G C3p_endo anti
+g786 : G C3p_endo anti
+g787 : A C3p_endo anti
+g788 : U C3p_endo anti
+g789 : U C3p_endo anti
+g790 : A C3p_endo anti
+g791 : G C3p_endo anti
+g792 : A C2p_endo syn
+g793 : U C3p_endo anti
+g794 : A C3p_endo anti
+g795 : C C3p_endo anti
+g796 : C C3p_endo anti
+g797 : C C3p_endo anti
+g798 : U C3p_endo anti
+g799 : G C3p_endo anti
+g800 : G C3p_endo anti
+g801 : U C3p_endo anti
+g802 : A C3p_endo anti
+g803 : G C3p_endo anti
+g804 : U C3p_endo anti
+g805 : C C3p_endo anti
+g806 : C C3p_endo anti
+g807 : A C3p_endo anti
+g808 : C C3p_endo anti
+g809 : G C3p_endo anti
+g810 : C C3p_endo anti
+g811 : C C3p_endo anti
+g812 : G C2p_endo anti
+g813 : U C3p_endo anti
+g814 : A C3p_endo anti
+g815 : A C2p_endo anti
+g816 : A C3p_endo anti
+g817 : C C2p_endo anti
+g818 : G C2p_endo anti
+g819 : A C2p_endo anti
+g820 : U C2p_endo anti
+g821 : G C3p_endo anti
+g822 : U C3p_endo anti
+g823 : C C3p_endo anti
+g824 : G C3p_endo anti
+g825 : A C3p_endo anti
+g826 : C C3p_endo anti
+g827 : U C3p_endo anti
+g828 : U C3p_endo anti
+g829 : G C3p_endo anti
+g830 : G C3p_endo anti
+g831 : A C3p_endo anti
+g832 : G C3p_endo anti
+g833 : G C3p_endo anti
+g834 : U C3p_endo anti
+g835 : U C3p_endo anti
+g836 : G C3p_endo anti
+g837 : U C3p_endo anti
+g838 : G C3p_endo anti
+g839 : C C3p_endo anti
+g840 : C C3p_endo anti
+g841 : C C2p_endo anti
+g842 : U C3p_endo anti
+g843 : U C2p_endo anti
+g844 : G C3p_endo anti
+g845 : A C2p_endo syn
+g846 : G C3p_endo anti
+g847 : G C3p_endo anti
+g848 : C C3p_endo anti
+g849 : G C3p_endo anti
+g850 : U C3p_endo syn
+g851 : G C3p_endo anti
+g852 : G C3p_endo anti
+g853 : C C3p_endo anti
+g854 : U C3p_endo anti
+g855 : U C3p_endo anti
+g856 : C C3p_endo anti
+g857 : C C3p_endo anti
+g858 : G C3p_endo anti
+g859 : G C3p_endo anti
+g860 : A C3p_endo anti
+g861 : G C3p_endo anti
+g862 : C C3p_endo anti
+g863 : U C3p_endo anti
+g864 : A C3p_endo anti
+g865 : A C3p_endo anti
+g866 : C C3p_endo anti
+g867 : G C3p_endo anti
+g868 : C C3p_endo anti
+g869 : G C3p_endo anti
+g870 : U C2p_endo anti
+g871 : U C2p_endo anti
+g872 : A C2p_endo syn
+g873 : A C2p_endo anti
+g874 : G C3p_endo anti
+g875 : U C3p_endo anti
+g876 : C C3p_endo anti
+g877 : G C3p_endo anti
+g878 : A C3p_endo anti
+g879 : C C3p_endo anti
+g880 : C C3p_endo anti
+g881 : G C3p_endo anti
+g882 : C C3p_endo anti
+g883 : C C4p_exo anti
+g884 : U C2p_endo anti
+g885 : G C3p_endo anti
+g886 : G C3p_endo anti
+g887 : G C3p_endo anti
+g888 : G C3p_endo anti
+g889 : A C2p_endo anti
+g890 : G C2p_endo anti
+g891 : U C3p_endo anti
+g892 : A C3p_endo anti
+g893 : C C3p_endo anti
+g894 : G C3p_endo anti
+g895 : G C3p_endo anti
+g896 : C C3p_endo anti
+g897 : C C3p_endo anti
+g898 : G C3p_endo anti
+g899 : C C2p_endo syn
+g900 : A C3p_endo anti
+g901 : A C3p_endo anti
+g902 : G C3p_endo anti
+g903 : G C3p_endo anti
+g904 : U C3p_endo anti
+g905 : U C3p_endo anti
+g906 : A C3p_endo anti
+g907 : A C3p_endo anti
+g908 : A C3p_endo anti
+g909 : A C3p_endo anti
+g910 : C C3p_endo anti
+g911 : U C3p_endo anti
+g912 : C C3p_endo anti
+g913 : A C2p_endo anti
+g914 : A C3p_endo anti
+g915 : A C3p_endo anti
+g916 : U C3p_endo anti
+g917 : G C3p_endo anti
+g918 : A C3p_endo anti
+g919 : A C3p_endo anti
+g920 : A C3p_endo syn
+g921 : U C3p_endo anti
+g922 : G C3p_endo anti
+g923 : A C2p_endo anti
+g924 : C C2p_endo anti
+g925 : G C3p_endo syn
+g926 : G C3p_endo syn
+g927 : G C3p_endo anti
+g928 : G C3p_endo anti
+g929 : G C3p_endo anti
+g930 : C C3p_endo anti
+g931 : C C3p_endo anti
+g932 : C C3p_endo anti
+g933 : G C3p_endo anti
+g934 : C C2p_endo syn
+g935 : A C3p_endo anti
+g936 : C C3p_endo anti
+g937 : A C3p_endo anti
+g938 : A C3p_endo anti
+g939 : G C3p_endo anti
+g940 : C C3p_endo anti
+g941 : G C3p_endo anti
+g942 : G C3p_endo anti
+g943 : U C3p_endo anti
+g944 : G C3p_endo anti
+g945 : G C3p_endo anti
+g946 : A C3p_endo syn
+g947 : G C3p_endo anti
+g948 : C C3p_endo anti
+g949 : A C3p_endo anti
+g950 : U C3p_endo anti
+g951 : G C3p_endo anti
+g952 : U C3p_endo anti
+g953 : G C3p_endo anti
+g954 : G C3p_endo anti
+g955 : U C3p_endo anti
+g956 : U C3p_endo anti
+g957 : U C3p_endo anti
+g958 : A C3p_endo anti
+g959 : A C3p_endo anti
+g960 : U C2p_endo anti
+g961 : U C3p_endo anti
+g962 : C C3p_endo anti
+g963 : G C3p_endo anti
+g964 : A C3p_endo syn
+g965 : U C2p_endo anti
+g966 : G C2p_endo anti
+g967 : C C3p_endo anti
+g968 : A C2p_endo anti
+g969 : A C3p_endo anti
+g970 : C C3p_endo anti
+g971 : G C2p_endo syn
+g972 : C C3p_endo anti
+g973 : G C3p_endo anti
+g974 : A C2p_endo anti
+g975 : A C2p_endo syn
+g976 : G C3p_endo anti
+g977 : A C3p_endo syn
+g978 : A C3p_endo anti
+g979 : C C3p_endo anti
+g980 : C C3p_endo anti
+g981 : U C3p_endo anti
+g982 : U C2p_endo anti
+g983 : A C2p_endo anti
+g984 : C C3p_endo anti
+g985 : C C3p_endo anti
+g986 : U C3p_endo anti
+g987 : G C3p_endo anti
+g988 : G C3p_endo anti
+g989 : U C3p_endo anti
+g990 : C C3p_endo anti
+g991 : U C2p_endo anti
+g992 : U C2p_endo anti
+g993 : G C2p_endo anti
+g994 : A C3p_endo anti
+g995 : C C3p_endo anti
+g996 : A C3p_endo anti
+g997 : U C3p_endo syn
+g998 : C C3p_endo anti
+g999 : C C3p_endo anti
+g1000 : A C3p_endo anti
+g1001 : C C3p_endo anti
+g1002 : G C3p_endo anti
+g1003 : G C3p_endo anti
+g1004 : A C3p_endo syn
+g1005 : A C3p_endo syn
+g1006 : G C3p_exo anti
+g1007 : U C2p_endo syn
+g1008 : U C2p_endo anti
+g1009 : U C3p_endo anti
+g1010 : U C3p_endo anti
+g1011 : C C3p_endo anti
+g1012 : A C3p_endo anti
+g1013 : G C3p_endo anti
+g1014 : A C3p_endo anti
+g1015 : G C3p_endo anti
+g1016 : A C3p_endo anti
+g1017 : U C3p_endo anti
+g1018 : G C3p_endo anti
+g1019 : A C3p_endo anti
+g1020 : G C3p_endo anti
+g1021 : A C3p_endo anti
+g1022 : A C3p_endo syn
+g1023 : U C3p_endo anti
+g1024 : G C3p_endo anti
+g1025 : U C2p_endo anti
+g1026 : G C3p_endo anti
+g1027 : C C3p_endo anti
+g1028 : C C3p_endo anti
+g1029 : U C3p_endo anti
+g1030 : U C3p_endo anti
+g1031 : C C2p_endo anti
+g1032 : G C3p_endo syn
+g1033 : G C3p_endo syn
+g1034 : G C3p_endo anti
+g1035 : A C3p_endo anti
+g1036 : A C3p_endo syn
+g1037 : C C3p_endo anti
+g1038 : C C3p_endo anti
+g1039 : G C3p_endo anti
+g1040 : U C3p_endo anti
+g1041 : G C2p_endo syn
+g1042 : A C3p_endo anti
+g1043 : G C3p_endo anti
+g1044 : A C3p_endo syn
+g1045 : C C3p_endo anti
+g1046 : A C3p_endo syn
+g1047 : G C3p_endo anti
+g1048 : G C3p_endo anti
+g1049 : U C2p_endo anti
+g1050 : G C3p_endo anti
+g1051 : C C3p_endo anti
+g1052 : U C3p_endo anti
+g1053 : G C2p_endo anti
+g1054 : C C2p_endo anti
+g1055 : A C3p_endo anti
+g1056 : U C3p_endo anti
+g1057 : G C3p_endo anti
+g1058 : G C3p_endo anti
+g1059 : C C3p_endo anti
+g1060 : U C3p_endo anti
+g1061 : G C3p_endo anti
+g1062 : U C3p_endo anti
+g1063 : C C3p_endo anti
+g1064 : G C2p_endo anti
+g1065 : U C2p_endo anti
+g1066 : C C3p_endo anti
+g1067 : A C2p_endo syn
+g1068 : G C3p_endo anti
+g1069 : C C3p_endo anti
+g1070 : U C3p_endo anti
+g1071 : C C3p_endo anti
+g1072 : G C3p_endo anti
+g1073 : U C3p_endo anti
+g1074 : G C3p_endo anti
+g1075 : U C3p_endo anti
+g1076 : U C3p_endo anti
+g1077 : G C3p_endo anti
+g1078 : U C3p_endo anti
+g1079 : G C3p_endo anti
+g1080 : A C3p_endo anti
+g1081 : A C3p_endo anti
+g1082 : A C3p_endo anti
+g1083 : U C3p_endo anti
+g1084 : G C3p_endo anti
+g1085 : U C2p_endo anti
+g1086 : U C2p_endo anti
+g1087 : G C3p_endo anti
+g1088 : G C3p_endo anti
+g1089 : G C3p_endo anti
+g1090 : U C3p_endo anti
+g1091 : U C3p_endo anti
+g1092 : A C3p_endo anti
+g1093 : A C3p_endo anti
+g1094 : G C2p_endo anti
+g1095 : U C3p_endo anti
+g1096 : C C3p_endo anti
+g1097 : C C3p_endo anti
+g1098 : C C3p_endo anti
+g1099 : G C3p_endo anti
+g1100 : C C3p_endo anti
+g1101 : A C2p_endo syn
+g1102 : A C3p_endo anti
+g1103 : C C3p_endo anti
+g1104 : G C3p_endo anti
+g1105 : A C3p_endo anti
+g1106 : G C3p_endo anti
+g1107 : C C3p_endo anti
+g1108 : G C3p_endo anti
+g1109 : C C3p_endo anti
+g1110 : A C3p_endo anti
+g1111 : A C3p_endo anti
+g1112 : C C3p_endo anti
+g1113 : C C3p_endo anti
+g1114 : C C3p_endo anti
+g1115 : U C3p_endo anti
+g1116 : U C3p_endo anti
+g1117 : A C3p_endo anti
+g1118 : U C3p_endo anti
+g1119 : C C3p_endo anti
+g1120 : C C3p_endo anti
+g1121 : U C3p_endo anti
+g1122 : U C3p_endo anti
+g1123 : U C3p_endo anti
+g1124 : G C2p_endo syn
+g1125 : U C2p_endo anti
+g1126 : U C2p_endo anti
+g1127 : G C3p_endo anti
+g1128 : C C3p_endo anti
+g1129 : C C2p_endo anti
+g1130 : A C3p_endo anti
+g1131 : G C3p_endo anti
+g1132 : C C3p_endo anti
+g1133 : G C3p_endo anti
+g1134 : G C3p_endo anti
+g1135 : U C3p_endo anti
+g1136 : C C2p_endo anti
+g1137 : C C2p_endo anti
+g1138 : G C3p_endo syn
+g1139 : G C2p_endo syn
+g1140 : C C3p_endo anti
+g1141 : C C2p_endo anti
+g1142 : G C3p_endo anti
+g1143 : G C3p_endo anti
+g1144 : G C3p_endo anti
+g1145 : A C3p_endo anti
+g1146 : A C3p_endo anti
+g1147 : C C3p_endo anti
+g1148 : U C3p_endo anti
+g1149 : C C3p_endo anti
+g1150 : A C3p_endo anti
+g1151 : A C2p_endo anti
+g1152 : A C3p_endo anti
+g1153 : G C3p_endo anti
+g1154 : G C3p_endo anti
+g1155 : A C3p_endo anti
+g1156 : G C3p_endo anti
+g1157 : A C2p_endo anti
+g1158 : C C3p_endo syn
+g1159 : U C2p_endo anti
+g1160 : G C2p_endo anti
+g1161 : C C3p_endo anti
+g1162 : C C3p_endo anti
+g1163 : A C3p_endo anti
+g1164 : G C3p_endo anti
+g1165 : U C3p_endo anti
+g1166 : G C3p_endo anti
+g1167 : A C3p_endo syn
+g1168 : U C2p_endo anti
+g1169 : A C3p_endo anti
+g1170 : A C3p_endo anti
+g1171 : A C3p_endo anti
+g1172 : C C3p_endo anti
+g1173 : U C3p_endo anti
+g1174 : G C3p_endo anti
+g1175 : G C3p_endo anti
+g1176 : A C4p_exo anti
+g1177 : G C3p_endo syn
+g1178 : G C3p_endo syn
+g1179 : A C3p_endo syn
+g1180 : A C3p_endo syn
+g1181 : G C2p_endo syn
+g1182 : G C2p_endo syn
+g1183 : U C3p_endo anti
+g1184 : G C3p_endo anti
+g1185 : G C3p_endo anti
+g1186 : G C3p_endo anti
+g1187 : G C3p_endo anti
+g1188 : A C2p_exo anti
+g1189 : U C3p_endo anti
+g1190 : G C2p_endo anti
+g1191 : A C3p_endo anti
+g1192 : C C3p_endo anti
+g1193 : G C3p_endo anti
+g1194 : U C3p_endo anti
+g1195 : C C3p_endo anti
+g1196 : A C2p_endo syn
+g1197 : A C3p_endo anti
+g1198 : G C3p_endo anti
+g1199 : U C3p_endo anti
+g1200 : C C2p_endo anti
+g1201 : A C2p_endo anti
+g1202 : U C3p_endo anti
+g1203 : C C3p_endo anti
+g1204 : A C3p_endo anti
+g1205 : U C3p_endo anti
+g1206 : G C3p_endo anti
+g1207 : G C3p_endo anti
+g1208 : C C3p_endo anti
+g1209 : C C3p_endo anti
+g1210 : C C3p_endo anti
+g1211 : U C3p_endo anti
+g1212 : U C3p_endo anti
+g1213 : A C2p_endo syn
+g1214 : C C2p_endo anti
+g1215 : G C3p_endo anti
+g1216 : A C3p_endo anti
+g1217 : C C3p_endo anti
+g1218 : C C3p_endo anti
+g1219 : A C3p_endo anti
+g1220 : G C3p_endo anti
+g1221 : G C3p_endo anti
+g1222 : G C3p_endo anti
+g1223 : C C3p_endo anti
+g1224 : U C2p_endo anti
+g1225 : A C2p_endo anti
+g1226 : C C2p_endo anti
+g1227 : A C3p_endo anti
+g1228 : C C3p_endo anti
+g1229 : A C3p_endo anti
+g1230 : C C3p_endo anti
+g1231 : G C3p_endo anti
+g1232 : U C3p_endo anti
+g1233 : G C3p_endo anti
+g1234 : C C3p_endo anti
+g1235 : U C3p_endo anti
+g1236 : A C3p_endo anti
+g1237 : C C3p_endo anti
+g1238 : A C3p_endo anti
+g1239 : A C2p_endo anti
+g1240 : U C2p_endo syn
+g1241 : G C3p_endo anti
+g1242 : G C3p_endo anti
+g1243 : C C3p_endo anti
+g1244 : G C3p_endo anti
+g1245 : C C3p_endo anti
+g1246 : A C3p_endo anti
+g1247 : U C3p_endo anti
+g1248 : A C3p_endo anti
+g1249 : C C3p_endo anti
+g1250 : A C3p_endo anti
+g1251 : A C3p_endo syn
+g1252 : A C3p_endo anti
+g1253 : G C3p_endo anti
+g1254 : A C3p_endo anti
+g1255 : G C3p_endo anti
+g1256 : A C2p_endo anti
+g1257 : A C2p_endo syn
+g1258 : G C3p_endo anti
+g1259 : C C3p_endo anti
+g1260 : G C3p_endo syn
+g1261 : A C3p_endo syn
+g1262 : C C3p_endo anti
+g1263 : C C3p_endo anti
+g1264 : U C3p_endo anti
+g1265 : C C3p_endo anti
+g1266 : G C3p_endo anti
+g1267 : C C3p_endo anti
+g1268 : G C3p_endo anti
+g1269 : A C3p_endo anti
+g1270 : G C3p_endo anti
+g1271 : A C3p_endo anti
+g1272 : G C3p_endo anti
+g1273 : C C3p_endo anti
+g1274 : A C3p_endo syn
+g1275 : A C3p_endo anti
+g1276 : G C3p_endo anti
+g1277 : C C3p_endo anti
+g1278 : G C2p_endo syn
+g1279 : G C2p_endo anti
+g1280 : A C2p_endo anti
+g1281 : C C2p_endo anti
+g1282 : C C3p_endo anti
+g1283 : U C3p_endo anti
+g1284 : C C3p_endo anti
+g1285 : A C2p_endo syn
+g1286 : U C3p_endo anti
+g1287 : A C3p_endo anti
+g1288 : A C3p_endo anti
+g1289 : A C3p_endo anti
+g1290 : G C3p_endo anti
+g1291 : U C3p_endo anti
+g1292 : G C3p_endo anti
+g1293 : C C3p_endo anti
+g1294 : G C3p_endo anti
+g1295 : U C3p_endo anti
+g1296 : C C3p_endo anti
+g1297 : G C2p_endo syn
+g1298 : U C2p_endo anti
+g1299 : A C2p_endo anti
+g1300 : G C2p_endo syn
+g1301 : U C2p_endo anti
+g1302 : C C2p_endo anti
+g1303 : C C3p_endo anti
+g1304 : G C3p_endo anti
+g1305 : G C3p_endo anti
+g1306 : A C3p_endo anti
+g1307 : U C3p_endo anti
+g1308 : U C3p_endo anti
+g1309 : G C3p_endo anti
+g1310 : G C3p_endo anti
+g1311 : A C3p_endo anti
+g1312 : G C3p_endo anti
+g1313 : U C3p_endo anti
+g1314 : C C3p_endo anti
+g1315 : U C3p_endo anti
+g1316 : G C3p_endo anti
+g1317 : C C3p_endo anti
+g1318 : A C3p_endo anti
+g1319 : A C2p_endo anti
+g1320 : C C3p_endo anti
+g1321 : U C2p_endo anti
+g1322 : C C2p_endo syn
+g1323 : G C3p_endo anti
+g1324 : A C3p_endo anti
+g1325 : C C3p_endo anti
+g1326 : U C3p_endo anti
+g1327 : C C3p_endo anti
+g1328 : C C3p_endo anti
+g1329 : A C3p_endo anti
+g1330 : U C3p_endo anti
+g1331 : G C2p_endo syn
+g1332 : A C3p_endo syn
+g1333 : A C3p_endo anti
+g1334 : G C3p_endo anti
+g1335 : U C3p_endo anti
+g1336 : C C2p_endo anti
+g1337 : G C3p_endo syn
+g1338 : G C3p_endo anti
+g1339 : A C3p_endo anti
+g1340 : A C3p_endo anti
+g1341 : U C3p_endo anti
+g1342 : C C3p_endo anti
+g1343 : G C3p_endo anti
+g1344 : C C3p_endo anti
+g1345 : U C2p_endo syn
+g1346 : A C2p_endo anti
+g1347 : G C2p_endo syn
+g1348 : U C3p_endo anti
+g1349 : A C3p_endo anti
+g1350 : A C3p_endo anti
+g1351 : U C3p_endo anti
+g1352 : C C3p_endo anti
+g1353 : G C3p_endo anti
+g1354 : U C3p_endo anti
+g1355 : G C3p_endo anti
+g1356 : G C3p_endo anti
+g1357 : A C3p_endo anti
+g1358 : U C3p_endo anti
+g1359 : C C3p_endo anti
+g1360 : A C3p_endo anti
+g1361 : G C3p_endo anti
+g1362 : A C3p_endo anti
+g1363 : A C2p_endo syn
+g1364 : U C2p_endo anti
+g1365 : G C3p_endo anti
+g1366 : C C3p_endo anti
+g1367 : C C3p_endo anti
+g1368 : A C3p_endo anti
+g1369 : C C3p_endo anti
+g1370 : G C3p_endo anti
+g1371 : G C3p_endo anti
+g1372 : U C3p_endo anti
+g1373 : G C3p_endo anti
+g1374 : A C3p_endo anti
+g1375 : A C3p_endo syn
+g1376 : U C3p_endo anti
+g1377 : A C3p_endo anti
+g1378 : C C3p_endo anti
+g1379 : G C3p_endo anti
+g1380 : U C2p_endo anti
+g1381 : U C3p_endo anti
+g1382 : C C3p_endo syn
+g1383 : C C3p_endo anti
+g1384 : C C3p_endo anti
+g1385 : G C3p_endo anti
+g1386 : G C3p_endo anti
+g1387 : G C3p_endo anti
+g1388 : C C3p_endo anti
+g1389 : C C2p_endo syn
+g1390 : U C3p_endo anti
+g1391 : U C3p_endo anti
+g1392 : G C3p_endo anti
+g1393 : U C3p_endo anti
+g1394 : A C2p_endo syn
+g1395 : C C3p_endo anti
+g1396 : A C2p_endo anti
+g1397 : C C2p_endo anti
+g1398 : A C3p_endo syn
+g1399 : C C2p_endo anti
+g1400 : C C2p_endo anti
+g1401 : G C3p_endo anti
+g1402 : C C3p_endo anti
+g1403 : C C3p_endo anti
+g1404 : C C3p_endo anti
+g1405 : G C3p_endo anti
+g1406 : U C3p_endo anti
+g1407 : C C3p_endo anti
+g1408 : A C3p_endo anti
+g1409 : C C3p_endo anti
+g1410 : A C3p_endo anti
+g1411 : C C3p_endo anti
+g1412 : C C3p_endo anti
+g1413 : A C3p_endo anti
+g1414 : U C3p_endo anti
+g1415 : G C3p_endo anti
+g1416 : G C3p_endo anti
+g1417 : G C3p_endo anti
+g1418 : A C3p_endo anti
+g1419 : G C3p_endo anti
+g1420 : U C3p_endo anti
+g1421 : G C3p_endo anti
+g1422 : G C3p_endo anti
+g1423 : G C3p_endo anti
+g1424 : U C3p_endo anti
+g1425 : U C3p_endo anti
+g1426 : G C3p_endo anti
+g1427 : C C3p_endo anti
+g1428 : A C3p_endo anti
+g1429 : A C3p_endo anti
+g1430 : A C3p_endo anti
+g1431 : A C3p_endo anti
+g1432 : G C2p_endo anti
+g1433 : A C3p_endo anti
+g1434 : A C3p_endo anti
+g1435 : G C3p_endo anti
+g1436 : U C3p_endo anti
+g1437 : A C3p_endo anti
+g1438 : G C3p_endo anti
+g1439 : G C3p_endo anti
+g1440 : U C3p_endo anti
+g1441 : A C3p_endo anti
+g1442 : G C3p_endo anti
+g1443 : C C3p_endo anti
+g1444 : U C3p_endo anti
+g1445 : U C3p_endo anti
+g1446 : A C3p_endo anti
+g1447 : A C2p_endo anti
+g1448 : C C3p_endo anti
+g1449 : C C3p_endo anti
+g1450 : U C3p_endo anti
+g1451 : U C2p_endo anti
+g1452 : C C2p_endo anti
+g1453 : G C3p_endo syn
+g1454 : G C3p_endo anti
+g1455 : G C3p_endo anti
+g1456 : A C3p_endo anti
+g1457 : G C3p_endo anti
+g1458 : G C3p_endo anti
+g1459 : G C3p_endo anti
+g1460 : C C3p_endo anti
+g1461 : G C3p_endo anti
+g1462 : C C3p_endo anti
+g1463 : U C3p_endo anti
+g1464 : U C3p_endo anti
+g1465 : A C3p_endo anti
+g1466 : C C3p_endo anti
+g1467 : C C3p_endo anti
+g1468 : A C3p_endo anti
+g1469 : C C3p_endo anti
+g1470 : U C3p_endo anti
+g1471 : U C3p_endo anti
+g1472 : U C3p_endo anti
+g1473 : G C3p_endo anti
+g1474 : U C3p_endo anti
+g1475 : G C3p_endo anti
+g1476 : A C3p_endo syn
+g1477 : U C3p_endo anti
+g1478 : U C2p_endo anti
+g1479 : C C3p_endo anti
+g1480 : A C3p_endo anti
+g1481 : U C3p_endo anti
+g1482 : G C3p_endo anti
+g1483 : A C3p_endo anti
+g1484 : C C3p_endo anti
+g1485 : U C3p_endo anti
+g1486 : G C3p_endo anti
+g1487 : G C3p_endo anti
+g1488 : G C3p_endo anti
+g1489 : G C3p_endo anti
+g1490 : U C3p_endo anti
+g1491 : G C3p_endo anti
+g1492 : A C2p_endo syn
+g1493 : A C2p_endo syn
+g1494 : G C3p_endo anti
+g1495 : U C3p_endo anti
+g1496 : C C3p_endo anti
+g1497 : G C3p_endo anti
+g1498 : U C2p_endo syn
+g1499 : A C3p_endo anti
+g1500 : A C3p_endo anti
+g1501 : C C3p_endo anti
+g1502 : A C2p_endo syn
+g1503 : A C2p_endo anti
+g1504 : G C2p_endo anti
+g1505 : G C3p_endo anti
+g1506 : U C2p_endo anti
+g1507 : A C3p_endo anti
+g1508 : A C3p_endo anti
+g1509 : C C3p_endo anti
+g1510 : C C3p_endo anti
+g1511 : G C3p_endo anti
+g1512 : U C3p_endo anti
+g1513 : A C3p_endo anti
+g1514 : G C3p_endo anti
+g1515 : G C3p_endo anti
+g1516 : G C3p_endo anti
+g1517 : G C3p_endo syn
+g1518 : A C3p_endo syn
+g1519 : A C3p_endo syn
+g1520 : C C3p_endo anti
+g1521 : C C3p_endo anti
+g1522 : U C3p_endo anti
+g1523 : G C3p_endo anti
+g1524 : C C3p_endo anti
+g1525 : G C3p_endo anti
+g1526 : G C3p_endo anti
+g1527 : U C3p_endo anti
+g1528 : U C2p_endo anti
+g1529 : G C2p_endo syn
+g1530 : G C2p_endo syn
+g1531 : A C3p_endo syn
+g1532 : U C3p_endo anti
+g1533 : C C3p_endo anti
+g1534 : A C2p_endo anti
+g1535 : C C3p_endo anti
+g1536 : C C3p_endo anti
+g1537 : U C3p_endo anti
+g1538 : C C3p_endo anti
+g1539 : C C3p_endo anti
+g1540 : U C2p_endo anti
+k9 : GLU
+k10 : LEU
+k11 : GLN
+k12 : GLU
+k13 : LYS
+k14 : LEU
+k15 : ILE
+k16 : ALA
+k17 : VAL
+k18 : ASN
+k19 : ARG
+k20 : VAL
+k21 : SER
+k22 : LYS
+k23 : THR
+k24 : VAL
+k25 : LYS
+k26 : GLY
+k27 : GLY
+k28 : ARG
+k29 : ILE
+k30 : PHE
+k31 : SER
+k32 : PHE
+k33 : THR
+k34 : ALA
+k35 : LEU
+k36 : THR
+k37 : VAL
+k38 : VAL
+k39 : GLY
+k40 : ASP
+k41 : GLY
+k42 : ASN
+k43 : GLY
+k44 : ARG
+k45 : VAL
+k46 : GLY
+k47 : PHE
+k48 : GLY
+k49 : TYR
+k50 : GLY
+k51 : LYS
+k52 : ALA
+k53 : ARG
+k54 : GLU
+k55 : VAL
+k56 : PRO
+k57 : ALA
+k58 : ALA
+k59 : ILE
+k60 : GLN
+k61 : LYS
+k62 : ALA
+k63 : MET
+k64 : GLU
+k65 : LYS
+k66 : ALA
+k67 : ARG
+k68 : ARG
+k69 : ASN
+k70 : MET
+k71 : ILE
+k72 : ASN
+k73 : VAL
+k74 : ALA
+k75 : LEU
+k76 : ASN
+k77 : ASN
+k78 : GLY
+k79 : THR
+k80 : LEU
+k81 : GLN
+k82 : HIS
+k83 : PRO
+k84 : VAL
+k85 : LYS
+k86 : GLY
+k87 : VAL
+k88 : HIS
+k89 : THR
+k90 : GLY
+k91 : SER
+k92 : ARG
+k93 : VAL
+k94 : PHE
+k95 : MET
+k96 : GLN
+k97 : PRO
+k98 : ALA
+k99 : SER
+k100 : GLU
+k101 : GLY
+k102 : THR
+k103 : GLY
+k104 : ILE
+k105 : ILE
+k106 : ALA
+k107 : GLY
+k108 : GLY
+k109 : ALA
+k110 : MET
+k111 : ARG
+k112 : ALA
+k113 : VAL
+k114 : LEU
+k115 : GLU
+k116 : VAL
+k117 : ALA
+k118 : GLY
+k119 : VAL
+k120 : HIS
+k121 : ASN
+k122 : VAL
+k123 : LEU
+k124 : ALA
+k125 : LYS
+k126 : ALA
+k127 : TYR
+k128 : GLY
+k129 : SER
+k130 : THR
+k131 : ASN
+k132 : PRO
+k133 : ILE
+k134 : ASN
+k135 : VAL
+k136 : VAL
+k137 : ARG
+k138 : ALA
+k139 : THR
+k140 : ILE
+k141 : ASP
+k142 : GLY
+k143 : LEU
+k144 : GLU
+k145 : ASN
+k146 : MET
+k147 : ASN
+k148 : SER
+k149 : PRO
+k150 : GLU
+k151 : MET
+k152 : VAL
+k153 : ALA
+k154 : ALA
+k155 : LYS
+k156 : ARG
+k157 : GLY
+k158 : LYS
+l1 : ALA
+l2 : ARG
+l3 : TYR
+l4 : LEU
+l5 : GLY
+l6 : PRO
+l7 : LYS
+l8 : LEU
+l9 : LYS
+l10 : LEU
+l11 : SER
+l12 : ARG
+l13 : ARG
+l14 : GLU
+l15 : GLY
+l16 : THR
+l17 : ASP
+l18 : LEU
+l19 : PHE
+l20 : LEU
+l21 : LYS
+l22 : SER
+l23 : GLY
+l24 : VAL
+l25 : ARG
+l26 : ALA
+l27 : ILE
+l28 : ASP
+l29 : THR
+l30 : LYS
+l31 : CYS
+l32 : LYS
+l33 : ILE
+l34 : GLU
+l35 : GLN
+l36 : ALA
+l37 : PRO
+l38 : GLY
+l39 : GLN
+l40 : HIS
+l41 : GLY
+l42 : ALA
+l43 : ARG
+l44 : LYS
+l45 : PRO
+l46 : ARG
+l47 : LEU
+l48 : SER
+l49 : ASP
+l50 : TYR
+l51 : GLY
+l52 : VAL
+l53 : GLN
+l54 : LEU
+l55 : ARG
+l56 : GLU
+l57 : LYS
+l58 : GLN
+l59 : LYS
+l60 : VAL
+l61 : ARG
+l62 : ARG
+l63 : ILE
+l64 : TYR
+l65 : GLY
+l66 : VAL
+l67 : LEU
+l68 : GLU
+l69 : ARG
+l70 : GLN
+l71 : PHE
+l72 : ARG
+l73 : ASN
+l74 : TYR
+l75 : TYR
+l76 : LYS
+l77 : GLU
+l78 : ALA
+l79 : ALA
+l80 : ARG
+l81 : LEU
+l82 : LYS
+l83 : GLY
+l84 : ASN
+l85 : THR
+l86 : GLY
+l87 : GLU
+l88 : ASN
+l89 : LEU
+l90 : LEU
+l91 : ALA
+l92 : LEU
+l93 : LEU
+l94 : GLU
+l95 : GLY
+l96 : ARG
+l97 : LEU
+l98 : ASP
+l99 : ASN
+l100 : VAL
+l101 : VAL
+l102 : TYR
+l103 : ARG
+l104 : MET
+l105 : GLY
+l106 : PHE
+l107 : GLY
+l108 : ALA
+l109 : THR
+l110 : ARG
+l111 : ALA
+l112 : GLU
+l113 : ALA
+l114 : ARG
+l115 : GLN
+l116 : LEU
+l117 : VAL
+l118 : SER
+l119 : HIS
+l120 : LYS
+l121 : ALA
+l122 : ILE
+l123 : MET
+l124 : VAL
+l125 : ASN
+l126 : GLY
+l127 : ARG
+l128 : VAL
+l129 : VAL
+l130 : ASN
+l131 : ILE
+l132 : ALA
+l133 : SER
+l134 : TYR
+l135 : GLN
+l136 : VAL
+l137 : SER
+l138 : PRO
+l139 : ASN
+l140 : ASP
+l141 : VAL
+l142 : VAL
+l143 : SER
+l144 : ILE
+l145 : ARG
+l146 : GLU
+l147 : LYS
+l148 : ALA
+l149 : LYS
+l150 : LYS
+l151 : GLN
+l152 : SER
+l153 : ARG
+l154 : VAL
+l155 : LYS
+l156 : ALA
+l157 : ALA
+l158 : LEU
+l159 : GLU
+l160 : LEU
+l161 : ALA
+l162 : GLU
+l163 : GLN
+l164 : ARG
+l165 : GLU
+l166 : LYS
+l167 : PRO
+l168 : THR
+l169 : TRP
+l170 : LEU
+l171 : GLU
+l172 : VAL
+l173 : ASP
+l174 : ALA
+l175 : GLY
+l176 : LYS
+l177 : MET
+l178 : GLU
+l179 : GLY
+l180 : THR
+l181 : PHE
+l182 : LYS
+l183 : ARG
+l184 : LYS
+l185 : PRO
+l186 : GLU
+l187 : ARG
+l188 : SER
+l189 : ASP
+l190 : LEU
+l191 : SER
+l192 : ALA
+l193 : ASP
+l194 : ILE
+l195 : ASN
+l196 : GLU
+l197 : HIS
+l198 : LEU
+l199 : ILE
+l200 : VAL
+l201 : GLU
+l202 : LEU
+l203 : TYR
+l204 : SER
+l205 : LYS
+n1 : MET
+n2 : ARG
+n3 : HIS
+n4 : TYR
+n5 : GLU
+n6 : ILE
+n7 : VAL
+n8 : PHE
+n9 : MET
+n10 : VAL
+n11 : HIS
+n12 : PRO
+n13 : ASP
+n14 : GLN
+n15 : SER
+n16 : GLU
+n17 : GLN
+n18 : VAL
+n19 : PRO
+n20 : GLY
+n21 : MET
+n22 : ILE
+n23 : GLU
+n24 : ARG
+n25 : TYR
+n26 : THR
+n27 : ALA
+n28 : ALA
+n29 : ILE
+n30 : THR
+n31 : GLY
+n32 : ALA
+n33 : GLU
+n34 : GLY
+n35 : LYS
+n36 : ILE
+n37 : HIS
+n38 : ARG
+n39 : LEU
+n40 : GLU
+n41 : ASP
+n42 : TRP
+n43 : GLY
+n44 : ARG
+n45 : ARG
+n46 : GLN
+n47 : LEU
+n48 : ALA
+n49 : TYR
+n50 : PRO
+n51 : ILE
+n52 : ASN
+n53 : LYS
+n54 : LEU
+n55 : HIS
+n56 : LYS
+n57 : ALA
+n58 : HIS
+n59 : TYR
+n60 : VAL
+n61 : LEU
+n62 : MET
+n63 : ASN
+n64 : VAL
+n65 : GLU
+n66 : ALA
+n67 : PRO
+n68 : GLN
+n69 : GLU
+n70 : VAL
+n71 : ILE
+n72 : ASP
+n73 : GLU
+n74 : LEU
+n75 : GLU
+n76 : THR
+n77 : THR
+n78 : PHE
+n79 : ARG
+n80 : PHE
+n81 : ASN
+n82 : ASP
+n83 : ALA
+n84 : VAL
+n85 : ILE
+n86 : ARG
+n87 : SER
+n88 : MET
+n89 : VAL
+n90 : MET
+n91 : ARG
+n92 : THR
+n93 : LYS
+n94 : HIS
+n95 : ALA
+n96 : VAL
+n97 : THR
+n98 : GLU
+n99 : ALA
+n100 : SER
+p1 : SER
+p2 : MET
+p3 : GLN
+p4 : ASP
+p5 : PRO
+p6 : ILE
+p7 : ALA
+p8 : ASP
+p9 : MET
+p10 : LEU
+p11 : THR
+p12 : ARG
+p13 : ILE
+p14 : ARG
+p15 : ASN
+p16 : GLY
+p17 : GLN
+p18 : ALA
+p19 : ALA
+p20 : ASN
+p21 : LYS
+p22 : ALA
+p23 : ALA
+p24 : VAL
+p25 : THR
+p26 : MET
+p27 : PRO
+p28 : SER
+p29 : SER
+p30 : LYS
+p31 : LEU
+p32 : LYS
+p33 : VAL
+p34 : ALA
+p35 : ILE
+p36 : ALA
+p37 : ASN
+p38 : VAL
+p39 : LEU
+p40 : LYS
+p41 : GLU
+p42 : GLU
+p43 : GLY
+p44 : PHE
+p45 : ILE
+p46 : GLU
+p47 : ASP
+p48 : PHE
+p49 : LYS
+p50 : VAL
+p51 : GLU
+p52 : GLY
+p53 : ASP
+p54 : THR
+p55 : LYS
+p56 : PRO
+p57 : GLU
+p58 : LEU
+p59 : GLU
+p60 : LEU
+p61 : THR
+p62 : LEU
+p63 : LYS
+p64 : TYR
+p65 : PHE
+p66 : GLN
+p67 : GLY
+p68 : LYS
+p69 : ALA
+p70 : VAL
+p71 : VAL
+p72 : GLU
+p73 : SER
+p74 : ILE
+p75 : GLN
+p76 : ARG
+p77 : VAL
+p78 : SER
+p79 : ARG
+p80 : PRO
+p81 : GLY
+p82 : LEU
+p83 : ARG
+p84 : ILE
+p85 : TYR
+p86 : LYS
+p87 : ARG
+p88 : LYS
+p89 : ASP
+p90 : GLU
+p91 : LEU
+p92 : PRO
+p93 : LYS
+p94 : VAL
+p95 : MET
+p96 : ALA
+p97 : GLY
+p98 : LEU
+p99 : GLY
+p100 : ILE
+p101 : ALA
+p102 : VAL
+p103 : VAL
+p104 : SER
+p105 : THR
+p106 : SER
+p107 : LYS
+p108 : GLY
+p109 : VAL
+p110 : MET
+p111 : THR
+p112 : ASP
+p113 : ARG
+p114 : ALA
+p115 : ALA
+p116 : ARG
+p117 : GLN
+p118 : ALA
+p119 : GLY
+p120 : LEU
+p121 : GLY
+p122 : GLY
+p123 : GLU
+p124 : ILE
+p125 : ILE
+p126 : CYS
+p127 : TYR
+p128 : VAL
+p129 : ALA
+q12 : ARG
+q13 : LYS
+q14 : GLN
+q15 : VAL
+q16 : SER
+q17 : ASP
+q18 : GLY
+q19 : VAL
+q20 : ALA
+q21 : HIS
+q22 : ILE
+q23 : HIS
+q24 : ALA
+q25 : SER
+q26 : PHE
+q27 : ASN
+q28 : ASN
+q29 : THR
+q30 : ILE
+q31 : VAL
+q32 : THR
+q33 : ILE
+q34 : THR
+q35 : ASP
+q36 : ARG
+q37 : GLN
+q38 : GLY
+q39 : ASN
+q40 : ALA
+q41 : LEU
+q42 : GLY
+q43 : TRP
+q44 : ALA
+q45 : THR
+q46 : ALA
+q47 : GLY
+q48 : GLY
+q49 : SER
+q50 : GLY
+q51 : PHE
+q52 : ARG
+q53 : GLY
+q54 : SER
+q55 : ARG
+q56 : LYS
+q57 : SER
+q58 : THR
+q59 : PRO
+q60 : PHE
+q61 : ALA
+q62 : ALA
+q63 : GLN
+q64 : VAL
+q65 : ALA
+q66 : ALA
+q67 : GLU
+q68 : ARG
+q69 : CYS
+q70 : ALA
+q71 : ASP
+q72 : ALA
+q73 : VAL
+q74 : LYS
+q75 : GLU
+q76 : TYR
+q77 : GLY
+q78 : ILE
+q79 : LYS
+q80 : ASN
+q81 : LEU
+q82 : GLU
+q83 : VAL
+q84 : MET
+q85 : VAL
+q86 : LYS
+q87 : GLY
+q88 : PRO
+q89 : GLY
+q90 : PRO
+q91 : GLY
+q92 : ARG
+q93 : GLU
+q94 : SER
+q95 : THR
+q96 : ILE
+q97 : ARG
+q98 : ALA
+q99 : LEU
+q100 : ASN
+q101 : ALA
+q102 : ALA
+q103 : GLY
+q104 : PHE
+q105 : ARG
+q106 : ILE
+q107 : THR
+q108 : ASN
+q109 : ILE
+q110 : THR
+q111 : ASP
+q112 : VAL
+q113 : THR
+q114 : PRO
+q115 : ILE
+q116 : PRO
+q117 : HIS
+q118 : ASN
+q119 : GLY
+q120 : CYS
+q121 : ARG
+q122 : PRO
+q123 : PRO
+q124 : LYS
+q125 : LYS
+q126 : ARG
+q127 : ARG
+q128 : VAL
+t1 : ALA
+t2 : THR
+t3 : VAL
+t4 : ASN
+t5 : GLN
+t6 : LEU
+t7 : VAL
+t8 : ARG
+t9 : LYS
+t10 : PRO
+t11 : ARG
+t12 : ALA
+t13 : ARG
+t14 : LYS
+t15 : VAL
+t16 : ALA
+t17 : LYS
+t18 : SER
+t19 : ASN
+t20 : VAL
+t21 : PRO
+t22 : ALA
+t23 : LEU
+t24 : GLU
+t25 : ALA
+t26 : CYS
+t27 : PRO
+t28 : GLN
+t29 : LYS
+t30 : ARG
+t31 : GLY
+t32 : VAL
+t33 : CYS
+t34 : THR
+t35 : ARG
+t36 : VAL
+t37 : TYR
+t38 : THR
+t39 : THR
+t40 : THR
+t41 : PRO
+t42 : LYS
+t43 : LYS
+t44 : PRO
+t45 : ASN
+t46 : SER
+t47 : ALA
+t48 : LEU
+t49 : ARG
+t50 : LYS
+t51 : VAL
+t52 : CYS
+t53 : ARG
+t54 : VAL
+t55 : ARG
+t56 : LEU
+t57 : THR
+t58 : ASN
+t59 : GLY
+t60 : PHE
+t61 : GLU
+t62 : VAL
+t63 : THR
+t64 : SER
+t65 : TYR
+t66 : ILE
+t67 : GLY
+t68 : GLY
+t69 : GLU
+t70 : GLY
+t71 : HIS
+t72 : ASN
+t73 : LEU
+t74 : GLN
+t75 : GLU
+t76 : HIS
+t77 : SER
+t78 : VAL
+t79 : ILE
+t80 : LEU
+t81 : ILE
+t82 : ARG
+t83 : GLY
+t84 : GLY
+t85 : ARG
+t86 : VAL
+t87 : LYS
+t88 : ASP
+t89 : LEU
+t90 : PRO
+t91 : GLY
+t92 : VAL
+t93 : ARG
+t94 : TYR
+t95 : HIS
+t96 : THR
+t97 : VAL
+t98 : ARG
+t99 : GLY
+t100 : ALA
+t101 : LEU
+t102 : ASP
+t103 : CYS
+t104 : SER
+t105 : GLY
+t106 : VAL
+t107 : LYS
+t108 : ASP
+t109 : ARG
+t110 : LYS
+t111 : GLN
+t112 : ALA
+t113 : ARG
+t114 : SER
+t115 : LYS
+t116 : TYR
+t117 : GLY
+t118 : VAL
+t119 : LYS
+t120 : ARG
+t121 : PRO
+t122 : LYS
+t123 : ALA
+u1 : SER
+u2 : LEU
+u3 : SER
+u4 : THR
+u5 : GLU
+u6 : ALA
+u7 : THR
+u8 : ALA
+u9 : LYS
+u10 : ILE
+u11 : VAL
+u12 : SER
+u13 : GLU
+u14 : PHE
+u15 : GLY
+u16 : ARG
+u17 : ASP
+u18 : ALA
+u19 : ASN
+u20 : ASP
+u21 : THR
+u22 : GLY
+u23 : SER
+u24 : THR
+u25 : GLU
+u26 : VAL
+u27 : GLN
+u28 : VAL
+u29 : ALA
+u30 : LEU
+u31 : LEU
+u32 : THR
+u33 : ALA
+u34 : GLN
+u35 : ILE
+u36 : ASN
+u37 : HIS
+u38 : LEU
+u39 : GLN
+u40 : GLY
+u41 : HIS
+u42 : PHE
+u43 : ALA
+u44 : GLU
+u45 : HIS
+u46 : LYS
+u47 : LYS
+u48 : ASP
+u49 : HIS
+u50 : HIS
+u51 : SER
+u52 : ARG
+u53 : ARG
+u54 : GLY
+u55 : LEU
+u56 : LEU
+u57 : ARG
+u58 : MET
+u59 : VAL
+u60 : SER
+u61 : GLN
+u62 : ARG
+u63 : ARG
+u64 : LYS
+u65 : LEU
+u66 : LEU
+u67 : ASP
+u68 : TYR
+u69 : LEU
+u70 : LYS
+u71 : ARG
+u72 : LYS
+u73 : ASP
+u74 : VAL
+u75 : ALA
+u76 : ARG
+u77 : TYR
+u78 : THR
+u79 : GLN
+u80 : LEU
+u81 : ILE
+u82 : GLU
+u83 : ARG
+u84 : LEU
+u85 : GLY
+u86 : LEU
+u87 : ARG
+u88 : ARG
+y1 : MET
+y2 : VAL
+y3 : THR
+y4 : ILE
+y5 : ARG
+y6 : LEU
+y7 : ALA
+y8 : ARG
+y9 : HIS
+y10 : GLY
+y11 : ALA
+y12 : LYS
+y13 : LYS
+y14 : ARG
+y15 : PRO
+y16 : PHE
+y17 : TYR
+y18 : GLN
+y19 : VAL
+y20 : VAL
+y21 : VAL
+y22 : ALA
+y23 : ASP
+y24 : SER
+y25 : ARG
+y26 : ASN
+y27 : ALA
+y28 : ARG
+y29 : ASN
+y30 : GLY
+y31 : ARG
+y32 : PHE
+y33 : ILE
+y34 : GLU
+y35 : ARG
+y36 : VAL
+y37 : GLY
+y38 : PHE
+y39 : PHE
+y40 : ASN
+y41 : PRO
+y42 : ILE
+y43 : ALA
+y44 : SER
+y45 : GLU
+y46 : LYS
+y47 : GLU
+y48 : GLU
+y49 : GLY
+y50 : THR
+y51 : ARG
+y52 : LEU
+y53 : ASP
+y54 : LEU
+y55 : ASP
+y56 : ARG
+y57 : ILE
+y58 : ALA
+y59 : HIS
+y60 : TRP
+y61 : VAL
+y62 : GLY
+y63 : GLN
+y64 : GLY
+y65 : ALA
+y66 : THR
+y67 : ILE
+y68 : SER
+y69 : ASP
+y70 : ARG
+y71 : VAL
+y72 : ALA
+y73 : ALA
+y74 : LEU
+y75 : ILE
+y76 : LYS
+y77 : GLU
+y78 : VAL
+y79 : ASN
+y80 : LYS
+y81 : ALA
+y82 : ALA
+h1 : GLY
+h2 : GLN
+h3 : LYS
+h4 : VAL
+h5 : HIS
+h6 : PRO
+h7 : ASN
+h8 : GLY
+h9 : ILE
+h10 : ARG
+h11 : LEU
+h12 : GLY
+h13 : ILE
+h14 : VAL
+h15 : LYS
+h16 : PRO
+h17 : TRP
+h18 : ASN
+h19 : SER
+h20 : THR
+h21 : TRP
+h22 : PHE
+h23 : ALA
+h24 : ASN
+h25 : THR
+h26 : LYS
+h27 : GLU
+h28 : PHE
+h29 : ALA
+h30 : ASP
+h31 : ASN
+h32 : LEU
+h33 : ASP
+h34 : SER
+h35 : ASP
+h36 : PHE
+h37 : LYS
+h38 : VAL
+h39 : ARG
+h40 : GLN
+h41 : TYR
+h42 : LEU
+h43 : THR
+h44 : LYS
+h45 : GLU
+h46 : LEU
+h47 : ALA
+h48 : LYS
+h49 : ALA
+h50 : SER
+h51 : VAL
+h52 : SER
+h53 : ARG
+h54 : ILE
+h55 : VAL
+h56 : ILE
+h57 : GLU
+h58 : ARG
+h59 : PRO
+h60 : ALA
+h61 : LYS
+h62 : SER
+h63 : ILE
+h64 : ARG
+h65 : VAL
+h66 : THR
+h67 : ILE
+h68 : HIS
+h69 : THR
+h70 : ALA
+h71 : ARG
+h72 : PRO
+h73 : GLY
+h74 : ILE
+h75 : VAL
+h76 : ILE
+h77 : GLY
+h78 : LYS
+h79 : LYS
+h80 : GLY
+h81 : GLU
+h82 : ASP
+h83 : VAL
+h84 : GLU
+h85 : LYS
+h86 : LEU
+h87 : ARG
+h88 : LYS
+h89 : VAL
+h90 : VAL
+h91 : ALA
+h92 : ASP
+h93 : ILE
+h94 : ALA
+h95 : GLY
+h96 : VAL
+h97 : PRO
+h98 : ALA
+h99 : GLN
+h100 : ILE
+h101 : ASN
+h102 : ILE
+h103 : ALA
+h104 : GLU
+h105 : VAL
+h106 : ARG
+h107 : LYS
+h108 : PRO
+h109 : GLU
+h110 : LEU
+h111 : ASP
+h112 : ALA
+h113 : LYS
+h114 : LEU
+h115 : VAL
+h116 : ALA
+h117 : ASP
+h118 : SER
+h119 : ILE
+h120 : THR
+h121 : SER
+h122 : GLN
+h123 : LEU
+h124 : GLU
+h125 : ARG
+h126 : ARG
+h127 : VAL
+h128 : MET
+h129 : PHE
+h130 : ARG
+h131 : ARG
+h132 : ALA
+h133 : MET
+h134 : LYS
+h135 : ARG
+h136 : ALA
+h137 : VAL
+h138 : GLN
+h139 : ASN
+h140 : ALA
+h141 : MET
+h142 : ARG
+h143 : LEU
+h144 : GLY
+h145 : ALA
+h146 : LYS
+h147 : GLY
+h148 : ILE
+h149 : LYS
+h150 : VAL
+h151 : GLU
+h152 : VAL
+h153 : SER
+h154 : GLY
+h155 : ARG
+h156 : LEU
+h157 : GLY
+h158 : GLY
+h159 : ALA
+h160 : GLU
+h161 : ILE
+h162 : ALA
+h163 : ARG
+h164 : THR
+h165 : GLU
+h166 : TRP
+h167 : TYR
+h168 : ARG
+h169 : GLU
+h170 : GLY
+h171 : ARG
+h172 : VAL
+h173 : PRO
+h174 : LEU
+h175 : HIS
+h176 : THR
+h177 : LEU
+h178 : ARG
+h179 : ALA
+h180 : ASP
+h181 : ILE
+h182 : ASP
+h183 : TYR
+h184 : ASN
+h185 : THR
+h186 : SER
+h187 : GLU
+h188 : ALA
+h189 : HIS
+h190 : THR
+h191 : THR
+h192 : TYR
+h193 : GLY
+h194 : VAL
+h195 : ILE
+h196 : GLY
+h197 : VAL
+h198 : LYS
+h199 : VAL
+h200 : TRP
+h201 : ILE
+h202 : PHE
+h203 : LYS
+h204 : GLY
+h205 : GLU
+h206 : ILE
+m1 : PRO
+m2 : ARG
+m3 : ARG
+m4 : ARG
+m5 : VAL
+m6 : ILE
+m7 : GLY
+m8 : GLN
+m9 : ARG
+m10 : LYS
+m11 : ILE
+m12 : LEU
+m13 : PRO
+m14 : ASP
+m15 : PRO
+m16 : LYS
+m17 : PHE
+m18 : GLY
+m19 : SER
+m20 : GLU
+m21 : LEU
+m22 : LEU
+m23 : ALA
+m24 : LYS
+m25 : PHE
+m26 : VAL
+m27 : ASN
+m28 : ILE
+m29 : LEU
+m30 : MET
+m31 : VAL
+m32 : ASP
+m33 : GLY
+m34 : LYS
+m35 : LYS
+m36 : SER
+m37 : THR
+m38 : ALA
+m39 : GLU
+m40 : SER
+m41 : ILE
+m42 : VAL
+m43 : TYR
+m44 : SER
+m45 : ALA
+m46 : LEU
+m47 : GLU
+m48 : THR
+m49 : LEU
+m50 : ALA
+m51 : GLN
+m52 : ARG
+m53 : SER
+m54 : GLY
+m55 : LYS
+m56 : SER
+m57 : GLU
+m58 : LEU
+m59 : GLU
+m60 : ALA
+m61 : PHE
+m62 : GLU
+m63 : VAL
+m64 : ALA
+m65 : LEU
+m66 : GLU
+m67 : ASN
+m68 : VAL
+m69 : ARG
+m70 : PRO
+m71 : THR
+m72 : VAL
+m73 : GLU
+m74 : VAL
+m75 : LYS
+m76 : SER
+m77 : ARG
+m78 : ARG
+m79 : VAL
+m80 : GLY
+m81 : GLY
+m82 : SER
+m83 : THR
+m84 : TYR
+m85 : GLN
+m86 : VAL
+m87 : PRO
+m88 : VAL
+m89 : GLU
+m90 : VAL
+m91 : ARG
+m92 : PRO
+m93 : VAL
+m94 : ARG
+m95 : ARG
+m96 : ASN
+m97 : ALA
+m98 : LEU
+m99 : ALA
+m100 : MET
+m101 : ARG
+m102 : TRP
+m103 : ILE
+m104 : VAL
+m105 : GLU
+m106 : ALA
+m107 : ALA
+m108 : ARG
+m109 : LYS
+m110 : ARG
+m111 : GLY
+m112 : ASP
+m113 : LYS
+m114 : SER
+m115 : MET
+m116 : ALA
+m117 : LEU
+m118 : ARG
+m119 : LEU
+m120 : ALA
+m121 : ASN
+m122 : GLU
+m123 : LEU
+m124 : SER
+m125 : ASP
+m126 : ALA
+m127 : ALA
+m128 : GLU
+m129 : ASN
+m130 : LYS
+m131 : GLY
+m132 : THR
+m133 : ALA
+m134 : VAL
+m135 : LYS
+m136 : LYS
+m137 : ARG
+m138 : GLU
+m139 : ASP
+m140 : VAL
+m141 : HIS
+m142 : ARG
+m143 : MET
+m144 : ALA
+m145 : GLU
+m146 : ALA
+m147 : ASN
+m148 : LYS
+m149 : ALA
+m150 : PHE
+m151 : ALA
+o3 : ASN
+o4 : GLN
+o5 : TYR
+o6 : TYR
+o7 : GLY
+o8 : THR
+o9 : GLY
+o10 : ARG
+o11 : ARG
+o12 : LYS
+o13 : SER
+o14 : SER
+o15 : ALA
+o16 : ALA
+o17 : ARG
+o18 : VAL
+o19 : PHE
+o20 : ILE
+o21 : LYS
+o22 : PRO
+o23 : GLY
+o24 : ASN
+o25 : GLY
+o26 : LYS
+o27 : ILE
+o28 : VAL
+o29 : ILE
+o30 : ASN
+o31 : GLN
+o32 : ARG
+o33 : SER
+o34 : LEU
+o35 : GLU
+o36 : GLN
+o37 : TYR
+o38 : PHE
+o39 : GLY
+o40 : ARG
+o41 : GLU
+o42 : THR
+o43 : ALA
+o44 : ARG
+o45 : MET
+o46 : VAL
+o47 : VAL
+o48 : ARG
+o49 : GLN
+o50 : PRO
+o51 : LEU
+o52 : GLU
+o53 : LEU
+o54 : VAL
+o55 : ASP
+o56 : MET
+o57 : VAL
+o58 : GLU
+o59 : LYS
+o60 : LEU
+o61 : ASP
+o62 : LEU
+o63 : TYR
+o64 : ILE
+o65 : THR
+o66 : VAL
+o67 : LYS
+o68 : GLY
+o69 : GLY
+o70 : GLY
+o71 : ILE
+o72 : SER
+o73 : GLY
+o74 : GLN
+o75 : ALA
+o76 : GLY
+o77 : ALA
+o78 : ILE
+o79 : ARG
+o80 : HIS
+o81 : GLY
+o82 : ILE
+o83 : THR
+o84 : ARG
+o85 : ALA
+o86 : LEU
+o87 : MET
+o88 : GLU
+o89 : TYR
+o90 : ASP
+o91 : GLU
+o92 : SER
+o93 : LEU
+o94 : ARG
+o95 : SER
+o96 : GLU
+o97 : LEU
+o98 : ARG
+o99 : LYS
+o100 : ALA
+o101 : GLY
+o102 : PHE
+o103 : VAL
+o104 : THR
+o105 : ARG
+o106 : ASP
+o107 : ALA
+o108 : ARG
+o109 : GLN
+o110 : VAL
+o111 : GLU
+o112 : ARG
+o113 : LYS
+o114 : LYS
+o115 : VAL
+o116 : GLY
+o117 : LEU
+o118 : ARG
+o119 : LYS
+o120 : ALA
+o121 : ARG
+o122 : ARG
+o123 : ARG
+o124 : PRO
+o125 : GLN
+o126 : PHE
+o127 : SER
+o128 : LYS
+o129 : ARG
+r5 : ARG
+r6 : ILE
+r7 : ARG
+r8 : ILE
+r9 : ARG
+r10 : LEU
+r11 : LYS
+r12 : ALA
+r13 : PHE
+r14 : ASP
+r15 : HIS
+r16 : ARG
+r17 : LEU
+r18 : ILE
+r19 : ASP
+r20 : GLN
+r21 : ALA
+r22 : THR
+r23 : ALA
+r24 : GLU
+r25 : ILE
+r26 : VAL
+r27 : GLU
+r28 : THR
+r29 : ALA
+r30 : LYS
+r31 : ARG
+r32 : THR
+r33 : GLY
+r34 : ALA
+r35 : GLN
+r36 : VAL
+r37 : ARG
+r38 : GLY
+r39 : PRO
+r40 : ILE
+r41 : PRO
+r42 : LEU
+r43 : PRO
+r44 : THR
+r45 : ARG
+r46 : LYS
+r47 : GLU
+r48 : ARG
+r49 : PHE
+r50 : THR
+r51 : VAL
+r52 : LEU
+r53 : ILE
+r54 : SER
+r55 : PRO
+r56 : HIS
+r57 : VAL
+r58 : ASN
+r59 : LYS
+r60 : ASP
+r61 : ALA
+r62 : ARG
+r63 : ASP
+r64 : GLN
+r65 : TYR
+r66 : GLU
+r67 : ILE
+r68 : ARG
+r69 : THR
+r70 : HIS
+r71 : LEU
+r72 : ARG
+r73 : LEU
+r74 : VAL
+r75 : ASP
+r76 : ILE
+r77 : VAL
+r78 : GLU
+r79 : PRO
+r80 : THR
+r81 : GLU
+r82 : LYS
+r83 : THR
+r84 : VAL
+r85 : ASP
+r86 : ALA
+r87 : LEU
+r88 : MET
+r89 : ARG
+r90 : LEU
+r91 : ASP
+r92 : LEU
+r93 : ALA
+r94 : ALA
+r95 : GLY
+r96 : VAL
+r97 : ASP
+r98 : VAL
+r99 : GLN
+r100 : ILE
+r101 : SER
+r102 : LEU
+s1 : ALA
+s2 : ARG
+s3 : ILE
+s4 : ALA
+s5 : GLY
+s6 : ILE
+s7 : ASN
+s8 : ILE
+s9 : PRO
+s10 : ASP
+s11 : HIS
+s12 : LYS
+s13 : HIS
+s14 : ALA
+s15 : VAL
+s16 : ILE
+s17 : ALA
+s18 : LEU
+s19 : THR
+s20 : SER
+s21 : ILE
+s22 : TYR
+s23 : GLY
+s24 : VAL
+s25 : GLY
+s26 : LYS
+s27 : THR
+s28 : ARG
+s29 : SER
+s30 : LYS
+s31 : ALA
+s32 : ILE
+s33 : LEU
+s34 : ALA
+s35 : ALA
+s36 : ALA
+s37 : GLY
+s38 : ILE
+s39 : ALA
+s40 : GLU
+s41 : ASP
+s42 : VAL
+s43 : LYS
+s44 : ILE
+s45 : SER
+s46 : GLU
+s47 : LEU
+s48 : SER
+s49 : GLU
+s50 : GLY
+s51 : GLN
+s52 : ILE
+s53 : ASP
+s54 : THR
+s55 : LEU
+s56 : ARG
+s57 : ASP
+s58 : GLU
+s59 : VAL
+s60 : ALA
+s61 : LYS
+s62 : PHE
+s63 : VAL
+s64 : VAL
+s65 : GLU
+s66 : GLY
+s67 : ASP
+s68 : LEU
+s69 : ARG
+s70 : ARG
+s71 : GLU
+s72 : ILE
+s73 : SER
+s74 : MET
+s75 : SER
+s76 : ILE
+s77 : LYS
+s78 : ARG
+s79 : LEU
+s80 : MET
+s81 : ASP
+s82 : LEU
+s83 : GLY
+s84 : CYS
+s85 : TYR
+s86 : ARG
+s87 : GLY
+s88 : LEU
+s89 : ARG
+s90 : HIS
+s91 : ARG
+s92 : ARG
+s93 : GLY
+s94 : LEU
+s95 : PRO
+s96 : VAL
+s97 : ARG
+s98 : GLY
+s99 : GLN
+s100 : ARG
+s101 : THR
+s102 : LYS
+s103 : THR
+s104 : ASN
+s105 : ALA
+s106 : ARG
+s107 : THR
+s108 : ARG
+s109 : LYS
+s110 : GLY
+s111 : PRO
+s112 : ARG
+s113 : LYS
+s114 : PRO
+w1 : ALA
+w2 : LYS
+w3 : GLN
+w4 : SER
+w5 : MET
+w6 : LYS
+w7 : ALA
+w8 : ARG
+w9 : GLU
+w10 : VAL
+w11 : LYS
+w12 : ARG
+w13 : VAL
+w14 : ALA
+w15 : LEU
+w16 : ALA
+w17 : ASP
+w18 : LYS
+w19 : TYR
+w20 : PHE
+w21 : ALA
+w22 : LYS
+w23 : ARG
+w24 : ALA
+w25 : GLU
+w26 : LEU
+w27 : LYS
+w28 : ALA
+w29 : ILE
+w30 : ILE
+w31 : SER
+w32 : ASP
+w33 : VAL
+w34 : ASN
+w35 : ALA
+w41 : ARG
+w42 : TRP
+w43 : ASN
+w44 : ALA
+w45 : VAL
+w46 : LEU
+w47 : LYS
+w48 : LEU
+w49 : GLN
+w50 : THR
+w51 : LEU
+w52 : PRO
+w53 : ARG
+w54 : ASP
+w55 : SER
+w56 : SER
+w57 : PRO
+w58 : SER
+w59 : ARG
+w60 : GLN
+w61 : ARG
+w62 : ASN
+w63 : ARG
+w64 : CYS
+w65 : ARG
+w66 : GLN
+w67 : THR
+w68 : GLY
+w69 : ARG
+w70 : PRO
+w71 : HIS
+w72 : GLY
+w73 : PHE
+w74 : LEU
+w75 : ARG
+w76 : LYS
+w77 : PHE
+w78 : GLY
+w79 : LEU
+w80 : SER
+w81 : ARG
+w82 : ILE
+w83 : LYS
+w84 : VAL
+w85 : ARG
+w86 : GLU
+w87 : ALA
+w88 : ALA
+w89 : MET
+w90 : ARG
+w91 : GLY
+w92 : GLU
+w93 : ILE
+w94 : PRO
+w95 : GLY
+w96 : LEU
+w97 : LYS
+w98 : LYS
+w99 : ALA
+w100 : SER
+w101 : TRP
+z2 : ARG
+z3 : SER
+z4 : LEU
+z5 : LYS
+z6 : LYS
+z7 : GLY
+z8 : PRO
+z9 : PHE
+z10 : ILE
+z11 : ASP
+z12 : LEU
+z13 : HIS
+z14 : LEU
+z15 : LEU
+z16 : LYS
+z17 : LYS
+z18 : VAL
+z19 : GLU
+z20 : LYS
+z21 : ALA
+z22 : VAL
+z23 : GLU
+z24 : SER
+z25 : GLY
+z26 : ASP
+z27 : LYS
+z28 : LYS
+z29 : PRO
+z30 : LEU
+z31 : ARG
+z32 : THR
+z33 : TRP
+z34 : SER
+z35 : ARG
+z36 : ARG
+z37 : SER
+z38 : THR
+z39 : ILE
+z40 : PHE
+z41 : PRO
+z42 : ASN
+z43 : MET
+z44 : ILE
+z45 : GLY
+z46 : LEU
+z47 : THR
+z48 : ILE
+z49 : ALA
+z50 : VAL
+z51 : HIS
+z52 : ASN
+z53 : GLY
+z54 : ARG
+z55 : GLN
+z56 : HIS
+z57 : VAL
+z58 : PRO
+z59 : VAL
+z60 : PHE
+z61 : VAL
+z62 : THR
+z63 : ASP
+z64 : GLU
+z65 : MET
+z66 : VAL
+z67 : GLY
+z68 : HIS
+z69 : LYS
+z70 : LEU
+z71 : GLY
+z72 : GLU
+z73 : PHE
+z74 : ALA
+z75 : PRO
+z76 : THR
+z77 : ARG
+z78 : THR
+z79 : TYR
+z80 : ARG
+j8 : MET
+j9 : LEU
+j10 : LYS
+j11 : ALA
+j12 : GLY
+j13 : VAL
+j14 : HIS
+j15 : PHE
+j16 : GLY
+j17 : HIS
+j18 : GLN
+j19 : THR
+j20 : ARG
+j21 : TYR
+j22 : TRP
+j23 : ASN
+j24 : PRO
+j25 : LYS
+j26 : MET
+j27 : LYS
+j28 : PRO
+j29 : PHE
+j30 : ILE
+j31 : PHE
+j32 : GLY
+j33 : ALA
+j34 : ARG
+j35 : ASN
+j36 : LYS
+j37 : VAL
+j38 : HIS
+j39 : ILE
+j40 : ILE
+j41 : ASN
+j42 : LEU
+j43 : GLU
+j44 : LYS
+j45 : THR
+j46 : VAL
+j47 : PRO
+j48 : MET
+j49 : PHE
+j50 : ASN
+j51 : GLU
+j52 : ALA
+j53 : LEU
+j54 : ALA
+j55 : GLU
+j56 : LEU
+j57 : ASN
+j58 : LYS
+j59 : ILE
+j60 : ALA
+j61 : SER
+j62 : ARG
+j63 : LYS
+j64 : GLY
+j65 : LYS
+j66 : ILE
+j67 : LEU
+j68 : PHE
+j69 : VAL
+j70 : GLY
+j71 : THR
+j72 : LYS
+j73 : ARG
+j74 : ALA
+j75 : ALA
+j76 : SER
+j77 : GLU
+j78 : ALA
+j79 : VAL
+j80 : LYS
+j81 : ASP
+j82 : ALA
+j83 : ALA
+j84 : LEU
+j85 : SER
+j86 : CYS
+j87 : ASP
+j88 : GLN
+j89 : PHE
+j90 : PHE
+j91 : VAL
+j92 : ASN
+j93 : HIS
+j94 : ARG
+j95 : TRP
+j96 : LEU
+j97 : GLY
+j98 : GLY
+j99 : MET
+j100 : LEU
+j101 : THR
+j102 : ASN
+j103 : TRP
+j104 : LYS
+j105 : THR
+j106 : VAL
+j107 : ARG
+j108 : GLN
+j109 : SER
+j110 : ILE
+j111 : LYS
+j112 : ARG
+j113 : LEU
+j114 : LYS
+j115 : ASP
+j116 : LEU
+j117 : GLU
+j118 : THR
+j119 : GLN
+j120 : SER
+j121 : GLN
+j122 : ASP
+j123 : GLY
+j124 : THR
+j125 : PHE
+j126 : ASP
+j127 : LYS
+j128 : LEU
+j129 : THR
+j130 : LYS
+j131 : LYS
+j132 : GLU
+j133 : ALA
+j134 : LEU
+j135 : MET
+j136 : ARG
+j137 : THR
+j138 : ARG
+j139 : GLU
+j140 : LEU
+j141 : GLU
+j142 : LYS
+j143 : LEU
+j144 : GLU
+j145 : ASN
+j146 : SER
+j147 : LEU
+j148 : GLY
+j149 : GLY
+j150 : ILE
+j151 : LYS
+j152 : ASP
+j153 : MET
+j154 : GLY
+j155 : GLY
+j156 : LEU
+j157 : PRO
+j158 : ASP
+j159 : ALA
+j160 : LEU
+j161 : PHE
+j162 : VAL
+j163 : ILE
+j164 : ASP
+j165 : ALA
+j166 : ASP
+j167 : HIS
+j168 : GLU
+j169 : HIS
+j170 : ILE
+j171 : ALA
+j172 : ILE
+j173 : LYS
+j174 : GLU
+j175 : ALA
+j176 : ASN
+j177 : ASN
+j178 : LEU
+j179 : GLY
+j180 : ILE
+j181 : PRO
+j182 : VAL
+j183 : PHE
+j184 : ALA
+j185 : ILE
+j186 : VAL
+j187 : ASP
+j188 : THR
+j189 : ASN
+j190 : SER
+j191 : ASP
+j192 : PRO
+j193 : ASP
+j194 : GLY
+j195 : VAL
+j196 : ASP
+j197 : PHE
+j198 : VAL
+j199 : ILE
+j200 : PRO
+j201 : GLY
+j202 : ASN
+j203 : ASP
+j204 : ASP
+j205 : ALA
+j206 : ILE
+j207 : ARG
+j208 : ALA
+j209 : VAL
+j210 : THR
+j211 : LEU
+j212 : TYR
+j213 : LEU
+j214 : GLY
+j215 : ALA
+j216 : VAL
+j217 : ALA
+j218 : ALA
+j219 : THR
+j220 : VAL
+j221 : ARG
+j222 : GLU
+j223 : GLY
+j224 : ARG
+j225 : SER
+Adjacent stackings ----------------------------------------------
+g9-g10 : adjacent_5p upward 
+g10-g11 : adjacent_5p upward 
+g11-g12 : adjacent_5p upward 
+g15-g16 : adjacent_5p upward 
+g16-g17 : adjacent_5p upward 
+g17-g18 : adjacent_5p upward 
+g18-g19 : adjacent_5p upward 
+g19-g20 : adjacent_5p upward 
+g20-g21 : adjacent_5p upward 
+g21-g22 : adjacent_5p upward 
+g22-g23 : adjacent_5p upward 
+g27-g28 : adjacent_5p upward 
+g28-g29 : adjacent_5p upward 
+g29-g30 : adjacent_5p upward 
+g32-g33 : adjacent_5p upward 
+g33-g34 : adjacent_5p upward 
+g35-g36 : adjacent_5p upward 
+g36-g37 : adjacent_5p upward 
+g37-g38 : adjacent_5p upward 
+g39-g40 : adjacent_5p upward 
+g40-g41 : adjacent_5p upward 
+g42-g43 : adjacent_5p upward 
+g43-g44 : adjacent_5p upward 
+g44-g45 : adjacent_5p upward 
+g45-g46 : adjacent_5p upward 
+g53-g54 : adjacent_5p upward 
+g55-g56 : adjacent_5p upward 
+g57-g58 : adjacent_5p upward 
+g61-g62 : adjacent_5p upward 
+g66-g67 : adjacent_5p upward 
+g69-g70 : adjacent_5p upward 
+g74-g75 : adjacent_5p upward 
+g75-g76 : adjacent_5p upward 
+g76-g77 : adjacent_5p inward 
+g77-g78 : adjacent_5p outward 
+g78-g79 : adjacent_5p upward 
+g80-g81 : adjacent_5p upward 
+g88-g89 : adjacent_5p upward 
+g91-g92 : adjacent_5p upward 
+g96-g97 : adjacent_5p upward 
+g97-g98 : adjacent_5p upward 
+g98-g99 : adjacent_5p upward 
+g100-g101 : adjacent_5p upward 
+g101-g102 : adjacent_5p upward 
+g102-g103 : adjacent_5p upward 
+g103-g104 : adjacent_5p upward 
+g104-g105 : adjacent_5p upward 
+g105-g106 : adjacent_5p upward 
+g106-g107 : adjacent_5p upward 
+g112-g113 : adjacent_5p upward 
+g113-g114 : adjacent_5p upward 
+g122-g123 : adjacent_5p upward 
+g125-g126 : adjacent_5p upward 
+g126-g127 : adjacent_5p upward 
+g128-g129 : adjacent_5p upward 
+g131-g132 : adjacent_5p upward 
+g132-g133 : adjacent_5p upward 
+g134-g135 : adjacent_5p upward 
+g138-g139 : adjacent_5p upward 
+g141-g142 : adjacent_5p upward 
+g142-g143 : adjacent_5p upward 
+g144-g145 : adjacent_5p upward 
+g145-g146 : adjacent_5p upward 
+g146-g147 : adjacent_5p upward 
+g147-g148 : adjacent_5p upward 
+g148-g149 : adjacent_5p upward 
+g151-g152 : adjacent_5p upward 
+g155-g156 : adjacent_5p upward 
+g156-g157 : adjacent_5p upward 
+g158-g159 : adjacent_5p upward 
+g160-g161 : adjacent_5p upward 
+g161-g162 : adjacent_5p upward 
+g164-g165 : adjacent_5p upward 
+g165-g166 : adjacent_5p upward 
+g167-g168 : adjacent_5p upward 
+g168-g169 : adjacent_5p upward 
+g171-g172 : adjacent_5p upward 
+g174-g175 : adjacent_5p upward 
+g176-g177 : adjacent_5p inward 
+g177-g178 : adjacent_5p outward 
+g179-g180 : adjacent_5p upward 
+g184-g185 : adjacent_5p upward 
+g186-g187 : adjacent_5p upward 
+g189-g190 : adjacent_5p upward 
+g190-g191 : adjacent_5p upward 
+g191-g192 : adjacent_5p upward 
+g192-g193 : adjacent_5p upward 
+g198-g199 : adjacent_5p upward 
+g199-g200 : adjacent_5p upward 
+g200-g201 : adjacent_5p upward 
+g201-g202 : adjacent_5p upward 
+g202-g203 : adjacent_5p upward 
+g204-g205 : adjacent_5p upward 
+g205-g206 : adjacent_5p upward 
+g207-g208 : adjacent_5p upward 
+g211-g212 : adjacent_5p outward 
+g212-g213 : adjacent_5p upward 
+g213-g214 : adjacent_5p upward 
+g215-g216 : adjacent_5p upward 
+g218-g219 : adjacent_5p upward 
+g220-g221 : adjacent_5p upward 
+g222-g223 : adjacent_5p upward 
+g223-g224 : adjacent_5p inward 
+g226-g227 : adjacent_5p upward 
+g227-g228 : adjacent_5p upward 
+g228-g229 : adjacent_5p upward 
+g230-g231 : adjacent_5p upward 
+g232-g233 : adjacent_5p upward 
+g234-g235 : adjacent_5p upward 
+g235-g236 : adjacent_5p upward 
+g236-g237 : adjacent_5p upward 
+g237-g238 : adjacent_5p upward 
+g238-g239 : adjacent_5p upward 
+g240-g241 : adjacent_5p upward 
+g241-g242 : adjacent_5p upward 
+g247-g248 : adjacent_5p upward 
+g248-g249 : adjacent_5p upward 
+g253-g254 : adjacent_5p upward 
+g254-g255 : adjacent_5p upward 
+g255-g256 : adjacent_5p upward 
+g256-g257 : adjacent_5p upward 
+g257-g258 : adjacent_5p upward 
+g258-g259 : adjacent_5p upward 
+g259-g260 : adjacent_5p upward 
+g260-g261 : adjacent_5p upward 
+g262-g263 : adjacent_5p upward 
+g264-g265 : adjacent_5p upward 
+g268-g269 : adjacent_5p upward 
+g270-g271 : adjacent_5p upward 
+g272-g273 : adjacent_5p upward 
+g275-g276 : adjacent_5p upward 
+g276-g277 : adjacent_5p upward 
+g282-g283 : adjacent_5p upward 
+g283-g284 : adjacent_5p upward 
+g286-g287 : adjacent_5p upward 
+g289-g290 : adjacent_5p upward 
+g293-g294 : adjacent_5p upward 
+g295-g296 : adjacent_5p upward 
+g298-g299 : adjacent_5p upward 
+g299-g300 : adjacent_5p upward 
+g301-g302 : adjacent_5p upward 
+g302-g303 : adjacent_5p upward 
+g303-g304 : adjacent_5p upward 
+g306-g307 : adjacent_5p upward 
+g307-g308 : adjacent_5p upward 
+g308-g309 : adjacent_5p upward 
+g309-g310 : adjacent_5p upward 
+g310-g311 : adjacent_5p upward 
+g311-g312 : adjacent_5p upward 
+g312-g313 : adjacent_5p upward 
+g313-g314 : adjacent_5p upward 
+g318-g319 : adjacent_5p upward 
+g319-g320 : adjacent_5p upward 
+g320-g321 : adjacent_5p upward 
+g321-g322 : adjacent_5p upward 
+g322-g323 : adjacent_5p upward 
+g323-g324 : adjacent_5p upward 
+g325-g326 : adjacent_5p upward 
+g332-g333 : adjacent_5p upward 
+g336-g337 : adjacent_5p upward 
+g337-g338 : adjacent_5p upward 
+g338-g339 : adjacent_5p upward 
+g342-g343 : adjacent_5p upward 
+g347-g348 : adjacent_5p upward 
+g348-g349 : adjacent_5p upward 
+g349-g350 : adjacent_5p upward 
+g354-g355 : adjacent_5p upward 
+g356-g357 : adjacent_5p upward 
+g357-g358 : adjacent_5p upward 
+g358-g359 : adjacent_5p upward 
+g359-g360 : adjacent_5p upward 
+g360-g361 : adjacent_5p upward 
+g363-g364 : adjacent_5p upward 
+g369-g370 : adjacent_5p upward 
+g374-g375 : adjacent_5p upward 
+g375-g376 : adjacent_5p upward 
+g376-g377 : adjacent_5p upward 
+g377-g378 : adjacent_5p upward 
+g378-g379 : adjacent_5p upward 
+g379-g380 : adjacent_5p upward 
+g381-g382 : adjacent_5p upward 
+g382-g383 : adjacent_5p upward 
+g384-g385 : adjacent_5p upward 
+g386-g387 : adjacent_5p upward 
+g391-g392 : adjacent_5p upward 
+g393-g394 : adjacent_5p upward 
+g394-g395 : adjacent_5p upward 
+g395-g396 : adjacent_5p upward 
+g399-g400 : adjacent_5p upward 
+g400-g401 : adjacent_5p upward 
+g401-g402 : adjacent_5p upward 
+g402-g403 : adjacent_5p upward 
+g404-g405 : adjacent_5p upward 
+g406-g407 : adjacent_5p upward 
+g408-g409 : adjacent_5p upward 
+g409-g410 : adjacent_5p upward 
+g414-g415 : adjacent_5p upward 
+g415-g416 : adjacent_5p upward 
+g416-g417 : adjacent_5p upward 
+g417-g418 : adjacent_5p upward 
+g418-g419 : adjacent_5p upward 
+g419-g420 : adjacent_5p upward 
+g423-g424 : adjacent_5p outward 
+g424-g425 : adjacent_5p upward 
+g425-g426 : adjacent_5p upward 
+g427-g428 : adjacent_5p inward 
+g430-g431 : adjacent_5p upward 
+g431-g432 : adjacent_5p upward 
+g432-g433 : adjacent_5p upward 
+g433-g434 : adjacent_5p upward 
+g441-g442 : adjacent_5p upward 
+g442-g443 : adjacent_5p upward 
+g444-g445 : adjacent_5p upward 
+g445-g446 : adjacent_5p upward 
+g446-g447 : adjacent_5p upward 
+g448-g449 : adjacent_5p upward 
+g449-g450 : adjacent_5p upward 
+g452-g453 : adjacent_5p upward 
+g453-g454 : adjacent_5p upward 
+g454-g455 : adjacent_5p upward 
+g455-g456 : adjacent_5p upward 
+g456-g457 : adjacent_5p upward 
+g457-g458 : adjacent_5p upward 
+g458-g459 : adjacent_5p upward 
+g459-g460 : adjacent_5p upward 
+g460-g461 : adjacent_5p upward 
+g461-g462 : adjacent_5p upward 
+g469-g470 : adjacent_5p upward 
+g470-g471 : adjacent_5p upward 
+g471-g472 : adjacent_5p upward 
+g474-g475 : adjacent_5p upward 
+g478-g479 : adjacent_5p upward 
+g482-g483 : adjacent_5p upward 
+g483-g484 : adjacent_5p inward 
+g486-g487 : adjacent_5p upward 
+g487-g488 : adjacent_5p upward 
+g489-g490 : adjacent_5p upward 
+g491-g492 : adjacent_5p upward 
+g495-g496 : adjacent_5p downward 
+g497-g498 : adjacent_5p upward 
+g500-g501 : adjacent_5p upward 
+g502-g503 : adjacent_5p upward 
+g505-g506 : adjacent_5p upward 
+g506-g507 : adjacent_5p upward 
+g507-g508 : adjacent_5p inward 
+g509-g510 : adjacent_5p upward 
+g515-g516 : adjacent_5p upward 
+g519-g520 : adjacent_5p upward 
+g521-g522 : adjacent_5p upward 
+g522-g523 : adjacent_5p upward 
+g525-g526 : adjacent_5p upward 
+g537-g538 : adjacent_5p upward 
+g538-g539 : adjacent_5p upward 
+g539-g540 : adjacent_5p upward 
+g540-g541 : adjacent_5p upward 
+g541-g542 : adjacent_5p upward 
+g542-g543 : adjacent_5p upward 
+g544-g545 : adjacent_5p upward 
+g545-g546 : adjacent_5p upward 
+g548-g549 : adjacent_5p upward 
+g550-g551 : adjacent_5p upward 
+g553-g554 : adjacent_5p upward 
+g554-g555 : adjacent_5p upward 
+g557-g558 : adjacent_5p upward 
+g567-g568 : adjacent_5p upward 
+g568-g569 : adjacent_5p upward 
+g570-g571 : adjacent_5p upward 
+g577-g578 : adjacent_5p upward 
+g578-g579 : adjacent_5p upward 
+g579-g580 : adjacent_5p upward 
+g580-g581 : adjacent_5p upward 
+g583-g584 : adjacent_5p upward 
+g584-g585 : adjacent_5p upward 
+g585-g586 : adjacent_5p upward 
+g588-g589 : adjacent_5p upward 
+g592-g593 : adjacent_5p upward 
+g593-g594 : adjacent_5p upward 
+g596-g597 : adjacent_5p upward 
+g597-g598 : adjacent_5p upward 
+g600-g601 : adjacent_5p upward 
+g601-g602 : adjacent_5p upward 
+g602-g603 : adjacent_5p upward 
+g604-g605 : adjacent_5p upward 
+g607-g608 : adjacent_5p upward 
+g613-g614 : adjacent_5p upward 
+g614-g615 : adjacent_5p upward 
+g615-g616 : adjacent_5p upward 
+g616-g617 : adjacent_5p upward 
+g617-g618 : adjacent_5p upward 
+g620-g621 : adjacent_5p upward 
+g623-g624 : adjacent_5p upward 
+g624-g625 : adjacent_5p upward 
+g626-g627 : adjacent_5p upward 
+g627-g628 : adjacent_5p upward 
+g628-g629 : adjacent_5p upward 
+g629-g630 : adjacent_5p upward 
+g630-g631 : adjacent_5p upward 
+g633-g634 : adjacent_5p upward 
+g634-g635 : adjacent_5p upward 
+g635-g636 : adjacent_5p upward 
+g639-g640 : adjacent_5p upward 
+g642-g643 : adjacent_5p upward 
+g643-g644 : adjacent_5p upward 
+g645-g646 : adjacent_5p upward 
+g646-g647 : adjacent_5p upward 
+g648-g649 : adjacent_5p upward 
+g649-g650 : adjacent_5p upward 
+g650-g651 : adjacent_5p upward 
+g654-g655 : adjacent_5p upward 
+g655-g656 : adjacent_5p upward 
+g656-g657 : adjacent_5p upward 
+g659-g660 : adjacent_5p upward 
+g660-g661 : adjacent_5p upward 
+g661-g662 : adjacent_5p upward 
+g663-g664 : adjacent_5p upward 
+g666-g667 : adjacent_5p upward 
+g667-g668 : adjacent_5p upward 
+g668-g669 : adjacent_5p upward 
+g669-g670 : adjacent_5p upward 
+g670-g671 : adjacent_5p upward 
+g671-g672 : adjacent_5p upward 
+g673-g674 : adjacent_5p upward 
+g674-g675 : adjacent_5p upward 
+g675-g676 : adjacent_5p upward 
+g676-g677 : adjacent_5p upward 
+g677-g678 : adjacent_5p upward 
+g680-g681 : adjacent_5p upward 
+g681-g682 : adjacent_5p upward 
+g682-g683 : adjacent_5p upward 
+g683-g684 : adjacent_5p upward 
+g688-g689 : adjacent_5p upward 
+g689-g690 : adjacent_5p upward 
+g696-g697 : adjacent_5p upward 
+g697-g698 : adjacent_5p upward 
+g698-g699 : adjacent_5p upward 
+g704-g705 : adjacent_5p upward pairing 
+g706-g707 : adjacent_5p upward 
+g709-g710 : adjacent_5p upward 
+g710-g711 : adjacent_5p upward 
+g711-g712 : adjacent_5p upward 
+g712-g713 : adjacent_5p upward 
+g714-g715 : adjacent_5p upward 
+g715-g716 : adjacent_5p upward 
+g716-g717 : adjacent_5p upward 
+g718-g719 : adjacent_5p upward 
+g720-g721 : adjacent_5p inward 
+g724-g725 : adjacent_5p upward 
+g725-g726 : adjacent_5p upward 
+g728-g729 : adjacent_5p upward 
+g729-g730 : adjacent_5p upward 
+g731-g732 : adjacent_5p upward 
+g734-g735 : adjacent_5p upward 
+g739-g740 : adjacent_5p upward 
+g741-g742 : adjacent_5p upward 
+g742-g743 : adjacent_5p upward 
+g743-g744 : adjacent_5p upward 
+g745-g746 : adjacent_5p upward 
+g746-g747 : adjacent_5p upward 
+g747-g748 : adjacent_5p upward 
+g748-g749 : adjacent_5p upward 
+g749-g750 : adjacent_5p upward 
+g751-g752 : adjacent_5p upward 
+g755-g756 : adjacent_5p upward 
+g756-g757 : adjacent_5p upward 
+g759-g760 : adjacent_5p upward 
+g761-g762 : adjacent_5p upward 
+g763-g764 : adjacent_5p upward 
+g764-g765 : adjacent_5p upward 
+g767-g768 : adjacent_5p upward 
+g769-g770 : adjacent_5p upward 
+g771-g772 : adjacent_5p upward 
+g772-g773 : adjacent_5p upward 
+g773-g774 : adjacent_5p upward 
+g774-g775 : adjacent_5p upward 
+g775-g776 : adjacent_5p upward 
+g777-g778 : adjacent_5p upward 
+g778-g779 : adjacent_5p upward 
+g779-g780 : adjacent_5p upward 
+g782-g783 : adjacent_5p upward 
+g784-g785 : adjacent_5p upward 
+g785-g786 : adjacent_5p upward 
+g786-g787 : adjacent_5p upward 
+g787-g788 : adjacent_5p upward 
+g790-g791 : adjacent_5p upward 
+g794-g795 : adjacent_5p upward 
+g796-g797 : adjacent_5p upward 
+g799-g800 : adjacent_5p upward 
+g802-g803 : adjacent_5p upward 
+g803-g804 : adjacent_5p upward 
+g807-g808 : adjacent_5p upward 
+g809-g810 : adjacent_5p upward 
+g821-g822 : adjacent_5p upward 
+g823-g824 : adjacent_5p upward 
+g824-g825 : adjacent_5p upward 
+g825-g826 : adjacent_5p upward 
+g829-g830 : adjacent_5p upward 
+g830-g831 : adjacent_5p upward 
+g832-g833 : adjacent_5p upward 
+g833-g834 : adjacent_5p upward 
+g836-g837 : adjacent_5p upward 
+g838-g839 : adjacent_5p upward 
+g839-g840 : adjacent_5p upward 
+g846-g847 : adjacent_5p upward 
+g851-g852 : adjacent_5p upward 
+g852-g853 : adjacent_5p upward 
+g853-g854 : adjacent_5p upward 
+g855-g856 : adjacent_5p upward 
+g857-g858 : adjacent_5p upward 
+g859-g860 : adjacent_5p upward 
+g860-g861 : adjacent_5p upward 
+g861-g862 : adjacent_5p upward 
+g862-g863 : adjacent_5p upward 
+g864-g865 : adjacent_5p upward 
+g865-g866 : adjacent_5p upward 
+g867-g868 : adjacent_5p upward 
+g868-g869 : adjacent_5p upward 
+g874-g875 : adjacent_5p upward 
+g877-g878 : adjacent_5p upward 
+g878-g879 : adjacent_5p upward 
+g881-g882 : adjacent_5p upward 
+g885-g886 : adjacent_5p upward 
+g886-g887 : adjacent_5p upward 
+g887-g888 : adjacent_5p upward 
+g888-g889 : adjacent_5p inward 
+g892-g893 : adjacent_5p upward 
+g893-g894 : adjacent_5p upward 
+g894-g895 : adjacent_5p upward 
+g895-g896 : adjacent_5p upward 
+g897-g898 : adjacent_5p upward 
+g902-g903 : adjacent_5p upward 
+g903-g904 : adjacent_5p upward 
+g904-g905 : adjacent_5p upward 
+g907-g908 : adjacent_5p upward 
+g909-g910 : adjacent_5p upward 
+g914-g915 : adjacent_5p upward 
+g915-g916 : adjacent_5p upward 
+g917-g918 : adjacent_5p upward 
+g918-g919 : adjacent_5p upward 
+g927-g928 : adjacent_5p upward 
+g928-g929 : adjacent_5p upward 
+g929-g930 : adjacent_5p upward 
+g935-g936 : adjacent_5p upward 
+g938-g939 : adjacent_5p upward 
+g939-g940 : adjacent_5p upward 
+g940-g941 : adjacent_5p upward 
+g941-g942 : adjacent_5p upward 
+g947-g948 : adjacent_5p upward 
+g949-g950 : adjacent_5p upward 
+g951-g952 : adjacent_5p upward 
+g954-g955 : adjacent_5p upward 
+g962-g963 : adjacent_5p upward 
+g963-g964 : adjacent_5p inward 
+g973-g974 : adjacent_5p inward 
+g981-g982 : adjacent_5p inward 
+g982-g983 : adjacent_5p downward 
+g986-g987 : adjacent_5p upward 
+g994-g995 : adjacent_5p upward 
+g1001-g1002 : adjacent_5p upward 
+g1009-g1010 : adjacent_5p upward 
+g1010-g1011 : adjacent_5p upward 
+g1012-g1013 : adjacent_5p upward 
+g1014-g1015 : adjacent_5p upward 
+g1017-g1018 : adjacent_5p upward 
+g1019-g1020 : adjacent_5p upward 
+g1026-g1027 : adjacent_5p upward 
+g1033-g1034 : adjacent_5p upward 
+g1037-g1038 : adjacent_5p upward 
+g1050-g1051 : adjacent_5p upward 
+g1051-g1052 : adjacent_5p upward 
+g1057-g1058 : adjacent_5p upward 
+g1061-g1062 : adjacent_5p upward 
+g1063-g1064 : adjacent_5p inward 
+g1068-g1069 : adjacent_5p upward 
+g1069-g1070 : adjacent_5p upward 
+g1072-g1073 : adjacent_5p upward 
+g1074-g1075 : adjacent_5p upward 
+g1076-g1077 : adjacent_5p upward 
+g1079-g1080 : adjacent_5p upward 
+g1081-g1082 : adjacent_5p upward 
+g1082-g1083 : adjacent_5p upward 
+g1087-g1088 : adjacent_5p upward 
+g1088-g1089 : adjacent_5p upward 
+g1090-g1091 : adjacent_5p upward 
+g1099-g1100 : adjacent_5p upward 
+g1102-g1103 : adjacent_5p upward 
+g1103-g1104 : adjacent_5p upward 
+g1104-g1105 : adjacent_5p upward 
+g1105-g1106 : adjacent_5p upward 
+g1106-g1107 : adjacent_5p upward 
+g1108-g1109 : adjacent_5p upward 
+g1110-g1111 : adjacent_5p upward 
+g1111-g1112 : adjacent_5p upward 
+g1114-g1115 : adjacent_5p upward 
+g1115-g1116 : adjacent_5p upward 
+g1121-g1122 : adjacent_5p upward 
+g1130-g1131 : adjacent_5p upward 
+g1133-g1134 : adjacent_5p upward 
+g1148-g1149 : adjacent_5p upward pairing 
+g1149-g1150 : adjacent_5p upward 
+g1151-g1152 : adjacent_5p upward 
+g1152-g1153 : adjacent_5p upward 
+g1153-g1154 : adjacent_5p upward 
+g1154-g1155 : adjacent_5p upward 
+g1155-g1156 : adjacent_5p upward 
+g1160-g1161 : adjacent_5p upward 
+g1161-g1162 : adjacent_5p upward 
+g1163-g1164 : adjacent_5p upward 
+g1164-g1165 : adjacent_5p upward 
+g1165-g1166 : adjacent_5p upward 
+g1169-g1170 : adjacent_5p upward 
+g1170-g1171 : adjacent_5p upward 
+g1171-g1172 : adjacent_5p upward 
+g1174-g1175 : adjacent_5p upward 
+g1177-g1178 : adjacent_5p upward 
+g1181-g1182 : adjacent_5p upward pairing 
+g1184-g1185 : adjacent_5p upward 
+g1185-g1186 : adjacent_5p upward 
+g1186-g1187 : adjacent_5p upward 
+g1187-g1188 : adjacent_5p upward 
+g1188-g1189 : adjacent_5p upward 
+g1191-g1192 : adjacent_5p upward 
+g1192-g1193 : adjacent_5p upward 
+g1193-g1194 : adjacent_5p upward 
+g1198-g1199 : adjacent_5p upward 
+g1202-g1203 : adjacent_5p upward 
+g1206-g1207 : adjacent_5p upward 
+g1215-g1216 : adjacent_5p upward 
+g1216-g1217 : adjacent_5p upward 
+g1219-g1220 : adjacent_5p upward 
+g1220-g1221 : adjacent_5p upward 
+g1222-g1223 : adjacent_5p upward 
+g1229-g1230 : adjacent_5p upward 
+g1230-g1231 : adjacent_5p upward 
+g1231-g1232 : adjacent_5p upward 
+g1233-g1234 : adjacent_5p upward 
+g1236-g1237 : adjacent_5p upward 
+g1244-g1245 : adjacent_5p upward 
+g1251-g1252 : adjacent_5p outward 
+g1253-g1254 : adjacent_5p upward 
+g1258-g1259 : adjacent_5p upward 
+g1263-g1264 : adjacent_5p upward 
+g1265-g1266 : adjacent_5p upward 
+g1268-g1269 : adjacent_5p upward 
+g1270-g1271 : adjacent_5p upward 
+g1272-g1273 : adjacent_5p upward 
+g1275-g1276 : adjacent_5p upward 
+g1276-g1277 : adjacent_5p upward 
+g1288-g1289 : adjacent_5p upward 
+g1292-g1293 : adjacent_5p upward 
+g1294-g1295 : adjacent_5p upward 
+g1303-g1304 : adjacent_5p upward 
+g1308-g1309 : adjacent_5p upward 
+g1309-g1310 : adjacent_5p upward 
+g1312-g1313 : adjacent_5p upward 
+g1324-g1325 : adjacent_5p upward 
+g1332-g1333 : adjacent_5p outward 
+g1333-g1334 : adjacent_5p upward 
+g1338-g1339 : adjacent_5p upward 
+g1341-g1342 : adjacent_5p upward 
+g1343-g1344 : adjacent_5p upward 
+g1349-g1350 : adjacent_5p upward 
+g1350-g1351 : adjacent_5p upward 
+g1352-g1353 : adjacent_5p upward 
+g1353-g1354 : adjacent_5p upward 
+g1355-g1356 : adjacent_5p upward 
+g1356-g1357 : adjacent_5p upward 
+g1365-g1366 : adjacent_5p upward 
+g1366-g1367 : adjacent_5p upward 
+g1368-g1369 : adjacent_5p upward 
+g1370-g1371 : adjacent_5p upward 
+g1371-g1372 : adjacent_5p upward 
+g1372-g1373 : adjacent_5p upward 
+g1379-g1380 : adjacent_5p upward 
+g1382-g1383 : adjacent_5p outward 
+g1385-g1386 : adjacent_5p upward 
+g1386-g1387 : adjacent_5p upward 
+g1387-g1388 : adjacent_5p upward 
+g1389-g1390 : adjacent_5p upward 
+g1392-g1393 : adjacent_5p upward 
+g1401-g1402 : adjacent_5p upward 
+g1408-g1409 : adjacent_5p upward 
+g1410-g1411 : adjacent_5p upward 
+g1413-g1414 : adjacent_5p upward 
+g1415-g1416 : adjacent_5p upward 
+g1416-g1417 : adjacent_5p upward 
+g1418-g1419 : adjacent_5p upward 
+g1419-g1420 : adjacent_5p upward 
+g1420-g1421 : adjacent_5p upward 
+g1421-g1422 : adjacent_5p upward 
+g1422-g1423 : adjacent_5p upward 
+g1423-g1424 : adjacent_5p upward 
+g1424-g1425 : adjacent_5p upward 
+g1427-g1428 : adjacent_5p upward 
+g1428-g1429 : adjacent_5p upward 
+g1429-g1430 : adjacent_5p upward 
+g1430-g1431 : adjacent_5p upward 
+g1431-g1432 : adjacent_5p upward 
+g1433-g1434 : adjacent_5p upward 
+g1434-g1435 : adjacent_5p upward 
+g1435-g1436 : adjacent_5p upward 
+g1437-g1438 : adjacent_5p upward 
+g1438-g1439 : adjacent_5p upward 
+g1439-g1440 : adjacent_5p upward 
+g1441-g1442 : adjacent_5p upward 
+g1442-g1443 : adjacent_5p upward 
+g1443-g1444 : adjacent_5p upward 
+g1444-g1445 : adjacent_5p upward 
+g1449-g1450 : adjacent_5p upward 
+g1454-g1455 : adjacent_5p upward 
+g1455-g1456 : adjacent_5p upward 
+g1456-g1457 : adjacent_5p upward 
+g1457-g1458 : adjacent_5p upward 
+g1458-g1459 : adjacent_5p upward 
+g1459-g1460 : adjacent_5p upward 
+g1460-g1461 : adjacent_5p upward 
+g1461-g1462 : adjacent_5p upward 
+g1462-g1463 : adjacent_5p upward 
+g1465-g1466 : adjacent_5p upward 
+g1466-g1467 : adjacent_5p upward 
+g1468-g1469 : adjacent_5p upward 
+g1473-g1474 : adjacent_5p upward 
+g1475-g1476 : adjacent_5p inward 
+g1480-g1481 : adjacent_5p upward 
+g1481-g1482 : adjacent_5p upward 
+g1483-g1484 : adjacent_5p upward 
+g1484-g1485 : adjacent_5p upward 
+g1486-g1487 : adjacent_5p upward 
+g1487-g1488 : adjacent_5p upward 
+g1488-g1489 : adjacent_5p upward 
+g1489-g1490 : adjacent_5p upward 
+g1496-g1497 : adjacent_5p upward 
+g1499-g1500 : adjacent_5p upward 
+g1500-g1501 : adjacent_5p upward 
+g1507-g1508 : adjacent_5p upward 
+g1508-g1509 : adjacent_5p upward 
+g1511-g1512 : adjacent_5p upward 
+g1513-g1514 : adjacent_5p upward 
+g1514-g1515 : adjacent_5p upward 
+g1515-g1516 : adjacent_5p upward 
+g1518-g1519 : adjacent_5p upward 
+g1520-g1521 : adjacent_5p upward 
+g1523-g1524 : adjacent_5p upward 
+g1525-g1526 : adjacent_5p upward 
+g1526-g1527 : adjacent_5p upward 
+g1531-g1532 : adjacent_5p upward 
+g1535-g1536 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+g9-g26 : outward 
+g19-g917 : outward 
+g32-g553 : outward 
+g35-g550 : outward 
+g38-g397 : downward 
+g39-g404 : outward 
+g41-g402 : outward 
+g44-g399 : outward 
+g46-g366 : upward 
+g51-g116 : upward pairing 
+g53-g359 : outward 
+g57-g356 : outward 
+g59-g331 : upward 
+g59-g354 : outward 
+g61-g107 : outward 
+g70-g94 : inward 
+g74-g97 : outward 
+g76-g95 : outward 
+g81-g89 : outward 
+g109-g326 : downward pairing 
+g109-g327 : upward 
+g115-g313 : outward 
+g119-g240 : upward 
+g119-g288 : outward 
+g120-g122 : upward pairing 
+g126-g236 : outward 
+g128-g234 : outward 
+g131-g232 : outward 
+g134-g325 : outward 
+g138-g226 : outward 
+g141-g223 : outward 
+g144-g179 : outward 
+g155-g167 : outward 
+g158-g164 : outward 
+g172-g174 : upward 
+g173-g197 : outward 
+g181-g194 : inward pairing 
+g181-g195 : outward 
+g182-g184 : upward 
+g242-g245 : upward 
+g243-g245 : downward 
+g244-g894 : outward 
+g257-g270 : outward 
+g265-g267 : upward 
+g292-g309 : outward 
+g293-g305 : outward 
+g316-g351 : downward 
+g318-g336 : outward 
+g327-g329 : upward 
+g329-g332 : upward 
+g367-g394 : outward 
+g369-g393 : outward 
+g371-g391 : outward 
+g376-g389 : outward 
+g380-g384 : outward 
+g406-g495 : downward 
+g408-g435 : outward 
+g410-g429 : inward pairing 
+g411-g413 : upward 
+g411-g429 : outward 
+g428-g430 : outward 
+g444-g491 : outward 
+g448-g487 : outward 
+g459-g474 : outward 
+g466-g468 : inward 
+g484-g486 : outward 
+g499-g547 : outward 
+g500-g546 : outward 
+g502-g544 : outward 
+g505-g535 : outward 
+g515-g537 : outward 
+g559-g561 : inward 
+g562-g884 : downward 
+g563-g567 : outward 
+g570-g873 : outward 
+g575-g821 : upward 
+g575-g881 : outward 
+g577-g816 : downward 
+g579-g763 : outward 
+g581-g761 : outward 
+g587-g755 : outward 
+g588-g753 : downward 
+g590-g650 : outward 
+g592-g648 : outward 
+g596-g645 : outward 
+g600-g639 : outward 
+g604-g635 : outward 
+g606-g633 : upward 
+g615-g626 : outward 
+g654-g753 : outward 
+g659-g748 : outward 
+g661-g745 : outward 
+g665-g725 : upward 
+g665-g732 : inward 
+g665-g733 : outward 
+g666-g741 : outward 
+g671-g736 : outward 
+g673-g734 : outward 
+g680-g711 : outward 
+g681-g710 : outward 
+g687-g701 : upward 
+g688-g700 : outward 
+g721-g733 : downward 
+g722-g724 : outward 
+g727-g731 : outward 
+g765-g812 : inward pairing 
+g766-g814 : outward 
+g771-g809 : outward 
+g773-g807 : outward 
+g782-g801 : outward 
+g784-g799 : outward 
+g785-g798 : outward 
+g815-g1529 : outward 
+g824-g877 : outward 
+g827-g870 : upward 
+g828-g859 : outward 
+g832-g855 : outward 
+g838-g848 : outward 
+g858-g869 : inward 
+g872-g874 : outward 
+g892-g907 : outward 
+g898-g902 : outward 
+g923-g1398 : downward 
+g933-g935 : upward 
+g933-g1385 : outward 
+g945-g1337 : downward 
+g949-g1233 : outward 
+g957-g960 : outward 
+g963-g973 : outward 
+g987-g1219 : outward 
+g996-g1044 : upward 
+g997-g1044 : inward 
+g1002-g1039 : outward 
+g1053-g1199 : inward 
+g1061-g1197 : outward 
+g1072-g1104 : outward 
+g1074-g1102 : outward 
+g1077-g1081 : outward 
+g1117-g1184 : outward 
+g1120-g1154 : outward 
+g1157-g1181 : outward 
+g1159-g1182 : downward 
+g1237-g1336 : upward 
+g1250-g1287 : outward 
+g1256-g1258 : outward 
+g1261-g1275 : upward 
+g1299-g1301 : outward 
+g1300-g1334 : inward 
+g1301-g1303 : upward 
+g1309-g1329 : outward 
+g1315-g1323 : outward 
+g1319-g1323 : upward pairing 
+g1345-g1377 : upward 
+g1346-g1348 : outward 
+g1347-g1373 : inward 
+g1349-g1374 : outward 
+g1352-g1371 : outward 
+g1353-g1370 : outward 
+g1355-g1368 : outward 
+g1410-g1491 : outward 
+g1417-g1482 : inward 
+g1421-g1480 : outward 
+g1426-g1475 : outward 
+g1428-g1473 : outward 
+g1430-g1471 : outward 
+g1437-g1465 : outward 
+g1507-g1530 : outward 
+g1511-g1525 : outward 
+g1513-g1523 : outward 
+Number of stackings = 815
+Number of adjacent stackings = 646
+Number of non adjacent stackings = 169
+Base-pairs ------------------------------------------------------
+g2-g3 : A-A Hw/Ww adjacent_5p pairing parallel cis one_hbond 38 
+g3-g628 : A-G Ww/O2' Bh/O2' pairing 
+g9-g25 : G-C Ww/Ww pairing antiparallel cis XIX 
+g10-g24 : A-U Ww/Ww pairing antiparallel cis XX 
+g11-g23 : G-C Ww/Ww pairing antiparallel cis XIX 
+g11-g506 : G-G O2'/Bs pairing 
+g12-g22 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+g14-g17 : U-U Ws/Hh pairing antiparallel trans one_hbond 
+g16-g1080 : A-A Bs/Ss Ss/O2' pairing antiparallel cis one_hbond 
+g17-g918 : U-A Ww/Ww pairing antiparallel cis XX 
+g18-g917 : C-G Ww/Ww pairing antiparallel cis XIX 
+g18-g1078 : C-U O2'/Ww pairing 
+g19-g916 : A-U Ww/Ww pairing antiparallel cis XX 
+g20-g572 : U-A O2'/Ww pairing 
+g21-g914 : G-A Ss/Hh pairing antiparallel trans XI 
+g23-g561 : C-U O2P/Ww pairing 
+g27-g556 : G-C Ww/Ww pairing antiparallel cis XIX 
+g28-g555 : A-U Ww/Ww pairing antiparallel cis XX 
+g29-g554 : U-A Ww/Ww pairing antiparallel cis XX 
+g30-g553 : U-A Ww/Ww pairing antiparallel cis XX 
+g32-g552 : A-U Ww/Ww pairing antiparallel cis XX 
+g33-g551 : A-U Ww/Ww pairing antiparallel cis XX 
+g34-g550 : C-G Ww/Ww pairing antiparallel cis XIX 
+g35-g549 : G-C Ww/Ww pairing antiparallel cis XIX 
+g36-g548 : C-G Ww/Ww pairing antiparallel cis XIX 
+g37-g397 : U-A Ws/Ww pairing parallel trans XXI 
+g39-g403 : G-C Ww/Ww pairing antiparallel cis XIX 
+g40-g402 : C-G Ww/Ww pairing antiparallel cis XIX 
+g41-g401 : G-C Ww/Ww pairing antiparallel cis XIX 
+g42-g400 : G-C Ww/Ww pairing antiparallel cis XIX 
+g42-g622 : G-A O2'/Ww pairing 
+g43-g399 : C-G Ww/Ww pairing antiparallel cis XIX 
+g44-g398 : A-U Ww/Ww pairing antiparallel cis XX 
+g45-g396 : G-C Ww/Ww pairing antiparallel cis XIX 
+g46-g395 : G-C Ww/Ww pairing antiparallel cis XIX 
+g47-g361 : C-G Ww/Ww pairing antiparallel cis XIX 
+g49-g361 : U-G O2'/Bs pairing 
+g49-g364 : U-A Ww/Hh pairing parallel trans one_hbond 
+g51-g116 : A-A O2'/Ss upward pairing 
+g52-g359 : C-G Ww/Ww pairing antiparallel cis XIX 
+g53-g353 : A-A O2P/Bh pairing 
+g54-g357 : C-G Ww/Ww pairing antiparallel cis XIX 
+g55-g357 : A-G Hh/Sw pairing antiparallel trans one_hbond 
+g55-g368 : A-U Ww/Ws pairing parallel trans XXI 
+g56-g352 : U-C Hw/Wh pairing antiparallel cis one_hbond 102 
+g56-g356 : U-A Ww/Ww pairing antiparallel cis XX 
+g57-g355 : G-C Ww/Ww pairing antiparallel cis one_hbond 
+g58-g354 : C-G Ww/Ww pairing antiparallel cis XIX 
+g60-g110 : A-C Hw/Ww pairing antiparallel trans one_hbond 
+g61-g106 : G-C Ww/Ww pairing antiparallel cis XIX 
+g62-g105 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+g63-g104 : C-G Ww/Ww pairing antiparallel cis XIX 
+g64-g68 : G-G Ww/Hh pairing parallel cis one_hbond 
+g66-g103 : A-U Ww/Ww pairing antiparallel cis XX 
+g67-g102 : C-G Ww/Ww pairing antiparallel cis XIX 
+g67-g171 : C-A O2'/Ss pairing 
+g68-g101 : G-A Ww/Ww pairing antiparallel cis VIII 
+g68-g152 : G-A Sw/Ss pairing parallel trans one_hbond 57 
+g69-g99 : G-C Ww/Ww pairing antiparallel cis XIX 
+g70-g98 : U-A Ww/Ww pairing antiparallel cis XX 
+g74-g96 : A-U Ww/Ww pairing antiparallel cis XX 
+g75-g95 : G-C Ww/Ww pairing antiparallel cis XIX 
+g76-g93 : G-U Ww/Ws pairing antiparallel cis 
+g78-g91 : A-U Ww/Ww pairing antiparallel cis one_hbond 
+g79-g90 : G-C Ww/Ww pairing antiparallel cis XIX 
+g80-g89 : A-U Ww/Ww pairing antiparallel cis XX 
+g81-g88 : A-U Ww/Ww pairing antiparallel cis XX 
+g82-g86 : G-G Ww/O2P pairing 
+g82-g87 : G-C Ww/Ww pairing antiparallel cis XIX 
+g83-g86 : C-G Ww/Ww pairing antiparallel cis XIX 
+g105-g380 : G-G Bs/O2P pairing 
+g107-g134 : G-G O2P/Bs pairing 
+g109-g326 : A-G O2'/Bs downward pairing 
+g112-g315 : G-A Wh/Wh pairing antiparallel cis one_hbond 
+g113-g314 : G-C Ww/Ww pairing antiparallel cis XIX 
+g114-g313 : U-A Ww/Ww pairing antiparallel cis XX 
+g115-g312 : G-C Ww/Ww pairing antiparallel cis XIX 
+g116-g117 : A-G Hh/Bs adjacent_5p pairing parallel cis one_hbond 53 
+g116-g314 : A-C Bh/O2' pairing 
+g119-g287 : A-U Hh/Ws pairing antiparallel trans XXIV 
+g120-g122 : A-G O2'/Hh upward pairing 
+g122-g239 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+g123-g238 : U-A Ww/Ww pairing antiparallel cis XX 
+g124-g237 : C-G Ww/Ww pairing antiparallel cis XIX 
+g125-g236 : U-A Ww/Ww pairing antiparallel cis XX 
+g126-g235 : G-C Ww/Ww pairing antiparallel cis XIX 
+g127-g234 : G-C Ww/Ww pairing antiparallel cis XIX 
+g128-g233 : G-C Ww/Ww pairing antiparallel cis XIX 
+g130-g263 : A-A Ss/O2' pairing 
+g132-g230 : C-G Ws/Ww pairing antiparallel cis one_hbond 130 
+g136-g227 : C-G Ww/Ww pairing antiparallel cis XIX 
+g137-g226 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+g138-g225 : G-C Ww/Ww pairing antiparallel cis XIX 
+g140-g223 : U-A Ww/Ww pairing antiparallel cis XX 
+g141-g222 : G-C Ww/Ww pairing antiparallel cis XIX 
+g142-g222 : G-C Ww/Ww pairing antiparallel cis 
+g144-g178 : G-C Ww/Ww pairing antiparallel cis XIX 
+g145-g177 : G-G Ww/Hh pairing parallel cis VI 
+g146-g176 : G-C Ww/Ww pairing antiparallel cis XIX 
+g147-g175 : G-C Ww/Ww pairing antiparallel cis XIX 
+g148-g174 : G-A Ww/Ww pairing antiparallel cis VIII 
+g148-g1446 : G-A O2'/Ss pairing 
+g153-g168 : C-G Ww/Ww pairing antiparallel cis XIX 
+g154-g167 : U-A Ww/Ww pairing antiparallel cis XX 
+g155-g166 : A-U Ww/Ww pairing antiparallel cis XX 
+g156-g165 : C-G Ww/Ww pairing antiparallel cis XIX 
+g157-g164 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+g158-g163 : G-C Ww/Ww pairing antiparallel cis XIX 
+g159-g161 : G-A O2'/Hh Ss/O2P pairing 
+g160-g343 : A-U Ww/O2' pairing 
+g160-g344 : A-A O2'/Bh pairing 
+g175-g1447 : C-A O2'/Ww pairing 
+g180-g181 : U-A Wh/Hw adjacent_5p pairing parallel cis one_hbond 
+g180-g195 : U-A Ws/Hh pairing antiparallel trans XXIV 
+g181-g194 : A-C O2'/Bh inward pairing 
+g182-g194 : A-C Hh/Ww pairing antiparallel trans XXV 
+g184-g193 : G-C Ww/Ww pairing antiparallel cis XIX 
+g185-g192 : U-A Ww/Ww pairing antiparallel cis XX 
+g186-g191 : C-G Ww/Ww pairing antiparallel cis XIX 
+g187-g189 : G-A O2'/Hh pairing 
+g187-g190 : G-A Bs/O2P pairing 
+g197-g220 : A-G Ww/O2' Bh/O2' pairing 
+g197-g221 : A-C Hh/O2' pairing 
+g198-g219 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+g199-g218 : A-U Ww/Ww pairing antiparallel cis XX 
+g200-g217 : G-C Ww/Ww pairing antiparallel cis XIX 
+g201-g216 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+g202-g215 : G-C Ww/Ww pairing antiparallel cis XIX 
+g202-g466 : G-A Sw/Ww pairing antiparallel cis one_hbond 55 
+g203-g204 : G-G O2'/Hh adjacent_5p pairing 
+g203-g214 : G-C Ww/Ww pairing antiparallel cis XIX 
+g206-g213 : C-G Ww/Ww pairing antiparallel cis XIX 
+g207-g212 : C-G Ww/Ww pairing antiparallel cis XIX 
+g240-g286 : G-C Ww/Ww pairing antiparallel cis XIX 
+g241-g285 : G-C Ww/Ww pairing antiparallel cis XIX 
+g242-g284 : G-C Ww/Ww pairing antiparallel cis XIX 
+g243-g246 : A-A Ss/O2P pairing 
+g244-g893 : U-C Ww/Ww pairing antiparallel cis XVIII 
+g245-g283 : U-U Ws/Ww pairing antiparallel cis XVI 
+g247-g277 : G-C Ww/Ww pairing antiparallel cis XIX 
+g248-g276 : C-G Ww/Ww pairing antiparallel cis XIX 
+g249-g275 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+g251-g254 : G-G Ws/Hw pairing parallel cis one_hbond 113 
+g251-g266 : G-G Ww/Hw pairing parallel cis one_hbond 
+g252-g253 : U-A Wh/Hw adjacent_5p pairing parallel cis one_hbond 
+g253-g273 : A-U Ww/Ww pairing antiparallel cis XX 
+g254-g272 : G-C Ww/Ww pairing antiparallel cis XIX 
+g255-g271 : G-C Ww/Ww pairing antiparallel cis XIX 
+g256-g270 : U-A Ww/Ww pairing antiparallel cis XX 
+g257-g269 : G-C Ww/Ww pairing antiparallel cis XIX 
+g258-g268 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+g259-g267 : G-C Ww/Ww pairing antiparallel cis XIX 
+g260-g265 : G-G Ws/Hh pairing antiparallel trans one_hbond 110 
+g261-g262 : U-A O2'/Hh adjacent_5p pairing 
+g261-g264 : U-C Ww/O2P pairing 
+g289-g311 : G-C Ww/Ww pairing antiparallel cis XIX 
+g290-g310 : C-G Ww/Ww pairing antiparallel cis XIX 
+g291-g309 : U-A Ww/Ww pairing antiparallel cis XX 
+g292-g308 : G-C Ww/Ww pairing antiparallel cis XIX 
+g292-g609 : G-A O2'/Bh pairing 
+g293-g304 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+g293-g609 : G-A O2P/Bh pairing 
+g294-g303 : U-A Ww/Ww pairing antiparallel cis XX 
+g295-g302 : C-G Ww/Ww pairing antiparallel cis XIX 
+g296-g301 : U-G Ww/Wh pairing antiparallel cis one_hbond 
+g297-g299 : G-G Ww/O2P Bs/O2P pairing 
+g309-g607 : A-A O2'/Ww pairing 
+g316-g337 : C-G Ww/Ww pairing antiparallel cis XIX 
+g317-g336 : U-A Ww/Ww pairing antiparallel cis XX 
+g318-g335 : G-C Ww/Ww pairing antiparallel cis XIX 
+g319-g334 : G-C Ww/Ww pairing antiparallel cis XIX 
+g320-g333 : A-U Ww/Ww pairing antiparallel cis XX 
+g321-g332 : A-G Ww/Ww pairing antiparallel cis 67 
+g322-g329 : C-A Ww/Hh pairing antiparallel trans XXV 
+g323-g327 : U-A Ws/Hh pairing antiparallel trans XXIV 
+g324-g327 : G-A Ww/O2P Bs/O2P pairing 
+g335-g1433 : C-A O2'/Ss pairing 
+g338-g351 : A-G Wh/Wh pairing antiparallel cis one_hbond 
+g339-g351 : C-G Ws/Ws pairing antiparallel cis one_hbond 
+g340-g349 : U-A Ww/Ww pairing antiparallel cis XX 
+g341-g348 : C-G Ww/Ww pairing antiparallel cis XIX 
+g342-g347 : C-G Ww/Ww pairing antiparallel cis XIX 
+g344-g345 : A-C O2P/Bh adjacent_5p pairing 
+g352-g355 : C-C Ws/Hw pairing parallel cis one_hbond 134 
+g352-g356 : C-A Ww/Bh pairing parallel cis 80 
+g356-g368 : A-U Ss/O2' pairing 
+g362-g363 : G-A O2'/Hh adjacent_5p pairing 
+g367-g393 : U-A Ww/Ww pairing antiparallel cis XX 
+g369-g392 : G-C Ww/Ww pairing antiparallel cis XIX 
+g370-g391 : C-G Ww/Ww pairing antiparallel cis XIX 
+g371-g373 : A-A O2'/Hh pairing 
+g371-g390 : A-U Ww/Ww pairing antiparallel cis XX 
+g372-g389 : C-A Ww/Hw pairing antiparallel trans one_hbond 
+g373-g451 : A-A O2'/Bh pairing 
+g375-g389 : U-A Ww/Ww pairing antiparallel cis XX 
+g376-g387 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+g377-g386 : G-C Ww/Ww pairing antiparallel cis XIX 
+g378-g385 : G-C Ww/Ww pairing antiparallel cis XIX 
+g379-g384 : C-G Ww/Ww pairing antiparallel cis XIX 
+g380-g382 : G-A O2'/Hh pairing 
+g380-g383 : G-A Bs/O2P pairing 
+g397-g547 : A-A Hh/O2' pairing 
+g404-g439 : G-U O2'/Ww pairing 
+g404-g498 : G-A O2'/Bh pairing 
+g405-g499 : U-A Ww/Hh pairing parallel cis XXIII 
+g406-g436 : G-C Ww/Ww pairing antiparallel cis 
+g406-g437 : G-U Sw/Ws pairing antiparallel cis one_hbond 85 
+g407-g436 : U-C Ww/Ws pairing antiparallel cis one_hbond 106 
+g408-g434 : A-U Ww/Ww pairing antiparallel cis XX 
+g409-g433 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+g410-g429 : G-U Hh/O2' inward pairing 
+g410-g432 : G-A Ss/Hh pairing antiparallel trans XI 
+g411-g430 : A-A Ww/Hh pairing antiparallel trans V 
+g413-g428 : G-G Bs/O2' pairing 
+g414-g430 : A-A Hh/Ww pairing antiparallel trans V 
+g416-g427 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+g417-g426 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+g417-g540 : G-G Bs/O2' pairing 
+g418-g425 : C-G Ww/Ww pairing antiparallel cis XIX 
+g419-g424 : C-G Ww/Ww pairing antiparallel cis XIX 
+g419-g425 : C-G Wh/Wh pairing antiparallel cis one_hbond 
+g429-g431 : U-A Ww/Hh pairing parallel cis XXIII 
+g438-g496 : U-A Ws/Hw pairing antiparallel trans one_hbond 
+g439-g498 : U-A Wh/Wh pairing antiparallel cis one_hbond 
+g440-g497 : C-G Ww/Ww pairing antiparallel cis XIX 
+g442-g492 : G-C Ww/Ww pairing antiparallel cis XIX 
+g443-g491 : C-G Ww/Ww pairing antiparallel cis XIX 
+g444-g490 : G-C Ww/Ww pairing antiparallel cis XIX 
+g445-g489 : G-C Ww/Ww pairing antiparallel cis XIX 
+g446-g488 : G-C Ww/Ww pairing antiparallel cis XIX 
+g447-g486 : G-U Ww/O2P pairing 
+g447-g487 : G-A Sw/Hh pairing antiparallel trans XI 
+g448-g486 : A-U Wh/Ws pairing antiparallel trans one_hbond 46 
+g450-g483 : G-C Ww/Ww pairing antiparallel cis XIX 
+g454-g479 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+g455-g477 : G-C Ww/Ww pairing antiparallel cis XIX 
+g456-g476 : A-U Ww/Ww pairing antiparallel cis XX 
+g457-g475 : G-C Ww/Ww pairing antiparallel cis XIX 
+g458-g474 : U-G Ws/Ww pairing antiparallel cis one_hbond 
+g459-g473 : A-U Ww/Ww pairing antiparallel cis XX 
+g460-g472 : A-U Ww/Ww pairing antiparallel cis XX 
+g461-g471 : A-U Ww/Ww pairing antiparallel cis XX 
+g462-g470 : G-C Ww/Ww pairing antiparallel cis XIX 
+g464-g467 : U-U Ww/O2P pairing 
+g464-g468 : U-A Ss/Wh pairing parallel trans one_hbond 44 
+g481-g483 : G-C O2'/Bh pairing 
+g492-g493 : C-A O2'/Hh adjacent_5p pairing 
+g500-g545 : G-C Ww/Ww pairing antiparallel cis XIX 
+g501-g544 : C-G Ww/Ww pairing antiparallel cis XIX 
+g502-g543 : A-U Ww/Ww pairing antiparallel cis XX 
+g503-g542 : C-G Ww/Ww pairing antiparallel cis XIX 
+g504-g510 : C-A O2'/Hh pairing 
+g504-g541 : C-G Ww/Ww pairing antiparallel cis XIX 
+g505-g526 : G-C Ww/Ww pairing antiparallel cis XIX 
+g506-g525 : G-C Ww/Ww pairing antiparallel cis XIX 
+g507-g524 : C-G Ww/Ww pairing antiparallel cis XIX 
+g511-g540 : C-G Ww/Ww pairing antiparallel cis XIX 
+g512-g539 : U-A Ww/Ww pairing antiparallel cis XX 
+g513-g538 : C-G Ww/Ww pairing antiparallel cis XIX 
+g514-g537 : C-G Ww/Ww pairing antiparallel cis XIX 
+g515-g536 : G-C Ww/Ww pairing antiparallel cis XIX 
+g517-g533 : G-A Ww/O2P Bs/O2P pairing 
+g521-g528 : G-C Ww/Ww pairing antiparallel cis XIX 
+g522-g527 : C-G Ww/Ww pairing antiparallel cis XIX 
+g529-g533 : G-A O2'/Ww pairing 
+g563-g884 : A-U Ww/Ws pairing parallel trans XXI 
+g567-g883 : G-C Ww/Ww pairing antiparallel cis XIX 
+g569-g881 : C-G Ww/Ww pairing antiparallel cis XIX 
+g570-g866 : G-C Ww/Ww pairing antiparallel cis XIX 
+g571-g865 : U-A Ww/Ww pairing antiparallel cis XX 
+g573-g574 : A-A Hw/Ww adjacent_5p pairing parallel cis one_hbond 38 
+g575-g880 : G-C Ww/Ww pairing antiparallel cis XIX 
+g577-g764 : G-C Ww/Ww pairing antiparallel cis XIX 
+g578-g728 : C-A O2'/Ss pairing 
+g578-g763 : C-G Ww/Ww pairing antiparallel cis XIX 
+g580-g761 : C-G Ww/Ww pairing antiparallel cis XIX 
+g581-g760 : G-G Bs/Bh pairing antiparallel trans 
+g582-g759 : C-A Ww/Hw pairing antiparallel trans one_hbond 75 
+g584-g757 : G-U Wh/Ww pairing antiparallel cis one_hbond 
+g584-g880 : G-C Bs/O2P pairing 
+g585-g756 : G-C Ww/Ww pairing antiparallel cis XIX 
+g586-g755 : C-G Ww/Ww pairing antiparallel cis XIX 
+g588-g651 : G-C Ww/Ww pairing antiparallel cis XIX 
+g589-g650 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+g590-g649 : U-A Ww/Ww pairing antiparallel cis XX 
+g591-g648 : U-A Ww/Ww pairing antiparallel cis XX 
+g592-g647 : G-C Ww/Ww pairing antiparallel cis XIX 
+g593-g646 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+g594-g645 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+g595-g641 : A-U Bh/O2' pairing 
+g597-g643 : G-C Ww/Ww pairing antiparallel cis XIX 
+g598-g640 : U-A Ww/Ww pairing antiparallel cis XX 
+g599-g639 : C-G Ww/Ww pairing antiparallel cis XIX 
+g600-g638 : A-U Ww/Ww pairing antiparallel cis XX 
+g601-g637 : G-C Ww/Ww pairing antiparallel cis XIX 
+g602-g636 : A-U Ww/Ww pairing antiparallel cis XX 
+g603-g635 : U-A Ww/Ww pairing antiparallel cis XX 
+g604-g634 : G-C Ww/Ww pairing antiparallel cis XIX 
+g605-g633 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+g612-g628 : C-G Ww/Ww pairing antiparallel cis XIX 
+g612-g629 : C-A Ww/Bs pairing antiparallel cis one_hbond 
+g613-g627 : C-G Ww/Ww pairing antiparallel cis XIX 
+g614-g626 : C-G Ww/Ww pairing antiparallel cis XIX 
+g615-g625 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+g616-g624 : G-C Ww/Ww pairing antiparallel cis XIX 
+g617-g623 : G-C Ww/Ww pairing antiparallel cis XIX 
+g618-g622 : C-A Ws/Hw pairing antiparallel trans one_hbond 
+g652-g752 : U-G O2'/Bs pairing 
+g654-g754 : G-C Ww/Ww pairing antiparallel cis XIX 
+g655-g751 : A-U Ww/Ww pairing antiparallel cis one_hbond 
+g657-g750 : U-C Ww/Ws pairing antiparallel cis one_hbond 106 
+g658-g748 : C-G Ww/Ww pairing antiparallel cis XIX 
+g659-g747 : U-A Ww/Ww pairing antiparallel cis XX 
+g660-g745 : C-G Ww/Ww pairing antiparallel cis XIX 
+g661-g744 : G-C Ww/Ww pairing antiparallel cis XIX 
+g662-g743 : U-A Ww/Ww pairing antiparallel cis XX 
+g663-g742 : A-G Ww/Ww pairing antiparallel cis VIII 
+g664-g741 : G-G Ww/Wh pairing antiparallel cis one_hbond 
+g665-g724 : A-G Hh/Ww pairing parallel cis IX 
+g667-g739 : G-C Ww/Ww pairing antiparallel cis XIX 
+g668-g738 : G-C Ww/Ww pairing antiparallel cis XIX 
+g669-g737 : G-C Ww/Ww pairing antiparallel cis XIX 
+g670-g736 : G-C Ww/Ww pairing antiparallel cis XIX 
+g671-g735 : G-C Ww/Ww pairing antiparallel cis XIX 
+g672-g734 : U-G Ws/Wh pairing antiparallel cis one_hbond 
+g673-g717 : A-U Ww/Ww pairing antiparallel cis XX 
+g674-g716 : G-A Ww/Ww pairing antiparallel cis VIII 
+g675-g715 : A-A Wh/Ww pairing antiparallel cis one_hbond 37 
+g676-g714 : A-G Ww/Ww pairing antiparallel cis VIII 
+g678-g712 : U-A Ww/Ww pairing antiparallel cis XX 
+g679-g711 : C-G Ww/Ww pairing antiparallel cis XIX 
+g680-g710 : C-G Ww/Ww pairing antiparallel cis XIX 
+g681-g709 : A-U Ww/Ww pairing antiparallel cis XX 
+g682-g708 : G-C Ww/Ww pairing antiparallel cis XIX 
+g683-g707 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+g684-g706 : U-A Ww/Ww pairing antiparallel cis XX 
+g687-g705 : A-G Ss/Sw pairing antiparallel cis one_hbond 
+g688-g699 : G-C Ww/Ww pairing antiparallel cis XIX 
+g689-g698 : C-G Ww/Ww pairing antiparallel cis XIX 
+g691-g695 : G-A Hh/O2P pairing 
+g691-g696 : G-A Ww/Hh pairing parallel trans one_hbond 
+g694-g788 : A-U Bh/O2' pairing 
+g695-g787 : A-A Ss/O2' pairing 
+g704-g705 : A-G O2'/C8 adjacent_5p upward pairing 
+g714-g777 : G-A O2'/Hh pairing 
+g725-g732 : G-C Ww/Ww pairing antiparallel cis XIX 
+g725-g833 : G-G O2P/Bs pairing 
+g726-g731 : C-G Ww/Ww pairing antiparallel cis XIX 
+g731-g766 : G-A O2P/Ss pairing 
+g751-g754 : U-C Ws/Hw pairing parallel cis one_hbond 99 
+g765-g812 : G-G Ww/O2' inward pairing 
+g765-g816 : G-A Sw/Ww pairing antiparallel cis one_hbond 55 
+g766-g812 : A-G O2P/Bs pairing 
+g768-g1523 : A-G O2'/Bs pairing 
+g769-g810 : G-C Ww/Ww pairing antiparallel cis XIX 
+g770-g809 : C-G Ww/Ww pairing antiparallel cis XIX 
+g771-g808 : G-C Ww/Ww pairing antiparallel cis XIX 
+g772-g807 : U-A Ww/Ww pairing antiparallel cis XX 
+g773-g806 : G-C Ww/Ww pairing antiparallel cis XIX 
+g774-g805 : G-C Ww/Ww pairing antiparallel cis XIX 
+g776-g802 : G-A Ww/O2P Bs/O2P Bs/O2P pairing 
+g776-g803 : G-G Sw/Hw pairing antiparallel trans one_hbond 112 
+g778-g804 : G-U Wh/Ww pairing antiparallel cis one_hbond 
+g779-g803 : C-G Ww/Ww pairing antiparallel cis XIX 
+g781-g800 : A-G O2P/Ww pairing 
+g782-g800 : A-G Hh/Ss pairing antiparallel trans one_hbond 
+g782-g1514 : A-G O2P/Bs pairing 
+g783-g799 : C-G Ww/Ww pairing antiparallel cis XIX 
+g784-g798 : A-U Ww/Ww pairing antiparallel cis XX 
+g785-g797 : G-C Ww/Ww pairing antiparallel cis XIX 
+g786-g796 : G-C Ww/Ww pairing antiparallel cis XIX 
+g789-g791 : U-G O2'/Hh pairing 
+g789-g792 : U-A Ww/O2P pairing 
+g790-g1498 : A-U Ww/O2P pairing 
+g791-g792 : G-A Sw/Hh adjacent_5p pairing antiparallel cis one_hbond 
+g792-g794 : A-A O2'/Hh pairing 
+g811-g901 : C-A O2'/Ww O2'/Bh pairing 
+g812-g902 : G-G O2P/Bs pairing 
+g813-g816 : U-A O2P/Bh pairing 
+g814-g816 : A-A Ss/O2P pairing 
+g815-g1509 : A-C Bh/O2' Hh/O2' pairing 
+g817-g1529 : C-G Ww/Ww pairing antiparallel cis XIX 
+g821-g879 : G-C Ww/Ww pairing antiparallel cis XIX 
+g822-g878 : U-A Ww/Ww pairing antiparallel cis XX 
+g823-g877 : C-G Ww/Ww pairing antiparallel cis XIX 
+g824-g876 : G-C Ww/Ww pairing antiparallel cis XIX 
+g826-g874 : C-G Ww/Ww pairing antiparallel cis XIX 
+g827-g872 : U-A Ws/Ww pairing parallel trans XXI 
+g828-g858 : U-G Bh/Bs pairing antiparallel cis 
+g829-g857 : G-C Ww/Ww pairing antiparallel cis XIX 
+g830-g856 : G-C Ww/Ww pairing antiparallel cis XIX 
+g831-g855 : A-U Ww/Ww pairing antiparallel cis XX 
+g832-g854 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+g833-g853 : G-C Ww/Ww pairing antiparallel cis XIX 
+g834-g852 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+g835-g849 : U-G Wh/Ws pairing antiparallel cis one_hbond 94 
+g836-g849 : G-G Wh/Sw pairing antiparallel cis one_hbond 
+g839-g847 : C-G Ww/Ww pairing antiparallel cis XIX 
+g840-g841 : C-C Ww/O2' adjacent_5p pairing 
+g840-g846 : C-G Ww/Ww pairing antiparallel cis XIX 
+g841-g846 : C-G O2'/Ww O2'/Bs pairing 
+g842-g843 : U-U O2P/Hh O2P/Ww adjacent_5p pairing 
+g842-g844 : U-G Ww/O2P pairing 
+g859-g869 : G-G O2P/Ww O2P/Bs pairing 
+g861-g868 : G-C Ww/Ww pairing antiparallel cis XIX 
+g862-g867 : C-G Ww/Ww pairing antiparallel cis XIX 
+g863-g865 : U-A O2'/Hh pairing 
+g865-g918 : A-A Ss/O2' pairing 
+g867-g873 : G-A O2'/Ww pairing 
+g885-g912 : G-C Ww/Ww pairing antiparallel cis XIX 
+g886-g911 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+g887-g910 : G-C Ww/Ww pairing antiparallel cis XIX 
+g888-g909 : G-A Ss/Hh pairing antiparallel trans XI 
+g891-g907 : U-A Ws/Hh pairing antiparallel trans XXIV 
+g894-g905 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+g896-g903 : C-G Ww/Ww pairing antiparallel cis XIX 
+g897-g902 : C-G Ww/Ww pairing antiparallel cis XIX 
+g899-g900 : C-A O2'/Ss O2'/C8 adjacent_5p pairing 
+g920-g1392 : A-G Bh/O2P pairing 
+g922-g923 : G-A O2'/Hh O2'/C8 adjacent_5p pairing 
+g922-g1395 : G-C Ww/Ww pairing antiparallel cis XIX 
+g924-g925 : C-G O2'/Bs O2'/Ss adjacent_5p pairing 
+g925-g926 : G-G O2P/Ww adjacent_5p pairing 
+g925-g928 : G-G O2'/Hh pairing 
+g925-g1502 : G-A O2P/Bh pairing 
+g926-g1399 : G-C Ww/O2' Bs/O2' pairing 
+g927-g1505 : G-G O2P/Bs pairing 
+g928-g1390 : G-U Ws/Ws pairing antiparallel cis one_hbond 
+g929-g1388 : G-C Ww/Ww pairing antiparallel cis XIX 
+g929-g1389 : G-C Wh/Wh pairing antiparallel cis one_hbond 
+g930-g1387 : C-G Ww/Ww pairing antiparallel cis XIX 
+g931-g1386 : C-G Ww/Ww pairing antiparallel cis XIX 
+g932-g1385 : C-G Ww/Ww pairing antiparallel cis XIX 
+g933-g1384 : G-C Ww/Ww pairing antiparallel cis XIX 
+g934-g938 : C-A Ww/Ww pairing parallel trans one_hbond 
+g936-g1382 : C-C O2'/Bh pairing 
+g939-g1344 : G-C Ww/Ww pairing antiparallel cis XIX 
+g940-g1343 : C-G Ww/Ww pairing antiparallel cis XIX 
+g941-g1342 : G-C Ww/Ww pairing antiparallel cis XIX 
+g943-g1340 : U-A Ww/Ww pairing antiparallel cis XX 
+g944-g1339 : G-A Ws/Hh Ww/O2P pairing antiparallel trans one_hbond 54 
+g945-g1236 : G-A Hw/Wh pairing antiparallel cis one_hbond 64 
+g947-g1234 : G-C Ww/Ww pairing antiparallel cis XIX 
+g948-g1233 : C-G Ww/Ww pairing antiparallel cis XIX 
+g950-g1232 : U-U Ww/Wh pairing antiparallel cis one_hbond 
+g951-g964 : G-A O2'/Ww pairing 
+g951-g1230 : G-C Ww/Ww pairing antiparallel cis XIX 
+g953-g1228 : G-C Ww/Ww pairing antiparallel cis XIX 
+g954-g1226 : G-C Ww/Ww pairing antiparallel cis XIX 
+g957-g959 : U-A Ww/Hh Hh/O2P Ww/O2P pairing antiparallel trans one_hbond 
+g958-g1221 : A-G Ww/O2' Bh/O2' pairing 
+g958-g1222 : A-G Bh/O2P pairing 
+g961-g1222 : U-G O2P/Bs pairing 
+g962-g973 : C-G Ww/Ww pairing antiparallel cis XIX 
+g963-g972 : G-C Ww/Ww pairing antiparallel cis XIX 
+g970-g1231 : C-G Ww/O2' Bh/O2' pairing 
+g976-g1358 : G-U Hh/O2' pairing 
+g978-g981 : A-U O2P/Ww pairing 
+g979-g1221 : C-G O2P/Hh pairing 
+g982-g1222 : U-G Ww/Hw pairing parallel trans one_hbond 
+g982-g1223 : U-C Wh/Hw pairing antiparallel cis one_hbond 104 
+g984-g1221 : C-G Ww/Ww pairing antiparallel cis XIX 
+g985-g1220 : C-G Ww/Ww pairing antiparallel cis XIX 
+g986-g1219 : U-A Ww/Ww pairing antiparallel cis XX 
+g987-g1218 : G-C Ww/Ww pairing antiparallel cis XIX 
+g988-g1015 : G-G O2'/Ww pairing 
+g988-g1217 : G-C Ww/Ww pairing antiparallel cis XIX 
+g989-g1016 : U-A Bs/Hw pairing antiparallel trans one_hbond 
+g989-g1216 : U-A Ww/Ww pairing antiparallel cis XX 
+g990-g1215 : C-G Ww/Ww pairing antiparallel cis XIX 
+g993-g994 : G-A O2'/Hh adjacent_5p pairing 
+g993-g995 : G-C Ss/Bh pairing parallel trans one_hbond 
+g993-g1045 : G-C Ww/Ww pairing antiparallel cis XIX 
+g994-g1046 : A-A Bh/O2' pairing 
+g996-g1045 : A-C Wh/Ss Ww/O2' pairing antiparallel cis one_hbond 
+g998-g1044 : C-A Bh/O2P pairing 
+g999-g1043 : C-G O2'/Ww pairing 
+g1001-g1039 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1002-g1038 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1003-g1035 : G-A Wh/C8 pairing antiparallel trans one_hbond 
+g1003-g1037 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1004-g1025 : A-U O2P/Ww pairing 
+g1004-g1026 : A-G Ww/O2P Bh/O2P pairing 
+g1004-g1027 : A-C Hh/Bh pairing parallel trans one_hbond 69 
+g1004-g1035 : A-A O2'/Hh pairing 
+g1005-g1022 : A-A O2P/Bh pairing 
+g1007-g1008 : U-U Ss/Hh adjacent_5p pairing parallel cis one_hbond 
+g1008-g1009 : U-U O2'/Hh adjacent_5p pairing 
+g1010-g1019 : U-A Ww/Ww pairing antiparallel cis XX 
+g1011-g1018 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1012-g1017 : A-U Ww/Ww pairing antiparallel cis XX 
+g1022-g1023 : A-U O2'/Hh adjacent_5p pairing 
+g1026-g1031 : G-C O2P/Bh pairing 
+g1027-g1034 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1028-g1033 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1031-g1032 : C-G O2P/Ss adjacent_5p pairing 
+g1040-g1041 : U-G O2'/Hh adjacent_5p pairing 
+g1046-g1047 : A-G O2'/Hh adjacent_5p pairing 
+g1047-g1210 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1047-g1214 : G-C Bs/O2' pairing 
+g1048-g1209 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1050-g1208 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1051-g1200 : C-C Bh/O2' pairing 
+g1051-g1207 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1053-g1058 : G-G Ww/Bh pairing parallel cis 113 
+g1057-g1203 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1058-g1202 : G-U Sw/Hw pairing antiparallel trans one_hbond 88 
+g1059-g1198 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1060-g1197 : U-A Ww/Ww pairing antiparallel cis XX 
+g1061-g1195 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1063-g1193 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1064-g1190 : G-G O2'/Bs pairing 
+g1064-g1191 : G-A Bs/O2P pairing 
+g1066-g1191 : C-A Ww/Hh pairing antiparallel trans XXV 
+g1067-g1108 : A-G Ww/O2' pairing 
+g1068-g1107 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1069-g1106 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1070-g1105 : U-A Ww/Ww pairing antiparallel cis XX 
+g1071-g1104 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1072-g1103 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1073-g1102 : U-A Ww/Ww pairing antiparallel cis XX 
+g1074-g1083 : G-U Wh/Ww pairing antiparallel cis one_hbond 
+g1074-g1101 : G-A O2'/Ww pairing 
+g1075-g1082 : U-A Ww/Ww pairing antiparallel cis XX 
+g1076-g1081 : U-A Ww/Ww pairing antiparallel cis XX 
+g1087-g1098 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1088-g1097 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1089-g1096 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1089-g1169 : G-A O2'/Ww pairing 
+g1095-g1108 : U-G O2P/Ww O2P/Bs pairing 
+g1113-g1187 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1114-g1186 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1115-g1185 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+g1116-g1184 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+g1118-g1155 : U-A Ww/Ww pairing antiparallel cis XX 
+g1119-g1154 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1120-g1153 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1121-g1152 : U-A Ww/Ww pairing antiparallel cis XX 
+g1122-g1151 : U-A Ww/Ww pairing antiparallel cis XX 
+g1124-g1127 : G-G O2'/Bs pairing 
+g1124-g1149 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1126-g1280 : U-A Ww/O2P pairing 
+g1127-g1140 : G-C Hh/O2P Hh/O2P pairing 
+g1127-g1144 : G-G Ws/Hw pairing parallel trans one_hbond 113 
+g1127-g1280 : G-A O2'/Bh pairing 
+g1129-g1144 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1130-g1144 : A-G Hh/Ss pairing antiparallel trans XI 
+g1132-g1142 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1133-g1139 : G-G Bh/Bs pairing antiparallel trans 
+g1133-g1141 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1134-g1140 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1135-g1137 : U-C Ww/Ss pairing antiparallel cis one_hbond 
+g1139-g1140 : G-C O2P/Bh adjacent_5p pairing 
+g1141-g1142 : C-G O2'/Hh adjacent_5p pairing 
+g1145-g1146 : A-A O2'/Hh O2'/C8 adjacent_5p pairing 
+g1148-g1149 : U-C O2P/Bh adjacent_5p upward pairing 
+g1156-g1180 : G-A O2'/Ww O2'/Bh pairing 
+g1157-g1177 : A-G Bh/O2' pairing 
+g1158-g1181 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1160-g1177 : G-G Hh/Ww pairing parallel cis VI 
+g1161-g1175 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1162-g1174 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1163-g1173 : A-U Ww/Ww pairing antiparallel cis XX 
+g1164-g1172 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1165-g1171 : U-A Ww/Ww pairing antiparallel cis XX 
+g1166-g1168 : G-U Hh/O2P C8/O2P pairing 
+g1166-g1169 : G-A Ww/O2P pairing 
+g1166-g1170 : G-A Ss/Hh pairing antiparallel trans XI 
+g1176-g1177 : A-G O2P/Hh adjacent_5p pairing 
+g1181-g1182 : G-G O2'/Hh adjacent_5p upward pairing 
+g1204-g1205 : A-U Ww/O2' adjacent_5p pairing 
+g1205-g1208 : U-C Wh/Hh pairing antiparallel trans one_hbond 
+g1210-g1214 : C-C O2'/Hh O2'/Ww pairing 
+g1211-g1213 : U-A O2'/Ss pairing 
+g1221-g1320 : G-C O2P/Bh O2P/Bh pairing 
+g1222-g1322 : G-C O2P/Bh pairing 
+g1223-g1225 : C-A O2'/Bh pairing 
+g1223-g1322 : C-C O2P/Ww pairing 
+g1233-g1364 : G-U Sw/Ws pairing antiparallel cis one_hbond 85 
+g1237-g1337 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1239-g1297 : A-G O2'/Bs Ww/O2P Bh/O2P pairing 
+g1241-g1296 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1242-g1302 : G-C Ws/Bs Ww/O2' pairing parallel cis one_hbond 129 
+g1243-g1295 : C-U Ww/Ww pairing antiparallel cis XVIII 
+g1244-g1293 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1245-g1292 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1246-g1291 : A-U Ww/Ww pairing antiparallel cis XX 
+g1247-g1290 : U-G Bs/Ww pairing antiparallel cis one_hbond 
+g1249-g1289 : C-A Ww/Hh pairing antiparallel trans XXV 
+g1251-g1369 : A-C Hh/O2' pairing 
+g1253-g1284 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1254-g1283 : A-U Ww/Ww pairing antiparallel cis XX 
+g1255-g1282 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1258-g1277 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1259-g1276 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1260-g1275 : G-A O2'/Hh pairing 
+g1263-g1272 : C-G Ww/Ww pairing antiparallel cis 
+g1263-g1274 : C-A Wh/Ww pairing parallel cis one_hbond 
+g1264-g1271 : U-A Ww/Ww pairing antiparallel cis XX 
+g1265-g1270 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1266-g1268 : G-G O2'/Hh pairing 
+g1266-g1269 : G-A Bs/O2P pairing 
+g1269-g1312 : A-G Ww/O2' pairing 
+g1273-g1274 : C-A O2P/Hh adjacent_5p pairing 
+g1275-g1282 : A-C Bh/O2' pairing 
+g1277-g1279 : C-G O2'/Hh pairing 
+g1277-g1282 : C-C O2'/Bh pairing 
+g1285-g1354 : A-U Bh/O2' pairing 
+g1287-g1353 : A-G Ss/O2' pairing 
+g1287-g1370 : A-G Ww/Sw pairing parallel trans one_hbond 
+g1288-g1352 : A-C Ss/O2' pairing 
+g1288-g1371 : A-G Bh/O2' pairing 
+g1289-g1290 : A-G O2P/Hh adjacent_5p pairing 
+g1289-g1371 : A-G Ww/O2' pairing 
+g1295-g1297 : U-G O2P/Hh pairing 
+g1295-g1302 : U-C O2'/Bh pairing 
+g1299-g1335 : A-U O2'/Ww pairing 
+g1300-g1301 : G-U Ss/Hh adjacent_5p pairing parallel cis 89 
+g1300-g1303 : G-C O2'/Bh pairing 
+g1303-g1334 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1304-g1331 : G-G Ww/O2' pairing 
+g1304-g1332 : G-A Ww/O2P Bs/O2P pairing 
+g1304-g1333 : G-A Ss/Hh pairing antiparallel trans XI 
+g1305-g1332 : G-A O2P/Ww O2P/Bh pairing 
+g1308-g1329 : U-A Wh/Wh pairing antiparallel cis one_hbond 
+g1309-g1328 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1310-g1327 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1311-g1326 : A-U Ww/Ww pairing antiparallel cis XX 
+g1312-g1325 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1313-g1324 : U-A Ww/Ww pairing antiparallel cis XX 
+g1314-g1323 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1318-g1320 : A-C Ww/Wh pairing antiparallel cis one_hbond 71 
+g1319-g1322 : A-C Ss/O2' pairing 
+g1319-g1323 : A-G Ss/O2P C8/O2P upward pairing 
+g1321-g1322 : U-C O2'/Ww adjacent_5p pairing 
+g1330-g1331 : U-G O2'/Ss adjacent_5p pairing 
+g1343-g1349 : G-A Bs/O2' pairing 
+g1347-g1374 : G-A Bs/O2P pairing 
+g1349-g1373 : A-G Hh/Ws pairing antiparallel trans one_hbond 54 
+g1350-g1372 : A-U Ww/Ww pairing antiparallel cis XX 
+g1351-g1371 : U-G Ws/Ww pairing antiparallel cis 
+g1352-g1370 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1353-g1369 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1354-g1368 : U-A Ww/Ww pairing antiparallel cis XX 
+g1355-g1367 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1356-g1366 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1357-g1359 : A-C O2P/Bh pairing 
+g1357-g1365 : A-G Ww/Ww pairing antiparallel cis VIII 
+g1358-g1363 : U-A Ws/Ww pairing parallel trans XXI 
+g1363-g1365 : A-G O2'/Hh pairing 
+g1375-g1376 : A-U O2'/Hh adjacent_5p pairing 
+g1375-g1377 : A-A Hh/Wh pairing antiparallel cis one_hbond 
+g1394-g1500 : A-A Bh/O2' pairing 
+g1399-g1504 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1403-g1499 : C-A Ww/Wh pairing antiparallel cis one_hbond 78 
+g1404-g1497 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1405-g1496 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1407-g1494 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1409-g1491 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1410-g1490 : A-U Ww/Ww pairing antiparallel cis XX 
+g1411-g1489 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1412-g1488 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1414-g1486 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+g1415-g1485 : G-U Ww/Bs pairing antiparallel cis one_hbond 
+g1416-g1484 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1417-g1483 : G-A Ss/Hh O2'/Bh pairing antiparallel trans XI 
+g1418-g1482 : A-G Hh/Ss Bh/O2' pairing antiparallel trans XI 
+g1419-g1481 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+g1420-g1480 : U-A Ww/Ww pairing antiparallel cis XX 
+g1421-g1479 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1422-g1478 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+g1423-g1477 : G-U Ww/Ws pairing antiparallel cis 
+g1424-g1476 : U-A Wh/Hw pairing parallel cis one_hbond 
+g1425-g1475 : U-G Ws/Ww pairing antiparallel cis 
+g1426-g1474 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+g1427-g1473 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1428-g1472 : A-U Ww/Ww pairing antiparallel cis XX 
+g1429-g1471 : A-U Ww/Ww pairing antiparallel cis XX 
+g1430-g1470 : A-U Ww/Ww pairing antiparallel cis XX 
+g1435-g1466 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1436-g1465 : U-A Ww/Ww pairing antiparallel cis XX 
+g1437-g1464 : A-U Ww/Ww pairing antiparallel cis XX 
+g1438-g1463 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+g1439-g1462 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1440-g1461 : U-G Ws/Ww pairing antiparallel cis 
+g1442-g1460 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1443-g1459 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1444-g1458 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+g1445-g1457 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+g1448-g1455 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1449-g1454 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1451-g1452 : U-C O2P/Bh adjacent_5p pairing 
+g1501-g1504 : C-G Bh/O2' pairing 
+g1503-g1531 : A-A O2P/Ww pairing 
+g1506-g1522 : U-U Ww/O2P pairing 
+g1507-g1528 : A-U Ww/Ww pairing antiparallel cis XX 
+g1508-g1527 : A-U Ww/Ww pairing antiparallel cis XX 
+g1509-g1526 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1510-g1525 : C-G Ww/Ww pairing antiparallel cis XIX 
+g1511-g1524 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1512-g1523 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+g1513-g1522 : A-U Wh/Bh pairing antiparallel cis one_hbond 
+g1514-g1521 : G-C Ww/Ww pairing antiparallel cis XIX 
+g1515-g1520 : G-C Ww/Ww pairing antiparallel cis one_hbond 
+g1515-g1521 : G-C Ww/Ww pairing antiparallel cis one_hbond 
+g1516-g1518 : G-A Ww/O2P pairing 
+g1516-g1520 : G-C Ww/Ww pairing antiparallel cis 
+g1531-g1533 : A-C Hh/Hw pairing antiparallel cis one_hbond 68 
+g1533-g1535 : C-C O2P/Hh O2'/Bh pairing 
+g1534-g1536 : A-C O2P/Bh pairing 

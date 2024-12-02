@@ -1,0 +1,60 @@
+Residue conformations -------------------------------------------
+A4 : G C4p_exo anti
+A5 : C C2p_exo anti
+A6 : G C2p_exo anti
+A7 : C C3p_endo anti
+A8 : U C2p_exo anti
+A9 : G C3p_endo anti
+A10 : A C2p_endo anti
+A11 : C C1p_exo anti
+A12 : A C3p_endo anti
+A13 : A C3p_endo anti
+A14 : A C2p_exo anti
+A15 : G C2p_exo anti
+A16 : C C3p_endo anti
+A17 : G C2p_exo anti
+A18 : C C3p_endo anti
+B1 : ASN
+B2 : ALA
+B3 : LYS
+B4 : THR
+B5 : ARG
+B6 : ARG
+B7 : HIS
+B8 : GLU
+B9 : ARG
+B10 : ARG
+B11 : ARG
+B12 : LYS
+B13 : LEU
+B14 : ALA
+B15 : ILE
+B16 : GLU
+B17 : ARG
+B18 : ASP
+B19 : THR
+Adjacent stackings ----------------------------------------------
+A4-A5 : adjacent_5p upward 
+A6-A7 : adjacent_5p upward 
+A8-A9 : adjacent_5p upward 
+A12-A13 : adjacent_5p upward 
+A13-A14 : adjacent_5p upward 
+A14-A15 : adjacent_5p upward 
+A15-A16 : adjacent_5p upward 
+A17-A18 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+A6-A17 : outward 
+A10-A12 : upward 
+Number of stackings = 10
+Number of adjacent stackings = 8
+Number of non adjacent stackings = 2
+Base-pairs ------------------------------------------------------
+A4-A18 : G-C Ww/Ww pairing antiparallel cis XIX 
+A5-A17 : C-G Ww/Ww pairing antiparallel cis XIX 
+A6-A16 : G-C Ww/Ww pairing antiparallel cis XIX 
+A7-A15 : C-G Ww/Ww pairing antiparallel cis XIX 
+A8-A14 : U-A Ww/Ww pairing antiparallel cis XX 
+A9-A12 : G-A O2'/Hh Ww/O2P pairing 
+A9-A13 : G-A Bs/Hh Bs/O2P pairing antiparallel trans one_hbond 
+A9-B6 : G-ARG pairing one_hbond 
+A15-B3 : G-LYS pairing one_hbond 

@@ -1,0 +1,109 @@
+Residue conformations -------------------------------------------
+A1 : A C2p_exo anti
+A2 : A C4p_endo anti
+A3 : G C3p_exo anti
+A4 : A C3p_exo syn
+A5 : A C2p_endo anti
+A6 : C C4p_endo syn
+B106 : ARG
+B107 : HIS
+B108 : VAL
+B109 : GLY
+B110 : ASN
+B111 : ARG
+B112 : ALA
+B113 : ASN
+B114 : PRO
+B115 : ASP
+B116 : PRO
+B117 : ASN
+B118 : CYS
+B119 : CYS
+B120 : LEU
+B121 : GLY
+B122 : VAL
+B123 : PHE
+B124 : GLY
+B125 : LEU
+B126 : SER
+B127 : LEU
+B128 : TYR
+B129 : THR
+B130 : THR
+B131 : GLU
+B132 : ARG
+B133 : ASP
+B134 : LEU
+B135 : ARG
+B136 : GLU
+B137 : VAL
+B138 : PHE
+B139 : SER
+B140 : LYS
+B141 : TYR
+B142 : GLY
+B143 : PRO
+B144 : ILE
+B145 : ALA
+B146 : ASP
+B147 : VAL
+B148 : SER
+B149 : ILE
+B150 : VAL
+B151 : TYR
+B152 : ASP
+B153 : GLN
+B154 : GLN
+B155 : SER
+B156 : ARG
+B157 : ARG
+B158 : SER
+B159 : ARG
+B160 : GLY
+B161 : PHE
+B162 : ALA
+B163 : PHE
+B164 : VAL
+B165 : TYR
+B166 : PHE
+B167 : GLU
+B168 : ASN
+B169 : VAL
+B170 : ASP
+B171 : ASP
+B172 : ALA
+B173 : LYS
+B174 : GLU
+B175 : ALA
+B176 : LYS
+B177 : GLU
+B178 : ARG
+B179 : ALA
+B180 : ASN
+B181 : GLY
+B182 : MET
+B183 : GLU
+B184 : LEU
+B185 : ASP
+B186 : GLY
+B187 : ARG
+B188 : ARG
+B189 : ILE
+B190 : ARG
+B191 : VAL
+B192 : ASP
+B193 : PHE
+B194 : SER
+B195 : ILE
+B196 : THR
+B197 : LYS
+B198 : ARG
+B199 : PRO
+B200 : HIS
+Adjacent stackings ----------------------------------------------
+A1-A2 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+Number of stackings = 1
+Number of adjacent stackings = 1
+Number of non adjacent stackings = 0
+Base-pairs ------------------------------------------------------

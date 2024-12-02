@@ -1,0 +1,105 @@
+Residue conformations -------------------------------------------
+A108 : A C3p_exo syn
+A109 : U C3p_exo anti
+A110 : C C1p_exo anti
+A111 : C C3p_exo anti
+A112 : A C2p_exo anti
+A113 : A C3p_exo anti
+B114 : MET
+B115 : HIS
+B116 : HIS
+B117 : ARG
+B118 : GLN
+B119 : GLU
+B120 : GLY
+B121 : GLU
+B122 : LEU
+B123 : SER
+B124 : ASN
+B125 : THR
+B126 : ARG
+B127 : LEU
+B128 : PHE
+B129 : VAL
+B130 : ARG
+B131 : PRO
+B132 : PHE
+B133 : PRO
+B134 : LEU
+B135 : ASP
+B136 : VAL
+B137 : GLN
+B138 : GLU
+B139 : SER
+B140 : GLU
+B141 : LEU
+B142 : ASN
+B143 : GLU
+B144 : ILE
+B145 : PHE
+B146 : GLY
+B147 : PRO
+B148 : PHE
+B149 : GLY
+B150 : PRO
+B151 : MET
+B152 : LYS
+B153 : GLU
+B154 : VAL
+B155 : LYS
+B156 : ILE
+B157 : LEU
+B158 : ASN
+B159 : GLY
+B160 : PHE
+B161 : ALA
+B162 : PHE
+B163 : VAL
+B164 : GLU
+B165 : PHE
+B166 : GLU
+B167 : GLU
+B168 : ALA
+B169 : GLU
+B170 : SER
+B171 : ALA
+B172 : ALA
+B173 : LYS
+B174 : ALA
+B175 : ILE
+B176 : GLU
+B177 : GLU
+B178 : VAL
+B179 : HIS
+B180 : GLY
+B181 : LYS
+B182 : SER
+B183 : PHE
+B184 : ALA
+B185 : ASN
+B186 : GLN
+B187 : PRO
+B188 : LEU
+B189 : GLU
+B190 : VAL
+B191 : VAL
+B192 : TYR
+B193 : SER
+B194 : LYS
+B195 : LEU
+B196 : PRO
+B197 : ALA
+B198 : LYS
+B199 : ARG
+B200 : TYR
+B201 : ARG
+Adjacent stackings ----------------------------------------------
+A111-A112 : adjacent_5p upward pairing 
+A112-A113 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+Number of stackings = 2
+Number of adjacent stackings = 2
+Number of non adjacent stackings = 0
+Base-pairs ------------------------------------------------------
+A110-A111 : C-C Ss/Hh adjacent_5p pairing parallel cis one_hbond 
+A111-A112 : C-A O2'/C8 adjacent_5p upward pairing 

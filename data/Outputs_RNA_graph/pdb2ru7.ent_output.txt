@@ -1,0 +1,99 @@
+Residue conformations -------------------------------------------
+A1 : G C1p_exo syn
+A2 : G C2p_endo anti
+A3 : A C1p_endo anti
+A4 : G C3p_endo anti
+A5 : G C2p_endo anti
+A6 : A C2p_endo syn
+A7 : G C2p_endo anti
+A8 : G C2p_endo anti
+A9 : A C4p_exo anti
+A10 : G C2p_exo anti
+A11 : G C3p_exo anti
+A12 : A C2p_exo anti
+B13 : G C1p_exo syn
+B14 : G C2p_endo anti
+B15 : A C2p_exo syn
+B16 : G C1p_endo anti
+B17 : G C1p_exo anti
+B18 : A C2p_endo syn
+B19 : G C2p_endo anti
+B20 : G C2p_endo anti
+B21 : A C4p_exo syn
+B22 : G C3p_exo anti
+B23 : G C2p_endo anti
+B24 : A C3p_endo anti
+C25 : GLY
+C26 : GLN
+C27 : TRP
+C28 : ASN
+C29 : LYS
+C30 : PRO
+C31 : SER
+C32 : LYS
+C33 : PRO
+C34 : LYS
+C35 : THR
+C36 : ASN
+D37 : GLY
+D38 : GLN
+D39 : TRP
+D40 : ASN
+D41 : LYS
+D42 : PRO
+D43 : SER
+D44 : LYS
+D45 : PRO
+D46 : LYS
+D47 : THR
+D48 : ASN
+Adjacent stackings ----------------------------------------------
+A1-A2 : adjacent_5p upward 
+A4-A5 : adjacent_5p upward 
+A10-A11 : adjacent_5p upward 
+B13-B14 : adjacent_5p upward 
+B16-B17 : adjacent_5p upward 
+B19-B20 : adjacent_5p upward 
+B22-B23 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+A1-B16 : outward 
+A3-B15 : inward 
+A4-B13 : outward 
+A7-B22 : outward 
+A9-B21 : inward 
+A10-B19 : outward 
+Number of stackings = 13
+Number of adjacent stackings = 7
+Number of non adjacent stackings = 6
+Base-pairs ------------------------------------------------------
+A1-A3 : G-A Ss/Hh pairing antiparallel trans XI 
+A1-A4 : G-G Ww/Hh pairing parallel cis VI 
+A1-A10 : G-G Hh/Ww pairing parallel cis VI 
+A1-B18 : G-A O2'/Bh pairing 
+A2-A5 : G-G Ww/Hh pairing parallel cis VI 
+A2-A11 : G-G Hh/Ww pairing parallel cis VI 
+A4-A6 : G-A O2'/Ww pairing 
+A4-A7 : G-G Ww/Hh pairing parallel cis VI 
+A5-A7 : G-G Bs/O2' pairing 
+A5-A8 : G-G Ww/Hh pairing parallel cis VI 
+A6-B22 : A-G O2'/Ss pairing 
+A6-B24 : A-A Bh/O2' Hh/O2' pairing 
+A7-A9 : G-A Ss/Hh pairing antiparallel trans XI 
+A7-A10 : G-G Ww/Hh pairing parallel cis VI 
+A8-A11 : G-G Ww/Hh pairing parallel cis VI 
+A10-B18 : G-A Ss/O2' pairing 
+A11-A12 : G-A Bs/O2' Ss/O2' adjacent_5p pairing 
+A12-B18 : A-A O2'/Bh O2'/Hh pairing 
+B13-B15 : G-A Ss/Hh pairing antiparallel trans XI 
+B13-B16 : G-G Ww/Hh pairing parallel cis VI 
+B13-B22 : G-G Hh/Ww pairing parallel cis VI 
+B14-B17 : G-G Ww/Hh pairing parallel cis VI 
+B14-B23 : G-G Hh/Ww pairing parallel cis VI 
+B16-B18 : G-A O2'/Ww pairing 
+B16-B19 : G-G Ww/Hh pairing parallel cis VI 
+B17-B19 : G-G Bs/O2' pairing 
+B17-B20 : G-G Ww/Hh pairing parallel cis VI 
+B19-B21 : G-A Ss/Hh pairing antiparallel trans XI 
+B19-B22 : G-G Ww/Hh pairing parallel cis one_hbond 
+B20-B23 : G-G Ww/Hh pairing parallel cis VI 
+B23-B24 : G-A Sw/Ss adjacent_5p pairing antiparallel cis one_hbond 

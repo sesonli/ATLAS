@@ -1,0 +1,38 @@
+Residue conformations -------------------------------------------
+A42 : G C3p_endo anti
+A43 : A C3p_endo anti
+A44 : U C3p_endo anti
+A45 : C C3p_endo anti
+A46 : U C3p_endo anti
+A47 : C C3p_endo anti
+A48 : U C2p_endo anti
+A49 : U C2p_endo anti
+A50 : G C2p_exo syn
+A51 : U C3p_exo anti
+A52 : A C3p_endo anti
+A53 : G C3p_endo anti
+A54 : A C3p_endo anti
+A55 : U C3p_endo anti
+A56 : C C3p_endo anti
+A57 : A C3p_endo anti
+Adjacent stackings ----------------------------------------------
+A42-A43 : adjacent_5p upward 
+A43-A44 : adjacent_5p upward 
+A44-A45 : adjacent_5p upward 
+A46-A47 : adjacent_5p upward 
+A52-A53 : adjacent_5p upward 
+A53-A54 : adjacent_5p upward 
+A54-A55 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+A47-A49 : upward 
+A50-A52 : upward 
+Number of stackings = 9
+Number of adjacent stackings = 7
+Number of non adjacent stackings = 2
+Base-pairs ------------------------------------------------------
+A42-A56 : G-C Ww/Ww pairing antiparallel cis XIX 
+A43-A55 : A-U Ww/Ww pairing antiparallel cis XX 
+A44-A54 : U-A Ww/Ww pairing antiparallel cis XX 
+A45-A53 : C-G Ww/Ww pairing antiparallel cis XIX 
+A46-A52 : U-A Ww/Ww pairing antiparallel cis XX 
+A47-A50 : C-G Ww/Ww pairing antiparallel cis XIX 

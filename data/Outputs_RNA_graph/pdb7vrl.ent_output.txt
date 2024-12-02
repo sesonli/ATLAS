@@ -1,0 +1,117 @@
+Residue conformations -------------------------------------------
+A1 : U C2p_endo anti
+A2 : G C3p_exo anti
+A3 : C C2p_endo anti
+A4 : A C3p_exo anti
+A5 : U C3p_exo anti
+A6 : A C3p_endo anti
+A7 : U C1p_endo syn
+B107 : HIS
+B108 : MET
+B109 : ASN
+B110 : THR
+B111 : GLU
+B112 : ASN
+B113 : LYS
+B114 : SER
+B115 : GLN
+B116 : PRO
+B117 : LYS
+B118 : ARG
+B119 : LEU
+B120 : HIS
+B121 : VAL
+B122 : SER
+B123 : ASN
+B124 : ILE
+B125 : PRO
+B126 : PHE
+B127 : ARG
+B128 : PHE
+B129 : ARG
+B130 : ASP
+B131 : PRO
+B132 : ASP
+B133 : LEU
+B134 : ARG
+B135 : GLN
+B136 : MET
+B137 : PHE
+B138 : GLY
+B139 : GLN
+B140 : PHE
+B141 : GLY
+B142 : LYS
+B143 : ILE
+B144 : LEU
+B145 : ASP
+B146 : VAL
+B147 : GLU
+B148 : ILE
+B149 : ILE
+B150 : PHE
+B151 : ASN
+B152 : GLU
+B153 : ARG
+B154 : GLY
+B155 : SER
+B156 : LYS
+B157 : GLY
+B158 : PHE
+B159 : GLY
+B160 : PHE
+B161 : VAL
+B162 : THR
+B163 : PHE
+B164 : GLU
+B165 : ASN
+B166 : SER
+B167 : ALA
+B168 : ASP
+B169 : ALA
+B170 : ASP
+B171 : ARG
+B172 : ALA
+B173 : ARG
+B174 : GLU
+B175 : LYS
+B176 : LEU
+B177 : HIS
+B178 : GLY
+B179 : THR
+B180 : VAL
+B181 : VAL
+B182 : GLU
+B183 : GLY
+B184 : ARG
+B185 : LYS
+B186 : ILE
+B187 : GLU
+B188 : VAL
+B189 : ASN
+B190 : ASN
+B191 : ALA
+B192 : THR
+B193 : ALA
+B194 : ARG
+B195 : VAL
+B196 : MET
+B197 : THR
+B198 : ASN
+B199 : LYS
+B200 : LYS
+B201 : THR
+B202 : VAL
+B203 : ASN
+B204 : PRO
+B205 : TYR
+B206 : THR
+B207 : ASN
+B208 : GLY
+Adjacent stackings ----------------------------------------------
+Non-Adjacent stackings ------------------------------------------
+Number of stackings = 0
+Number of adjacent stackings = 0
+Number of non adjacent stackings = 0
+Base-pairs ------------------------------------------------------
+A2-A4 : G-A Sw/Ww pairing parallel trans one_hbond 

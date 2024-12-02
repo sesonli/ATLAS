@@ -1,0 +1,245 @@
+Residue conformations -------------------------------------------
+A1061 : U unknown unknown
+A1062 : G unknown unknown
+A1063 : G unknown unknown
+A1064 : C unknown unknown
+A1065 : U unknown unknown
+A1066 : U unknown unknown
+A1067 : A unknown unknown
+A1068 : G unknown unknown
+A1069 : A unknown unknown
+A1070 : A unknown unknown
+A1071 : G unknown unknown
+A1072 : C unknown unknown
+B1401 : G unknown unknown
+B1402 : C unknown unknown
+B1403 : C unknown unknown
+B1404 : C unknown unknown
+B1405 : G unknown unknown
+B1406 : U unknown unknown
+B1407 : C unknown unknown
+B1408 : A unknown unknown
+B1409 : C unknown unknown
+B1410 : A unknown unknown
+B1411 : C unknown unknown
+B1412 : C unknown unknown
+B1413 : A unknown unknown
+B1414 : U unknown unknown
+B1415 : G unknown unknown
+B1416 : G unknown unknown
+B1417 : G unknown unknown
+B1418 : A unknown unknown
+B1419 : G unknown unknown
+B1420 : U unknown unknown
+B1480 : A unknown unknown
+B1481 : U unknown unknown
+B1482 : G unknown unknown
+B1483 : A unknown unknown
+B1484 : C unknown unknown
+B1485 : U unknown unknown
+B1486 : G unknown unknown
+B1487 : G unknown unknown
+B1488 : G unknown unknown
+B1489 : G unknown unknown
+B1490 : U unknown unknown
+B1491 : G unknown unknown
+B1492 : A unknown unknown
+B1493 : A unknown unknown
+B1494 : G unknown unknown
+B1495 : U unknown unknown
+B1496 : C unknown unknown
+B1497 : G unknown unknown
+B1498 : U unknown unknown
+B1499 : A unknown unknown
+B1500 : A unknown unknown
+B1501 : C unknown unknown
+C1 : VAL
+C2 : ASN
+C3 : PRO
+C4 : PHE
+C5 : ILE
+C6 : LYS
+C7 : GLU
+C8 : ALA
+C9 : LYS
+C10 : GLU
+C11 : LYS
+C12 : MET
+C13 : LYS
+C14 : ARG
+C15 : THR
+C16 : LEU
+C17 : GLU
+C18 : LYS
+C19 : ILE
+C20 : GLU
+C21 : ASP
+C22 : GLU
+C23 : LEU
+C24 : ARG
+C25 : LYS
+C26 : MET
+C27 : ARG
+C28 : THR
+C29 : GLY
+C30 : LYS
+C31 : PRO
+C32 : SER
+C33 : PRO
+C34 : ALA
+C35 : ILE
+C36 : LEU
+C37 : GLU
+C38 : GLU
+C39 : ILE
+C40 : LYS
+C41 : VAL
+C42 : ASP
+C43 : TYR
+C44 : TYR
+C45 : GLY
+C46 : VAL
+C47 : PRO
+C48 : THR
+C49 : PRO
+C50 : VAL
+C51 : ASN
+C52 : GLN
+C53 : LEU
+C54 : ALA
+C55 : THR
+C56 : ILE
+C57 : SER
+C58 : ILE
+C59 : SER
+C60 : GLU
+C61 : GLU
+C62 : ARG
+C63 : THR
+C64 : LEU
+C65 : VAL
+C66 : ILE
+C67 : LYS
+C68 : PRO
+C69 : TRP
+C70 : ASP
+C71 : LYS
+C72 : SER
+C73 : VAL
+C74 : LEU
+C75 : SER
+C76 : LEU
+C77 : ILE
+C78 : GLU
+C79 : LYS
+C80 : ALA
+C81 : ILE
+C82 : ASN
+C83 : ALA
+C84 : SER
+C85 : ASP
+C86 : LEU
+C87 : GLY
+C88 : LEU
+C89 : ASN
+C90 : PRO
+C91 : ILE
+C92 : ASN
+C93 : ASP
+C94 : GLY
+C95 : ASN
+C96 : VAL
+C97 : ILE
+C98 : ARG
+C99 : LEU
+C100 : VAL
+C101 : PHE
+C102 : PRO
+C103 : SER
+C104 : PRO
+C105 : THR
+C106 : THR
+C107 : GLU
+C108 : GLN
+C109 : ARG
+C110 : GLU
+C111 : LYS
+C112 : TRP
+C113 : VAL
+C114 : LYS
+C115 : LYS
+C116 : ALA
+C117 : LYS
+C118 : GLU
+C119 : ILE
+C120 : VAL
+C121 : GLU
+C122 : GLU
+C123 : GLY
+C124 : LYS
+C125 : ILE
+C126 : ALA
+C127 : ILE
+C128 : ARG
+C129 : ASN
+C130 : ILE
+C131 : ARG
+C132 : ARG
+C133 : GLU
+C134 : ILE
+C135 : LEU
+C136 : LYS
+C137 : LYS
+C138 : ILE
+C139 : LYS
+C140 : GLU
+C141 : ASP
+C142 : GLN
+C143 : LYS
+C144 : GLU
+C145 : GLY
+C146 : LEU
+C147 : ILE
+C148 : PRO
+C149 : GLU
+C150 : ASP
+C151 : ASP
+C152 : ALA
+C153 : LYS
+C154 : ARG
+C155 : LEU
+C156 : GLU
+C157 : ASN
+C158 : GLU
+C159 : ILE
+C160 : GLN
+C161 : LYS
+C162 : LEU
+C163 : THR
+C164 : ASP
+C165 : GLU
+C166 : PHE
+C167 : ILE
+C168 : GLU
+C169 : LYS
+C170 : LEU
+C171 : ASP
+C172 : GLU
+C173 : VAL
+C174 : PHE
+C175 : GLU
+C176 : ILE
+C177 : LYS
+C178 : LYS
+C179 : GLU
+C180 : GLU
+C181 : ILE
+C182 : MET
+C183 : GLU
+C184 : PHE
+Adjacent stackings ----------------------------------------------
+Non-Adjacent stackings ------------------------------------------
+Number of stackings = 0
+Number of adjacent stackings = 0
+Number of non adjacent stackings = 0
+Base-pairs ------------------------------------------------------

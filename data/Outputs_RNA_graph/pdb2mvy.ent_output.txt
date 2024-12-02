@@ -1,0 +1,54 @@
+Residue conformations -------------------------------------------
+'1'1 : G C3p_endo anti
+'1'2 : G C3p_endo anti
+'1'3 : A C3p_endo anti
+'1'4 : C C3p_endo anti
+'1'5 : U C3p_endo anti
+'1'6 : A C3p_endo anti
+'1'7 : G C3p_endo anti
+'1'8 : U C3p_endo anti
+'1'9 : C C3p_endo anti
+'1'10 : C C3p_endo anti
+'2'11 : G C3p_endo anti
+'2'12 : G C3p_endo anti
+'2'13 : A C3p_endo anti
+'2'14 : C C3p_endo anti
+'2'15 : U C3p_endo anti
+'2'16 : A C3p_endo anti
+'2'17 : G C3p_endo anti
+'2'18 : U C3p_endo anti
+'2'19 : C C3p_endo anti
+'2'20 : C C3p_endo anti
+Adjacent stackings ----------------------------------------------
+'1'1-'1'2 : adjacent_5p upward 
+'1'2-'1'3 : adjacent_5p upward 
+'1'3-'1'4 : adjacent_5p upward 
+'1'4-'1'5 : adjacent_5p upward 
+'1'5-'1'6 : adjacent_5p upward 
+'1'6-'1'7 : adjacent_5p upward 
+'1'7-'1'8 : adjacent_5p upward 
+'1'8-'1'9 : adjacent_5p upward 
+'1'9-'1'10 : adjacent_5p upward 
+'2'11-'2'12 : adjacent_5p upward 
+'2'12-'2'13 : adjacent_5p upward 
+'2'13-'2'14 : adjacent_5p upward 
+'2'16-'2'17 : adjacent_5p upward 
+'2'17-'2'18 : adjacent_5p upward 
+'2'18-'2'19 : adjacent_5p upward 
+'2'19-'2'20 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+'1'6-'2'16 : outward 
+Number of stackings = 17
+Number of adjacent stackings = 16
+Number of non adjacent stackings = 1
+Base-pairs ------------------------------------------------------
+'1'1-'2'20 : G-C Ww/Ww pairing antiparallel cis XIX 
+'1'2-'2'19 : G-C Ww/Ww pairing antiparallel cis XIX 
+'1'3-'2'18 : A-U Ww/Ww pairing antiparallel cis XX 
+'1'4-'2'17 : C-G Ww/Ww pairing antiparallel cis XIX 
+'1'5-'2'16 : U-A Ww/Ww pairing antiparallel cis XX 
+'1'6-'2'15 : A-U Ww/Ww pairing antiparallel cis XX 
+'1'7-'2'14 : G-C Ww/Ww pairing antiparallel cis 
+'1'8-'2'13 : U-A Ww/Ww pairing antiparallel cis XX 
+'1'9-'2'12 : C-G Ww/Ww pairing antiparallel cis XIX 
+'1'10-'2'11 : C-G Ww/Ww pairing antiparallel cis XIX 

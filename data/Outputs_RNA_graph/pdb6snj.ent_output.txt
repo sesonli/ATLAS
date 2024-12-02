@@ -1,0 +1,199 @@
+Residue conformations -------------------------------------------
+A260 : GLY
+A261 : GLY
+A262 : PHE
+A263 : ASN
+A264 : LYS
+A265 : PHE
+A266 : GLY
+A267 : GLY
+A268 : PRO
+A269 : ARG
+A270 : ASP
+A271 : GLN
+A272 : GLY
+A273 : SER
+A274 : ARG
+A275 : HIS
+A276 : ASP
+A277 : SER
+A278 : GLU
+A279 : GLN
+A280 : ASP
+A281 : ASN
+A282 : SER
+A283 : ASP
+A284 : ASN
+A285 : ASN
+A286 : THR
+A287 : ILE
+A288 : PHE
+A289 : VAL
+A290 : GLN
+A291 : GLY
+A292 : LEU
+A293 : GLY
+A294 : GLU
+A295 : ASN
+A296 : VAL
+A297 : THR
+A298 : ILE
+A299 : GLU
+A300 : SER
+A301 : VAL
+A302 : ALA
+A303 : ASP
+A304 : TYR
+A305 : PHE
+A306 : LYS
+A307 : GLN
+A308 : ILE
+A309 : GLY
+A310 : ILE
+A311 : ILE
+A312 : LYS
+A313 : THR
+A314 : ASN
+A315 : LYS
+A316 : LYS
+A317 : THR
+A318 : GLY
+A319 : GLN
+A320 : PRO
+A321 : MET
+A322 : ILE
+A323 : ASN
+A324 : LEU
+A325 : TYR
+A326 : THR
+A327 : ASP
+A328 : ARG
+A329 : GLU
+A330 : THR
+A331 : GLY
+A332 : LYS
+A333 : LEU
+A334 : LYS
+A335 : GLY
+A336 : GLU
+A337 : ALA
+A338 : THR
+A339 : VAL
+A340 : SER
+A341 : PHE
+A342 : ASP
+A343 : ASP
+A344 : PRO
+A345 : PRO
+A346 : SER
+A347 : ALA
+A348 : LYS
+A349 : ALA
+A350 : ALA
+A351 : ILE
+A352 : ASP
+A353 : TRP
+A354 : PHE
+A355 : ASP
+A356 : GLY
+A357 : LYS
+A358 : GLU
+A359 : PHE
+A360 : SER
+A361 : GLY
+A362 : ASN
+A363 : PRO
+A364 : ILE
+A365 : LYS
+A366 : VAL
+A367 : SER
+A368 : PHE
+A369 : ALA
+A370 : THR
+A371 : ARG
+A372 : ARG
+A373 : ALA
+A374 : ASP
+A375 : PHE
+A376 : ASN
+A377 : ARG
+A378 : GLY
+A379 : GLY
+A380 : GLY
+A381 : ASN
+A382 : GLY
+A383 : ARG
+A384 : GLY
+A385 : GLY
+A386 : ARG
+A387 : GLY
+A388 : ARG
+A389 : GLY
+A390 : GLY
+B91 : G C2p_exo anti
+B92 : G C3p_endo anti
+B93 : G C3p_endo anti
+B94 : A C3p_endo anti
+B95 : U C3p_endo anti
+B96 : U C3p_endo anti
+B97 : U C3p_endo anti
+B98 : C C3p_endo anti
+B99 : C C3p_endo anti
+B100 : C C3p_endo anti
+B101 : C C3p_endo anti
+B102 : A C2p_endo syn
+B103 : A C3p_exo syn
+B104 : A C2p_endo syn
+B105 : U C3p_exo anti
+B106 : G C2p_exo anti
+B107 : U C2p_endo anti
+B108 : G C3p_endo anti
+B109 : G C2p_exo anti
+B110 : G C3p_endo anti
+B111 : A C3p_endo anti
+B112 : A C3p_endo anti
+B113 : A C3p_endo anti
+B114 : C C3p_endo anti
+B115 : U C3p_endo anti
+B116 : C C3p_endo anti
+B117 : C C3p_endo anti
+B118 : C C3p_endo anti
+Adjacent stackings ----------------------------------------------
+B91-B92 : adjacent_5p upward 
+B92-B93 : adjacent_5p upward 
+B93-B94 : adjacent_5p upward 
+B94-B95 : adjacent_5p upward 
+B95-B96 : adjacent_5p upward 
+B96-B97 : adjacent_5p upward 
+B97-B98 : adjacent_5p upward 
+B98-B99 : adjacent_5p upward 
+B103-B104 : adjacent_5p upward 
+B108-B109 : adjacent_5p upward 
+B109-B110 : adjacent_5p upward 
+B110-B111 : adjacent_5p upward 
+B111-B112 : adjacent_5p upward 
+B112-B113 : adjacent_5p upward 
+B113-B114 : adjacent_5p upward 
+B114-B115 : adjacent_5p upward 
+B115-B116 : adjacent_5p upward 
+B116-B117 : adjacent_5p upward 
+B117-B118 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+Number of stackings = 19
+Number of adjacent stackings = 19
+Number of non adjacent stackings = 0
+Base-pairs ------------------------------------------------------
+A315-B108 : LYS-G pairing one_hbond 
+A315-B109 : LYS-G pairing one_hbond 
+A325-B105 : TYR-U pairing one_hbond 
+A383-B101 : ARG-C pairing one_hbond 
+B91-B118 : G-C Ww/Ww pairing antiparallel cis XIX 
+B92-B117 : G-C Ww/Ww pairing antiparallel cis XIX 
+B93-B116 : G-C Ww/Ww pairing antiparallel cis XIX 
+B94-B115 : A-U Ww/Ww pairing antiparallel cis XX 
+B95-B113 : U-A Ww/Ww pairing antiparallel cis XX 
+B96-B112 : U-A Ww/Ww pairing antiparallel cis XX 
+B97-B111 : U-A Ww/Ww pairing antiparallel cis XX 
+B98-B110 : C-G Ww/Ww pairing antiparallel cis XIX 
+B99-B109 : C-G Ww/Ww pairing antiparallel cis XIX 
+B100-B108 : C-G Ww/Ww pairing antiparallel cis XIX 

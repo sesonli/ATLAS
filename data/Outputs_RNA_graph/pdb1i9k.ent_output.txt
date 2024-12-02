@@ -1,0 +1,47 @@
+Residue conformations -------------------------------------------
+A1 : U C2p_exo anti
+A2 : C C3p_endo anti
+A3 : C C3p_endo anti
+A4 : C C2p_exo anti
+A5 : C C3p_endo anti
+A6 : C C3p_endo anti
+B1 : U C3p_endo anti
+B2 : C C3p_endo anti
+B3 : C C3p_endo anti
+B4 : C C2p_exo anti
+B5 : C C3p_endo anti
+B6 : C C3p_endo anti
+C1 : U C3p_endo anti
+C2 : C C3p_endo anti
+C3 : C C3p_endo anti
+C4 : C C2p_exo anti
+C5 : C C3p_endo anti
+C6 : C C3p_endo anti
+D1 : U C3p_endo anti
+D2 : C C3p_endo anti
+D3 : C C3p_endo anti
+D4 : C C2p_exo anti
+D5 : C C2p_exo anti
+D6 : C C3p_endo anti
+Adjacent stackings ----------------------------------------------
+A1-A2 : adjacent_5p upward 
+B1-B2 : adjacent_5p upward 
+C1-C2 : adjacent_5p upward 
+D1-D2 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+Number of stackings = 4
+Number of adjacent stackings = 4
+Number of non adjacent stackings = 0
+Base-pairs ------------------------------------------------------
+A1-C1 : U-U Ww/Ww pairing parallel trans XII 
+A2-C2 : C-C Ww/Ww pairing parallel trans XV 
+A3-C3 : C-C Ww/Ww pairing parallel trans XV 
+A4-C4 : C-C Ww/Ww pairing parallel trans XV 
+A5-C5 : C-C Ww/Ww pairing parallel trans XV 
+A6-C6 : C-C Ww/Ww pairing parallel trans XV 
+B1-D1 : U-U Ww/Ww pairing parallel trans XII 
+B2-D2 : C-C Ww/Ww pairing parallel trans XV 
+B3-D3 : C-C Ww/Ww pairing parallel trans XV 
+B4-D4 : C-C Ww/Ww pairing parallel trans XV 
+B5-D5 : C-C Ww/Ww pairing parallel trans XV 
+B6-D6 : C-C Ww/Ww pairing parallel trans XV 

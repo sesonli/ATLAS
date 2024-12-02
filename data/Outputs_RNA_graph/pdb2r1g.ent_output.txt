@@ -1,0 +1,563 @@
+Residue conformations -------------------------------------------
+A6 : G unknown unknown
+A7 : G unknown unknown
+A8 : A unknown unknown
+A9 : G unknown unknown
+A10 : A unknown unknown
+A11 : G unknown unknown
+A12 : U unknown unknown
+A13 : U unknown unknown
+A14 : U unknown unknown
+A15 : G unknown unknown
+A16 : A unknown unknown
+A17 : U unknown unknown
+A18 : C unknown unknown
+A19 : C unknown unknown
+A20 : U unknown unknown
+A21 : G unknown unknown
+A22 : G unknown unknown
+A23 : C unknown unknown
+A24 : U unknown unknown
+A25 : C unknown unknown
+A26 : A unknown unknown
+A27 : G unknown unknown
+A28 : G unknown unknown
+A29 : G unknown unknown
+B500 : G unknown unknown
+B501 : C unknown unknown
+B502 : G unknown unknown
+B503 : C unknown unknown
+B504 : C unknown unknown
+B505 : G unknown unknown
+B506 : G unknown unknown
+B507 : C unknown unknown
+B508 : C unknown unknown
+B509 : A unknown unknown
+B510 : A unknown unknown
+B511 : C unknown unknown
+B512 : U unknown unknown
+B513 : C unknown unknown
+B514 : C unknown unknown
+B515 : G unknown unknown
+B516 : U unknown unknown
+B517 : G unknown unknown
+B518 : C unknown unknown
+B519 : C unknown unknown
+B520 : A unknown unknown
+B521 : G unknown unknown
+B522 : C unknown unknown
+B523 : A unknown unknown
+B524 : G unknown unknown
+B525 : C unknown unknown
+B526 : C unknown unknown
+B527 : G unknown unknown
+B528 : C unknown unknown
+B529 : G unknown unknown
+B530 : G unknown unknown
+B531 : U unknown unknown
+B532 : A unknown unknown
+B533 : A unknown unknown
+B534 : U unknown unknown
+B535 : A unknown unknown
+B536 : C unknown unknown
+B537 : G unknown unknown
+B538 : G unknown unknown
+B539 : A unknown unknown
+B540 : G unknown unknown
+B541 : G unknown unknown
+B542 : G unknown unknown
+B543 : C unknown unknown
+B544 : G unknown unknown
+B545 : C unknown unknown
+B546 : G unknown unknown
+B547 : A unknown unknown
+C885 : G unknown unknown
+C886 : G unknown unknown
+C887 : G unknown unknown
+C888 : G unknown unknown
+C889 : A unknown unknown
+C890 : G unknown unknown
+C891 : U unknown unknown
+C892 : A unknown unknown
+C893 : C unknown unknown
+C894 : G unknown unknown
+C895 : G unknown unknown
+C896 : C unknown unknown
+C897 : C unknown unknown
+C898 : G unknown unknown
+C899 : C unknown unknown
+C900 : A unknown unknown
+C901 : A unknown unknown
+C902 : G unknown unknown
+C903 : G unknown unknown
+C904 : C unknown unknown
+C905 : U unknown unknown
+C906 : G unknown unknown
+C907 : A unknown unknown
+C908 : A unknown unknown
+C909 : A unknown unknown
+C910 : C unknown unknown
+C911 : U unknown unknown
+C912 : C unknown unknown
+C913 : A unknown unknown
+D918 : A unknown unknown
+D919 : A unknown unknown
+D920 : U unknown unknown
+D921 : U unknown unknown
+D922 : G unknown unknown
+D923 : A unknown unknown
+D924 : C unknown unknown
+D925 : G unknown unknown
+D926 : G unknown unknown
+D927 : G unknown unknown
+D928 : G unknown unknown
+D929 : G unknown unknown
+D930 : C unknown unknown
+D931 : C unknown unknown
+D932 : G unknown unknown
+D933 : C unknown unknown
+D934 : C unknown unknown
+D935 : U unknown unknown
+D936 : U unknown unknown
+D937 : G unknown unknown
+D938 : U unknown unknown
+D939 : A unknown unknown
+D940 : C unknown unknown
+D941 : A unknown unknown
+D942 : C unknown unknown
+D943 : A unknown unknown
+D944 : C unknown unknown
+D945 : C unknown unknown
+E1400 : C unknown unknown
+E1401 : G unknown unknown
+E1402 : C unknown unknown
+E1403 : C unknown unknown
+E1404 : C unknown unknown
+E1405 : G unknown unknown
+E1406 : U unknown unknown
+E1407 : C unknown unknown
+E1408 : A unknown unknown
+E1409 : C unknown unknown
+E1410 : G unknown unknown
+X1490 : C unknown unknown
+X1491 : G unknown unknown
+X1492 : A unknown unknown
+X1493 : A unknown unknown
+X1494 : G unknown unknown
+X1495 : U unknown unknown
+X1496 : C unknown unknown
+X1497 : G unknown unknown
+X1498 : U unknown unknown
+X1499 : A unknown unknown
+X1500 : A unknown unknown
+F1501 : C unknown unknown
+F1502 : A unknown unknown
+F1503 : A unknown unknown
+F1504 : G unknown unknown
+F1505 : G unknown unknown
+F1506 : U unknown unknown
+F1507 : A unknown unknown
+F1508 : G unknown unknown
+F1509 : C unknown unknown
+F1510 : U unknown unknown
+F1511 : G unknown unknown
+F1512 : U unknown unknown
+F1513 : A unknown unknown
+F1514 : C unknown unknown
+F1515 : C unknown unknown
+F1516 : G unknown unknown
+F1517 : G unknown unknown
+F1518 : A unknown unknown
+F1519 : A unknown unknown
+F1520 : G unknown unknown
+F1521 : G unknown unknown
+F1522 : U unknown unknown
+F1523 : G unknown unknown
+F1524 : C unknown unknown
+F1525 : G unknown unknown
+F1526 : G unknown unknown
+F1527 : C unknown unknown
+F1528 : U unknown unknown
+F1529 : G unknown unknown
+G2 : GLU
+G3 : GLN
+G4 : TYR
+G5 : TYR
+G6 : GLY
+G7 : THR
+G8 : GLY
+G9 : ARG
+G10 : ARG
+G11 : LYS
+G12 : GLU
+G13 : ALA
+G14 : VAL
+G15 : ALA
+G16 : ARG
+G17 : VAL
+G18 : PHE
+G19 : LEU
+G20 : ARG
+G21 : PRO
+G22 : GLY
+G23 : ASN
+G24 : GLY
+G25 : LYS
+G26 : VAL
+G27 : THR
+G28 : VAL
+G29 : ASN
+G30 : GLY
+G31 : GLN
+G32 : ASP
+G33 : PHE
+G34 : ASN
+G35 : GLU
+G36 : TYR
+G37 : PHE
+G38 : GLN
+G39 : GLY
+G40 : LEU
+G41 : VAL
+G42 : ARG
+G43 : ALA
+G44 : VAL
+G45 : ALA
+G46 : ALA
+G47 : LEU
+G48 : GLU
+G49 : PRO
+G50 : LEU
+G51 : ARG
+G52 : ALA
+G53 : VAL
+G54 : ASP
+G55 : ALA
+G56 : LEU
+G57 : GLY
+G58 : ARG
+G59 : PHE
+G60 : ASP
+G61 : ALA
+G62 : TYR
+G63 : ILE
+G64 : THR
+G65 : VAL
+G66 : ARG
+G67 : GLY
+G68 : GLY
+G69 : GLY
+G70 : LYS
+G71 : SER
+G72 : GLY
+G73 : GLN
+G74 : ILE
+G75 : ASP
+G76 : ALA
+G77 : ILE
+G78 : LYS
+G79 : LEU
+G80 : GLY
+G81 : ILE
+G82 : ALA
+G83 : ARG
+G84 : ALA
+G85 : LEU
+G86 : VAL
+G87 : GLN
+G88 : TYR
+G89 : ASN
+G90 : PRO
+G91 : ASP
+G92 : TYR
+G93 : ARG
+G94 : ALA
+G95 : LYS
+G96 : LEU
+G97 : LYS
+G98 : PRO
+G99 : LEU
+G100 : GLY
+G101 : PHE
+G102 : LEU
+G103 : THR
+G104 : ARG
+G105 : ASP
+G106 : ALA
+G107 : ARG
+G108 : VAL
+G109 : VAL
+G110 : GLU
+G111 : ARG
+G112 : LYS
+G113 : LYS
+G114 : TYR
+G115 : GLY
+G116 : LYS
+G117 : HIS
+G118 : LYS
+G119 : ALA
+G120 : ARG
+G121 : ARG
+G122 : ALA
+G123 : PRO
+G124 : GLN
+G125 : TYR
+G126 : SER
+G127 : LYS
+G128 : ARG
+H5 : PRO
+H6 : THR
+H7 : ILE
+H8 : ASN
+H9 : GLN
+H10 : LEU
+H11 : VAL
+H12 : ARG
+H13 : LYS
+H14 : GLY
+H15 : ARG
+H16 : GLU
+H17 : LYS
+H18 : VAL
+H19 : ARG
+H20 : LYS
+H21 : LYS
+H22 : SER
+H23 : LYS
+H24 : VAL
+H25 : PRO
+H26 : ALA
+H27 : LEU
+H28 : LYS
+H29 : GLY
+H30 : ALA
+H31 : PRO
+H32 : PHE
+H33 : ARG
+H34 : ARG
+H35 : GLY
+H36 : VAL
+H37 : CYS
+H38 : THR
+H39 : VAL
+H40 : VAL
+H41 : ARG
+H42 : THR
+H43 : VAL
+H44 : THR
+H45 : PRO
+H46 : LYS
+H47 : LYS
+H48 : PRO
+H49 : ASN
+H50 : SER
+H51 : ALA
+H52 : LEU
+H53 : ARG
+H54 : LYS
+H55 : VAL
+H56 : ALA
+H57 : LYS
+H58 : VAL
+H59 : ARG
+H60 : LEU
+H61 : THR
+H62 : SER
+H63 : GLY
+H64 : TYR
+H65 : GLU
+H66 : VAL
+H67 : THR
+H68 : ALA
+H69 : TYR
+H70 : ILE
+H71 : PRO
+H72 : GLY
+H73 : GLU
+H74 : GLY
+H75 : HIS
+H76 : ASN
+H77 : LEU
+H78 : GLN
+H79 : GLU
+H80 : HIS
+H81 : SER
+H82 : VAL
+H83 : VAL
+H84 : LEU
+H85 : ILE
+H86 : ARG
+H87 : GLY
+H88 : GLY
+H89 : ARG
+H90 : VAL
+H91 : LYS
+H92 : ASP
+H93 : LEU
+H94 : PRO
+H95 : GLY
+H96 : VAL
+H97 : ARG
+H98 : TYR
+H99 : HIS
+H100 : ILE
+H101 : VAL
+H102 : ARG
+H103 : GLY
+H104 : VAL
+H105 : TYR
+H106 : ASP
+H107 : ALA
+H108 : ALA
+H109 : GLY
+H110 : VAL
+H111 : LYS
+H112 : ASP
+H113 : ARG
+H114 : LYS
+H115 : LYS
+H116 : SER
+H117 : ARG
+H118 : SER
+H119 : LYS
+H120 : TYR
+H121 : GLY
+H122 : THR
+H123 : LYS
+H124 : LYS
+H125 : PRO
+H126 : LYS
+H127 : GLU
+H128 : ALA
+I2 : ALA
+I3 : ARG
+I4 : ILE
+I5 : ALA
+I6 : GLY
+I7 : VAL
+I8 : GLU
+I9 : ILE
+I10 : PRO
+I11 : ARG
+I12 : ASN
+I13 : LYS
+I14 : ARG
+I15 : VAL
+I16 : ASP
+I17 : VAL
+I18 : ALA
+I19 : LEU
+I20 : THR
+I21 : TYR
+I22 : ILE
+I23 : TYR
+I24 : GLY
+I25 : ILE
+I26 : GLY
+I27 : LYS
+I28 : ALA
+I29 : ARG
+I30 : ALA
+I31 : LYS
+I32 : GLU
+I33 : ALA
+I34 : LEU
+I35 : GLU
+I36 : LYS
+I37 : THR
+I38 : GLY
+I39 : ILE
+I40 : ASN
+I41 : PRO
+I42 : ALA
+I43 : THR
+I44 : ARG
+I45 : VAL
+I46 : LYS
+I47 : ASP
+I48 : LEU
+I49 : THR
+I50 : GLU
+I51 : ALA
+I52 : GLU
+I53 : VAL
+I54 : VAL
+I55 : ARG
+I56 : LEU
+I57 : ARG
+I58 : GLU
+I59 : TYR
+I60 : VAL
+I61 : GLU
+I62 : ASN
+I63 : THR
+I64 : TRP
+I65 : LYS
+I66 : LEU
+I67 : GLU
+I68 : GLY
+I69 : GLU
+I70 : LEU
+I71 : ARG
+I72 : ALA
+I73 : GLU
+I74 : VAL
+I75 : ALA
+I76 : ALA
+I77 : ASN
+I78 : ILE
+I79 : LYS
+I80 : ARG
+I81 : LEU
+I82 : MET
+I83 : ASP
+I84 : ILE
+I85 : GLY
+I86 : CYS
+I87 : TYR
+I88 : ARG
+I89 : GLY
+I90 : LEU
+I91 : ARG
+I92 : HIS
+I93 : ARG
+I94 : ARG
+I95 : GLY
+I96 : LEU
+I97 : PRO
+I98 : VAL
+I99 : ARG
+I100 : GLY
+I101 : GLN
+I102 : ARG
+I103 : THR
+I104 : ARG
+I105 : THR
+I106 : ASN
+I107 : ALA
+I108 : ARG
+I109 : THR
+I110 : ARG
+I111 : LYS
+I112 : GLY
+I113 : PRO
+I114 : ARG
+I115 : LYS
+I116 : THR
+I117 : VAL
+I118 : ALA
+I119 : GLY
+I120 : LYS
+I121 : LYS
+I122 : LYS
+I123 : ALA
+I124 : PRO
+I125 : ARG
+I126 : LYS
+Adjacent stackings ----------------------------------------------
+Non-Adjacent stackings ------------------------------------------
+Number of stackings = 0
+Number of adjacent stackings = 0
+Number of non adjacent stackings = 0
+Base-pairs ------------------------------------------------------

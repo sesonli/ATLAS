@@ -1,0 +1,72 @@
+Residue conformations -------------------------------------------
+A64 : C C3p_endo anti
+A65 : C C3p_endo anti
+A66 : U C3p_endo anti
+A67 : C C3p_endo anti
+A68 : G C3p_endo anti
+A69 : U C3p_endo anti
+A70 : G C3p_endo anti
+A71 : G C3p_endo anti
+A72 : U C3p_endo anti
+A73 : G C3p_endo anti
+A74 : G C3p_endo anti
+A75 : U C3p_endo anti
+A76 : U C3p_endo anti
+A77 : G C3p_endo anti
+A78 : U C1p_exo anti
+A79 : G C2p_exo anti
+A80 : A C1p_exo syn
+A81 : A C3p_endo anti
+A82 : C C3p_endo anti
+A83 : C C3p_endo anti
+A84 : A C3p_endo anti
+A85 : C C3p_endo anti
+A86 : C C3p_endo anti
+A87 : A C3p_endo anti
+A88 : U C3p_endo anti
+A89 : G C3p_endo anti
+A90 : U C3p_endo anti
+A91 : G C3p_endo anti
+A92 : G C3p_endo anti
+Adjacent stackings ----------------------------------------------
+A64-A65 : adjacent_5p upward 
+A65-A66 : adjacent_5p upward 
+A68-A69 : adjacent_5p upward 
+A70-A71 : adjacent_5p upward 
+A71-A72 : adjacent_5p upward 
+A73-A74 : adjacent_5p upward 
+A74-A75 : adjacent_5p upward 
+A75-A76 : adjacent_5p upward 
+A76-A77 : adjacent_5p upward 
+A77-A78 : adjacent_5p upward 
+A79-A80 : adjacent_5p outward 
+A80-A81 : adjacent_5p upward 
+A81-A82 : adjacent_5p upward 
+A82-A83 : adjacent_5p upward 
+A84-A85 : adjacent_5p upward 
+A87-A88 : adjacent_5p upward 
+A89-A90 : adjacent_5p upward 
+A90-A91 : adjacent_5p upward 
+A91-A92 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+A68-A89 : outward 
+A70-A87 : outward 
+A73-A84 : outward 
+Number of stackings = 22
+Number of adjacent stackings = 19
+Number of non adjacent stackings = 3
+Base-pairs ------------------------------------------------------
+A64-A92 : C-G Ww/Ww pairing antiparallel cis XIX 
+A65-A91 : C-G Ww/Ww pairing antiparallel cis XIX 
+A66-A90 : U-U Ws/Ww pairing antiparallel cis XVI 
+A67-A89 : C-G Ww/Ww pairing antiparallel cis XIX 
+A68-A88 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+A69-A87 : U-A Ww/Ww pairing antiparallel cis XX 
+A70-A86 : G-C Ww/Ww pairing antiparallel cis XIX 
+A71-A85 : G-C Ww/Ww pairing antiparallel cis XIX 
+A72-A84 : U-A Ww/Ww pairing antiparallel cis XX 
+A73-A83 : G-C Ww/Ww pairing antiparallel cis XIX 
+A74-A82 : G-C Ww/Ww pairing antiparallel cis XIX 
+A75-A81 : U-A Ww/Ww pairing antiparallel cis XX 
+A76-A80 : U-A Ww/Ww pairing antiparallel cis XX 
+A77-A79 : G-G Sw/Hh pairing parallel cis one_hbond 109 

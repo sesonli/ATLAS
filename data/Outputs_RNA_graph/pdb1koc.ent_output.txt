@@ -1,0 +1,57 @@
+Residue conformations -------------------------------------------
+A5 : A C4p_exo anti
+A6 : G C4p_exo anti
+A7 : A C1p_exo anti
+A8 : A C3p_exo anti
+A9 : G C2p_endo anti
+A10 : G O4p_endo anti
+A11 : A C4p_exo anti
+A12 : G C4p_exo anti
+A13 : C O4p_endo anti
+A14 : G C3p_endo anti
+A15 : U O4p_endo anti
+B27 : A C3p_endo anti
+B28 : C C4p_exo anti
+B29 : A C2p_endo syn
+B30 : G C4p_exo syn
+B31 : G O4p_endo anti
+B32 : U C1p_exo anti
+B33 : A C3p_endo anti
+B34 : G C1p_exo anti
+B35 : G C2p_endo syn
+B36 : U C4p_exo anti
+B37 : C O4p_endo anti
+B38 : G O4p_endo anti
+B39 : C O4p_endo anti
+B40 : U C4p_exo anti
+B1 : ARG
+Adjacent stackings ----------------------------------------------
+A6-A7 : adjacent_5p upward 
+A10-A11 : adjacent_5p upward 
+A11-A12 : adjacent_5p upward 
+A12-A13 : adjacent_5p upward 
+A14-A15 : adjacent_5p upward 
+B35-B36 : adjacent_5p outward 
+B37-B38 : adjacent_5p upward 
+B38-B39 : adjacent_5p upward pairing 
+B39-B40 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+A9-B29 : inward 
+Number of stackings = 10
+Number of adjacent stackings = 9
+Number of non adjacent stackings = 1
+Base-pairs ------------------------------------------------------
+A6-B39 : G-C Ww/Ww pairing antiparallel cis 
+A8-B29 : A-A Ss/O2' pairing 
+A9-A13 : G-C Wh/Wh pairing parallel cis one_hbond 124 
+A9-B30 : G-G Hh/Ww pairing parallel cis one_hbond 
+A10-B37 : G-C Ww/Ww pairing antiparallel cis XIX 
+A11-B36 : A-U Ww/Ws pairing antiparallel cis 
+A12-B35 : G-G Ww/Hh pairing parallel cis VI 
+A13-B29 : C-A Hw/Ww pairing antiparallel cis one_hbond 
+A14-B28 : G-C Ww/Ww pairing antiparallel cis 
+A14-B31 : G-G Ss/Ww pairing antiparallel cis one_hbond 
+B29-B30 : A-G O2'/Bs adjacent_5p pairing 
+B31-B33 : G-A O2'/Hh pairing 
+B33-B35 : A-G O2'/Bs O2'/Ss pairing 
+B38-B39 : G-C O2'/Hh adjacent_5p upward pairing 

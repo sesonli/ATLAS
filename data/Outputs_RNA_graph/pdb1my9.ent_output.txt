@@ -1,0 +1,63 @@
+Residue conformations -------------------------------------------
+A1 : G C2p_endo anti
+A2 : G C2p_endo anti
+A3 : A C2p_exo syn
+A4 : G C2p_endo anti
+A5 : G C4p_exo anti
+A6 : U C1p_exo anti
+A7 : U O4p_endo anti
+A8 : U C2p_exo anti
+A9 : U C1p_exo anti
+A10 : G C2p_endo anti
+A11 : G C1p_exo anti
+A12 : A C2p_exo syn
+A13 : G C1p_exo anti
+A14 : G C2p_endo anti
+B15 : G C2p_endo anti
+B16 : G C2p_endo anti
+B17 : A C2p_exo syn
+B18 : G C1p_exo anti
+B19 : G C4p_exo anti
+B20 : U C1p_exo anti
+B21 : U C1p_exo anti
+B22 : U C3p_endo anti
+B23 : U O4p_endo anti
+B24 : G C2p_endo anti
+B25 : G C1p_exo anti
+B26 : A C2p_exo syn
+B27 : G C2p_endo anti
+B28 : G C3p_exo anti
+Adjacent stackings ----------------------------------------------
+A1-A2 : adjacent_5p upward 
+A10-A11 : adjacent_5p upward 
+B15-B16 : adjacent_5p upward 
+B22-B23 : adjacent_5p upward 
+B24-B25 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+A1-B18 : outward 
+A3-B17 : inward 
+A4-B15 : outward 
+A10-B27 : outward 
+A12-B26 : inward 
+A13-B24 : outward 
+Number of stackings = 11
+Number of adjacent stackings = 5
+Number of non adjacent stackings = 6
+Base-pairs ------------------------------------------------------
+A1-A3 : G-A Ss/Hh pairing antiparallel trans XI 
+A1-A4 : G-G Ww/Hh pairing parallel cis one_hbond 
+A1-A13 : G-G Hh/Ww pairing parallel cis VI 
+A2-A14 : G-G Hh/Ws pairing parallel cis one_hbond 
+A4-A10 : G-G Ww/Hh pairing parallel cis VI 
+A5-A11 : G-G Ww/Hh pairing parallel cis VI 
+A10-A12 : G-A Sw/Hh pairing antiparallel trans one_hbond 
+A11-A14 : G-G Ws/Hh pairing parallel cis one_hbond 
+B15-B17 : G-A Ss/Hh pairing antiparallel trans XI 
+B15-B18 : G-G Ww/Hh pairing parallel cis one_hbond 
+B15-B27 : G-G Hh/Ww pairing parallel cis one_hbond 
+B16-B19 : G-G Ww/Hh pairing parallel cis VI 
+B16-B28 : G-G Hh/Ws pairing parallel cis one_hbond 
+B18-B24 : G-G Ww/Hh pairing parallel cis VI 
+B19-B25 : G-G Ww/Hh pairing parallel cis one_hbond 
+B24-B26 : G-A Ss/Hh pairing antiparallel trans XI 
+B25-B28 : G-G Ws/Hh pairing parallel cis one_hbond 

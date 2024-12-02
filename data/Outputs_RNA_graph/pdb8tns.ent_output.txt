@@ -1,0 +1,58 @@
+Residue conformations -------------------------------------------
+A1 : G C2p_endo syn
+A2 : U C2p_endo syn
+A3 : G C3p_endo syn
+A4 : U C3p_endo anti
+A5 : G C2p_endo anti
+A6 : U C2p_endo anti
+A7 : G C2p_endo syn
+A8 : U C2p_endo anti
+A9 : G C3p_endo syn
+A10 : U C3p_endo anti
+A11 : G C2p_endo anti
+A12 : U C2p_endo anti
+A13 : G C2p_endo syn
+A14 : U C2p_endo syn
+A15 : G C3p_endo syn
+A16 : U C3p_endo anti
+A17 : G C2p_endo anti
+A18 : U C2p_endo anti
+A19 : G C2p_endo syn
+A20 : U C2p_endo syn
+A21 : G C3p_endo syn
+A22 : U C3p_endo anti
+A23 : G C2p_endo anti
+A24 : U C2p_endo anti
+Adjacent stackings ----------------------------------------------
+A22-A23 : adjacent_5p outward 
+Non-Adjacent stackings ------------------------------------------
+A1-A3 : inward 
+A3-A23 : downward 
+A5-A9 : upward 
+A7-A9 : inward 
+A11-A15 : upward 
+A12-A14 : inward 
+A13-A15 : inward 
+A17-A21 : upward 
+A18-A20 : inward 
+A19-A21 : inward 
+Number of stackings = 11
+Number of adjacent stackings = 1
+Number of non adjacent stackings = 10
+Base-pairs ------------------------------------------------------
+A1-A7 : G-G Hh/Ww pairing parallel cis VI 
+A1-A19 : G-G Ww/Hh pairing parallel cis VI 
+A3-A9 : G-G Ww/Hh pairing parallel cis VI 
+A3-A21 : G-G Hh/Ww pairing parallel cis VI 
+A4-A10 : U-U Hw/Ww pairing parallel cis one_hbond 82 
+A4-A22 : U-U Ww/Hw pairing parallel cis one_hbond 82 
+A5-A11 : G-G Ww/Hh pairing parallel cis VI 
+A5-A23 : G-G Hh/Ww pairing parallel cis VI 
+A7-A13 : G-G Hh/Ww pairing parallel cis VI 
+A9-A15 : G-G Ww/Hh pairing parallel cis VI 
+A10-A16 : U-U Hw/Ww pairing parallel cis one_hbond 82 
+A11-A17 : G-G Ww/Hh pairing parallel cis VI 
+A13-A19 : G-G Hh/Ww pairing parallel cis VI 
+A15-A21 : G-G Ww/Hh pairing parallel cis VI 
+A16-A22 : U-U Hw/Ww pairing parallel cis one_hbond 82 
+A17-A23 : G-G Ww/Hh pairing parallel cis VI 

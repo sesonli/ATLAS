@@ -1,0 +1,39 @@
+Residue conformations -------------------------------------------
+A17 : U C2p_exo anti
+A18 : U C3p_endo anti
+A19 : G C3p_endo anti
+A20 : G C4p_exo anti
+A21 : U C3p_endo anti
+A22 : U C3p_endo anti
+A23 : U C2p_exo anti
+A24 : G C2p_exo syn
+A25 : A C2p_endo anti
+A26 : U C2p_endo anti
+A27 : U C3p_exo anti
+A28 : C C3p_endo anti
+A29 : C C3p_endo anti
+A30 : A C3p_endo anti
+A31 : A C3p_endo anti
+A32 : G C3p_endo anti
+Adjacent stackings ----------------------------------------------
+A17-A18 : adjacent_5p upward 
+A18-A19 : adjacent_5p upward 
+A19-A20 : adjacent_5p upward 
+A20-A21 : adjacent_5p upward 
+A24-A25 : adjacent_5p upward 
+A28-A29 : adjacent_5p upward 
+A30-A31 : adjacent_5p upward 
+A31-A32 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+A19-A30 : outward 
+A25-A28 : upward pairing 
+Number of stackings = 10
+Number of adjacent stackings = 8
+Number of non adjacent stackings = 2
+Base-pairs ------------------------------------------------------
+A17-A31 : U-A Ww/Ww pairing antiparallel cis XX 
+A18-A30 : U-A Ww/Ww pairing antiparallel cis XX 
+A19-A29 : G-C Ww/Ww pairing antiparallel cis XIX 
+A20-A28 : G-C Ww/Ww pairing antiparallel cis XIX 
+A21-A25 : U-A Ws/Hh pairing antiparallel trans XXIV 
+A25-A28 : A-C O2'/Bh upward pairing 

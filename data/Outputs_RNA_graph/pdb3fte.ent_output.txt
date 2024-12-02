@@ -1,0 +1,346 @@
+Residue conformations -------------------------------------------
+A14 : VAL
+A15 : SER
+A16 : GLU
+A17 : GLY
+A18 : VAL
+A19 : LEU
+A20 : LYS
+A21 : LYS
+A22 : ILE
+A23 : ALA
+A24 : GLU
+A25 : GLU
+A26 : LEU
+A27 : ASN
+A28 : ILE
+A29 : GLU
+A30 : GLU
+A31 : GLY
+A32 : ASN
+A33 : THR
+A34 : VAL
+A35 : VAL
+A36 : GLU
+A37 : VAL
+A38 : GLY
+A39 : GLY
+A40 : GLY
+A41 : THR
+A42 : GLY
+A43 : ASN
+A44 : LEU
+A45 : THR
+A46 : LYS
+A47 : VAL
+A48 : LEU
+A49 : LEU
+A50 : GLN
+A51 : HIS
+A52 : PRO
+A53 : LEU
+A54 : LYS
+A55 : LYS
+A56 : LEU
+A57 : TYR
+A58 : VAL
+A59 : ILE
+A60 : GLU
+A61 : LEU
+A62 : ASP
+A63 : ARG
+A64 : GLU
+A65 : MET
+A66 : VAL
+A67 : GLU
+A68 : ASN
+A69 : LEU
+A70 : LYS
+A71 : SER
+A72 : ILE
+A73 : GLY
+A74 : ASP
+A75 : GLU
+A76 : ARG
+A77 : LEU
+A78 : GLU
+A79 : VAL
+A80 : ILE
+A81 : ASN
+A82 : GLU
+A83 : ASP
+A84 : ALA
+A85 : SER
+A86 : LYS
+A87 : PHE
+A88 : PRO
+A89 : PHE
+A90 : CYS
+A91 : SER
+A92 : LEU
+A93 : GLY
+A94 : LYS
+A95 : GLU
+A96 : LEU
+A97 : LYS
+A98 : VAL
+A99 : VAL
+A100 : GLY
+A101 : ASN
+A102 : LEU
+A103 : PRO
+A104 : TYR
+A105 : ASN
+A106 : VAL
+A107 : ALA
+A108 : SER
+A109 : LEU
+A110 : ILE
+A111 : ILE
+A112 : GLU
+A113 : ASN
+A114 : THR
+A115 : VAL
+A116 : TYR
+A117 : ASN
+A118 : LYS
+A119 : ASP
+A120 : CYS
+A121 : VAL
+A122 : PRO
+A123 : LEU
+A124 : ALA
+A125 : VAL
+A126 : PHE
+A127 : MET
+A128 : VAL
+A129 : GLN
+A130 : LYS
+A131 : GLU
+A132 : VAL
+A133 : ALA
+A134 : GLU
+A135 : LYS
+A136 : LEU
+A137 : GLN
+A138 : GLY
+A139 : LYS
+A140 : LYS
+A141 : ASP
+A142 : THR
+A143 : GLY
+A144 : TRP
+A145 : LEU
+A146 : SER
+A147 : VAL
+A148 : PHE
+A149 : VAL
+A150 : ARG
+A151 : THR
+A152 : PHE
+A153 : TYR
+A154 : ASP
+A155 : VAL
+A156 : ASN
+A157 : TYR
+A158 : VAL
+A159 : MET
+A160 : THR
+A161 : VAL
+A162 : PRO
+A163 : PRO
+A164 : ARG
+A165 : PHE
+A166 : PHE
+A167 : VAL
+A168 : PRO
+A169 : PRO
+A170 : PRO
+A171 : LYS
+A172 : VAL
+A173 : GLN
+A174 : SER
+A175 : ALA
+A176 : VAL
+A177 : ILE
+A178 : LYS
+A179 : LEU
+A180 : VAL
+A181 : LYS
+A182 : ASN
+A183 : GLU
+A184 : LYS
+A185 : PHE
+A186 : PRO
+A187 : VAL
+A188 : LYS
+A189 : ASP
+A190 : LEU
+A191 : LYS
+A192 : ASN
+A193 : TYR
+A194 : LYS
+A195 : LYS
+A196 : PHE
+A197 : LEU
+A198 : THR
+A199 : LYS
+A200 : ILE
+A201 : PHE
+A202 : GLN
+A203 : ASN
+A204 : ARG
+A205 : ARG
+A206 : LYS
+A207 : VAL
+A208 : LEU
+A209 : ARG
+A210 : LYS
+A211 : LYS
+A212 : ILE
+A213 : PRO
+A214 : GLU
+A215 : GLU
+A216 : LEU
+A217 : LEU
+A218 : LYS
+A219 : GLU
+A220 : ALA
+A221 : GLY
+A222 : ILE
+A223 : ASN
+A224 : PRO
+A225 : ASP
+A226 : ALA
+A227 : ARG
+A228 : VAL
+A229 : GLU
+A230 : GLN
+A231 : LEU
+A232 : SER
+A233 : LEU
+A234 : GLU
+A235 : ASP
+A236 : PHE
+A237 : PHE
+A238 : LYS
+A239 : LEU
+A240 : TYR
+A241 : ARG
+A242 : LEU
+A243 : ILE
+A244 : GLU
+A245 : ASP
+A246 : SER
+C1507 : A C3p_endo anti
+C1508 : A C3p_endo anti
+C1509 : C C3p_endo anti
+C1510 : C C2p_exo anti
+C1511 : G C3p_endo anti
+C1512 : U C3p_endo anti
+C1513 : A C3p_endo anti
+C1514 : G C3p_endo anti
+C1515 : G C3p_endo anti
+C1516 : G C3p_endo anti
+C1517 : G C1p_exo anti
+C1518 : A C3p_endo anti
+C1519 : A C3p_endo anti
+C1520 : C C3p_endo anti
+C1521 : C C3p_endo anti
+C1522 : U C3p_endo anti
+C1523 : G C2p_exo anti
+C1524 : C C3p_endo anti
+C1525 : G C3p_endo anti
+C1526 : G C3p_endo anti
+C1527 : U C3p_endo anti
+C1528 : U C3p_endo syn
+D1507 : A C2p_exo anti
+D1508 : A C3p_endo anti
+D1509 : C C3p_endo anti
+D1510 : C C3p_endo anti
+D1511 : G C3p_endo anti
+D1512 : U C3p_endo anti
+D1513 : A C3p_endo anti
+D1514 : G C3p_endo anti
+D1515 : G C3p_endo anti
+D1516 : G C3p_endo anti
+D1517 : G C4p_exo anti
+D1518 : A C3p_endo anti
+D1519 : A C2p_exo anti
+D1520 : C C3p_endo anti
+D1521 : C C3p_endo anti
+D1522 : U C3p_endo anti
+D1523 : G C3p_endo anti
+D1524 : C C3p_endo anti
+D1525 : G C3p_endo anti
+D1526 : G C3p_endo anti
+D1527 : U C3p_endo anti
+D1528 : U C3p_endo anti
+Adjacent stackings ----------------------------------------------
+C1507-C1508 : adjacent_5p upward 
+C1508-C1509 : adjacent_5p upward 
+C1510-C1511 : adjacent_5p upward 
+C1511-C1512 : adjacent_5p upward 
+C1512-C1513 : adjacent_5p upward 
+C1513-C1514 : adjacent_5p upward 
+C1514-C1515 : adjacent_5p upward 
+C1515-C1516 : adjacent_5p upward 
+C1516-C1517 : adjacent_5p inward 
+C1518-C1519 : adjacent_5p upward 
+C1519-C1520 : adjacent_5p upward 
+C1520-C1521 : adjacent_5p upward 
+C1523-C1524 : adjacent_5p upward 
+C1525-C1526 : adjacent_5p upward 
+C1526-C1527 : adjacent_5p upward 
+C1527-C1528 : adjacent_5p inward 
+D1507-D1508 : adjacent_5p upward 
+D1508-D1509 : adjacent_5p upward 
+D1509-D1510 : adjacent_5p upward 
+D1510-D1511 : adjacent_5p upward 
+D1511-D1512 : adjacent_5p upward 
+D1512-D1513 : adjacent_5p upward 
+D1513-D1514 : adjacent_5p upward 
+D1514-D1515 : adjacent_5p upward 
+D1515-D1516 : adjacent_5p upward 
+D1516-D1517 : adjacent_5p upward 
+D1518-D1519 : adjacent_5p upward 
+D1519-D1520 : adjacent_5p upward 
+D1521-D1522 : adjacent_5p upward 
+D1523-D1524 : adjacent_5p upward 
+D1524-D1525 : adjacent_5p upward 
+D1525-D1526 : adjacent_5p upward 
+D1526-D1527 : adjacent_5p upward 
+D1527-D1528 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+C1511-D1525 : outward 
+C1513-D1523 : outward 
+C1517-D1517 : downward pairing 
+C1518-D1518 : outward 
+C1523-D1513 : outward 
+C1525-D1511 : outward 
+Number of stackings = 40
+Number of adjacent stackings = 34
+Number of non adjacent stackings = 6
+Base-pairs ------------------------------------------------------
+C1507-D1528 : A-U Ww/Ww pairing antiparallel cis XX 
+C1508-D1527 : A-U Ww/Ww pairing antiparallel cis XX 
+C1509-D1526 : C-G Ws/Ww pairing antiparallel cis one_hbond 130 
+C1510-D1525 : C-G Ww/Ww pairing antiparallel cis XIX 
+C1511-D1524 : G-C Ww/Ww pairing antiparallel cis 
+C1512-D1523 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+C1513-D1522 : A-U Ww/Ww pairing antiparallel cis XX 
+C1514-D1521 : G-C Ww/Ww pairing antiparallel cis XIX 
+C1515-D1520 : G-C Ww/Ww pairing antiparallel cis XIX 
+C1516-D1519 : G-A Ss/Hh O2'/Bh pairing antiparallel trans XI 
+C1517-D1517 : G-G O2'/Ww downward pairing 
+C1518-D1517 : A-G Hh/Ss Bh/O2' pairing antiparallel trans one_hbond 
+C1519-D1516 : A-G Hh/Ss Bh/O2' pairing antiparallel trans XI 
+C1520-D1515 : C-G Ww/Ww pairing antiparallel cis XIX 
+C1521-D1514 : C-G Ww/Ww pairing antiparallel cis XIX 
+C1522-D1513 : U-A Ww/Ww pairing antiparallel cis XX 
+C1523-D1512 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+C1524-D1511 : C-G Ww/Ww pairing antiparallel cis XIX 
+C1525-D1510 : G-C Ww/Ww pairing antiparallel cis XIX 
+C1526-D1509 : G-C Ww/Ww pairing antiparallel cis XIX 
+C1527-D1508 : U-A Ww/Ww pairing antiparallel cis XX 
+C1528-D1507 : U-A Hh/Ww pairing parallel cis 49 

@@ -1,0 +1,195 @@
+Residue conformations -------------------------------------------
+A96 : GLY
+A97 : SER
+A98 : HIS
+A99 : MET
+A100 : ALA
+A101 : SER
+A102 : LYS
+A103 : THR
+A104 : SER
+A105 : ASP
+A106 : LEU
+A107 : ILE
+A108 : VAL
+A109 : LEU
+A110 : GLY
+A111 : LEU
+A112 : PRO
+A113 : TRP
+A114 : LYS
+A115 : THR
+A116 : THR
+A117 : GLU
+A118 : GLN
+A119 : ASP
+A120 : LEU
+A121 : LYS
+A122 : GLU
+A123 : TYR
+A124 : PHE
+A125 : SER
+A126 : THR
+A127 : PHE
+A128 : GLY
+A129 : GLU
+A130 : VAL
+A131 : LEU
+A132 : MET
+A133 : VAL
+A134 : GLN
+A135 : VAL
+A136 : LYS
+A137 : LYS
+A138 : ASP
+A139 : LEU
+A140 : LYS
+A141 : THR
+A142 : GLY
+A143 : HIS
+A144 : SER
+A145 : LYS
+A146 : GLY
+A147 : PHE
+A148 : GLY
+A149 : PHE
+A150 : VAL
+A151 : ARG
+A152 : PHE
+A153 : THR
+A154 : GLU
+A155 : TYR
+A156 : GLU
+A157 : THR
+A158 : GLN
+A159 : VAL
+A160 : LYS
+A161 : VAL
+A162 : MET
+A163 : SER
+A164 : GLN
+A165 : ARG
+A166 : HIS
+A167 : MET
+A168 : ILE
+A169 : ASP
+A170 : GLY
+A171 : ARG
+A172 : TRP
+A173 : CYS
+A174 : ASP
+A175 : CYS
+A176 : LYS
+A177 : LEU
+A178 : PRO
+A179 : ASN
+A180 : SER
+A181 : LYS
+A182 : GLN
+A183 : SER
+A184 : GLN
+A185 : ASP
+A186 : GLU
+A187 : PRO
+A188 : LEU
+A189 : ARG
+A190 : SER
+A191 : ARG
+A192 : LYS
+A193 : VAL
+A194 : PHE
+A195 : VAL
+A196 : GLY
+A197 : ARG
+A198 : CYS
+A199 : THR
+A200 : GLU
+A201 : ASP
+A202 : MET
+A203 : THR
+A204 : GLU
+A205 : ASP
+A206 : GLU
+A207 : LEU
+A208 : ARG
+A209 : GLU
+A210 : PHE
+A211 : PHE
+A212 : SER
+A213 : GLN
+A214 : TYR
+A215 : GLY
+A216 : ASP
+A217 : VAL
+A218 : MET
+A219 : ASP
+A220 : VAL
+A221 : PHE
+A222 : ILE
+A223 : PRO
+A224 : LYS
+A225 : PRO
+A226 : PHE
+A227 : ARG
+A228 : ALA
+A229 : PHE
+A230 : ALA
+A231 : PHE
+A232 : VAL
+A233 : THR
+A234 : PHE
+A235 : ALA
+A236 : ASP
+A237 : ASP
+A238 : GLN
+A239 : ILE
+A240 : ALA
+A241 : GLN
+A242 : SER
+A243 : LEU
+A244 : CYS
+A245 : GLY
+A246 : GLU
+A247 : ASP
+A248 : LEU
+A249 : ILE
+A250 : ILE
+A251 : LYS
+A252 : GLY
+A253 : ILE
+A254 : SER
+A255 : VAL
+A256 : HIS
+A257 : ILE
+A258 : SER
+A259 : ASN
+A260 : ALA
+A261 : GLU
+A262 : PRO
+A263 : LYS
+A264 : HIS
+A265 : ASN
+A266 : SER
+A267 : ASN
+A268 : ARG
+A269 : GLN
+B1 : G C1p_exo anti
+B2 : U C3p_exo anti
+B3 : G C1p_exo syn
+B4 : U C3p_exo anti
+B5 : G C2p_endo syn
+B6 : A C1p_endo anti
+B7 : A C2p_endo anti
+B8 : U C3p_exo anti
+B9 : G C2p_endo syn
+B10 : A O4p_exo anti
+B11 : A C3p_endo anti
+B12 : U C2p_exo syn
+Adjacent stackings ----------------------------------------------
+B6-B7 : adjacent_5p upward 
+B10-B11 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+Number of stackings = 2
+Number of adjacent stackings = 2
+Number of non adjacent stackings = 0
+Base-pairs ------------------------------------------------------

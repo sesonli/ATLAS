@@ -1,0 +1,67 @@
+Residue conformations -------------------------------------------
+A290 : G C3p_endo anti
+A291 : G C3p_endo anti
+A292 : C C3p_endo anti
+A293 : C C3p_endo anti
+A294 : U C3p_endo anti
+A295 : C C2p_endo anti
+A296 : A C4p_exo anti
+A297 : G C2p_exo anti
+A298 : C C3p_endo anti
+A299 : A C3p_endo anti
+A300 : C C3p_endo anti
+A301 : U C2p_exo anti
+A302 : A C3p_endo anti
+A303 : C C3p_endo anti
+A304 : C C2p_exo anti
+A305 : C C2p_endo anti
+A306 : C C2p_endo anti
+A307 : A C2p_exo anti
+A308 : G C3p_endo anti
+A309 : U C3p_endo anti
+A310 : G C4p_exo anti
+A311 : U C3p_endo anti
+A312 : A C2p_endo anti
+A313 : G C3p_endo anti
+A314 : G C2p_exo anti
+A315 : U C3p_endo anti
+A316 : C C3p_endo anti
+Adjacent stackings ----------------------------------------------
+A290-A291 : adjacent_5p upward 
+A291-A292 : adjacent_5p upward 
+A292-A293 : adjacent_5p upward 
+A294-A295 : adjacent_5p upward 
+A296-A297 : adjacent_5p upward 
+A297-A298 : adjacent_5p upward 
+A298-A299 : adjacent_5p upward 
+A299-A300 : adjacent_5p upward 
+A301-A302 : adjacent_5p upward 
+A302-A303 : adjacent_5p upward 
+A307-A308 : adjacent_5p upward 
+A308-A309 : adjacent_5p upward 
+A309-A310 : adjacent_5p upward 
+A310-A311 : adjacent_5p upward 
+A311-A312 : adjacent_5p upward 
+A313-A314 : adjacent_5p upward 
+A314-A315 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+A291-A316 : outward 
+Number of stackings = 18
+Number of adjacent stackings = 17
+Number of non adjacent stackings = 1
+Base-pairs ------------------------------------------------------
+A290-A316 : G-C Ww/Ww pairing antiparallel cis XIX 
+A291-A315 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+A292-A314 : C-G Ww/Ww pairing antiparallel cis XIX 
+A293-A313 : C-G Ww/Ww pairing antiparallel cis XIX 
+A294-A296 : U-A O2'/C8 pairing 
+A295-A312 : C-A Ws/Wh pairing antiparallel trans one_hbond 78 
+A296-A313 : A-G Wh/Ss pairing parallel trans one_hbond 
+A297-A311 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+A297-A313 : G-G Bs/O2' pairing 
+A298-A310 : C-G Ww/Ww pairing antiparallel cis XIX 
+A299-A309 : A-U Ww/Ww pairing antiparallel cis XX 
+A300-A308 : C-G Ww/Ww pairing antiparallel cis XIX 
+A301-A307 : U-A Ww/Ww pairing antiparallel cis XX 
+A302-A305 : A-C Ss/O2' pairing 
+A303-A306 : C-C Ss/Hh pairing parallel cis one_hbond 

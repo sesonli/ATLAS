@@ -1,0 +1,89 @@
+Residue conformations -------------------------------------------
+'2'4 : G C2p_endo anti
+'2'5 : G C4p_exo anti
+'2'6 : C C3p_endo anti
+'2'7 : U C4p_exo anti
+'2'8 : C C3p_endo anti
+'2'9 : G C4p_exo anti
+'2'10 : U C1p_exo anti
+'2'11 : G C2p_endo anti
+'2'12 : U C2p_endo syn
+'2'13 : A C4p_exo anti
+'2'14 : G C4p_exo anti
+'2'15 : C C3p_endo anti
+'2'16 : U C2p_exo anti
+'2'17 : C C4p_endo syn
+'2'18 : A O4p_endo syn
+'2'19 : U C3p_endo syn
+'2'20 : U C3p_exo anti
+'2'21 : A C2p_endo anti
+'2'22 : G C1p_exo anti
+'2'23 : C C3p_endo anti
+'2'24 : U C2p_exo anti
+'2'25 : C C3p_endo anti
+'2'26 : C C2p_exo anti
+'2'27 : G C4p_exo anti
+'2'28 : A C3p_endo anti
+'2'29 : G C4p_exo anti
+'2'30 : C C4p_exo anti
+'2'31 : C C4p_exo anti
+'1'1 : ARG
+'1'2 : VAL
+'1'3 : ARG
+'1'4 : THR
+'1'5 : ARG
+'1'6 : GLY
+'1'7 : LYS
+'1'8 : ARG
+'1'9 : ARG
+'1'10 : ILE
+'1'11 : ARG
+'1'12 : VAL
+'1'13 : PRO
+'1'14 : PRO
+Adjacent stackings ----------------------------------------------
+'2'4-'2'5 : adjacent_5p upward 
+'2'5-'2'6 : adjacent_5p upward 
+'2'6-'2'7 : adjacent_5p upward 
+'2'7-'2'8 : adjacent_5p upward 
+'2'8-'2'9 : adjacent_5p upward 
+'2'10-'2'11 : adjacent_5p downward 
+'2'13-'2'14 : adjacent_5p upward 
+'2'14-'2'15 : adjacent_5p upward 
+'2'15-'2'16 : adjacent_5p upward 
+'2'21-'2'22 : adjacent_5p upward pairing 
+'2'22-'2'23 : adjacent_5p upward 
+'2'23-'2'24 : adjacent_5p upward 
+'2'24-'2'25 : adjacent_5p upward 
+'2'26-'2'27 : adjacent_5p upward 
+'2'27-'2'28 : adjacent_5p upward 
+'2'28-'2'29 : adjacent_5p upward 
+'2'29-'2'30 : adjacent_5p upward 
+'2'30-'2'31 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+'2'9-'2'11 : upward 
+'2'9-'2'27 : outward 
+'2'11-'2'13 : upward 
+Number of stackings = 21
+Number of adjacent stackings = 18
+Number of non adjacent stackings = 3
+Base-pairs ------------------------------------------------------
+'1'3-'2'11 : ARG-G pairing one_hbond 
+'2'4-'2'31 : G-C Ww/Ww pairing antiparallel cis XIX 
+'2'5-'2'30 : G-C Ww/Ww pairing antiparallel cis XIX 
+'2'6-'2'29 : C-G Ww/Ww pairing antiparallel cis XIX 
+'2'7-'2'28 : U-A Ww/Ww pairing antiparallel cis XX 
+'2'8-'2'27 : C-G Ww/Ww pairing antiparallel cis XIX 
+'2'9-'2'26 : G-C Ww/Ww pairing antiparallel cis XIX 
+'2'10-'2'13 : U-A Ww/Hh pairing parallel cis XXIII 
+'2'10-'2'14 : U-G Ww/Hh pairing parallel cis one_hbond 96 
+'2'11-'2'25 : G-C Ww/Ww pairing antiparallel cis XIX 
+'2'13-'2'24 : A-U Ww/Ww pairing antiparallel cis XX 
+'2'14-'2'23 : G-C Ww/Ww pairing antiparallel cis XIX 
+'2'15-'2'17 : C-C Ws/Hw pairing antiparallel trans one_hbond 
+'2'15-'2'22 : C-G Ww/Ww pairing antiparallel cis XIX 
+'2'16-'2'17 : U-C Bs/Hh O2'/Hh O2'/Ww adjacent_5p pairing antiparallel trans 97 
+'2'16-'2'21 : U-A Ww/Ww pairing antiparallel cis XX 
+'2'17-'2'18 : C-A O2'/Hh O2'/C8 O2P/Hh adjacent_5p pairing 
+'2'18-'2'19 : A-U Ss/Hh adjacent_5p pairing antiparallel cis one_hbond 
+'2'21-'2'22 : A-G O2'/C8 adjacent_5p upward pairing 

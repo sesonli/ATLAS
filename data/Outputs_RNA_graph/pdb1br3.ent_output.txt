@@ -1,0 +1,85 @@
+Residue conformations -------------------------------------------
+A1 : G C3p_endo anti
+A2 : G C3p_endo anti
+A3 : A C3p_endo anti
+A4 : C C3p_endo anti
+A5 : A C2p_exo anti
+A6 : G C3p_endo anti
+A7 : A C3p_endo anti
+A8 : U C3p_endo anti
+A9 : G C3p_endo anti
+A10 : G C3p_endo anti
+A11 : G C3p_endo anti
+A12 : A C3p_endo anti
+A13 : G C3p_endo anti
+B14 : G C3p_endo anti
+B15 : C C3p_endo anti
+B16 : T C3p_endo anti
+B17 : C C3p_endo anti
+B18 : C C3p_endo anti
+B19 : C C4p_exo anti
+B20 : A O4p_endo anti
+B21 : G C2p_endo anti
+B22 : G C3p_endo anti
+B23 : C C4p_exo anti
+B24 : T C2p_endo anti
+B25 : A C3p_exo anti
+B26 : G C2p_endo anti
+B27 : C C4p_exo anti
+B28 : T C2p_endo anti
+B29 : A C3p_exo syn
+B30 : C C1p_exo anti
+B31 : A C1p_exo anti
+B32 : A C1p_exo syn
+B33 : C C2p_endo anti
+B34 : G C2p_endo anti
+B35 : A C2p_endo anti
+B36 : C C2p_exo anti
+B37 : T C3p_endo anti
+B38 : G C3p_endo anti
+B39 : T C3p_endo anti
+B40 : C C3p_endo anti
+B41 : C C3p_endo anti
+Adjacent stackings ----------------------------------------------
+A1-A2 : adjacent_5p upward 
+A2-A3 : adjacent_5p upward 
+A3-A4 : adjacent_5p upward 
+A5-A6 : adjacent_5p upward 
+A6-A7 : adjacent_5p upward 
+A7-A8 : adjacent_5p upward 
+A8-A9 : adjacent_5p upward 
+A9-A10 : adjacent_5p upward 
+A10-A11 : adjacent_5p upward 
+A11-A12 : adjacent_5p upward 
+A12-A13 : adjacent_5p upward 
+B14-B15 : adjacent_5p upward 
+B16-B17 : adjacent_5p upward 
+B18-B19 : adjacent_5p upward 
+B19-B20 : adjacent_5p upward 
+B20-B21 : adjacent_5p upward 
+B22-B23 : adjacent_5p upward 
+B24-B25 : adjacent_5p upward 
+B25-B26 : adjacent_5p upward 
+B26-B27 : adjacent_5p upward 
+B27-B28 : adjacent_5p upward 
+B31-B32 : adjacent_5p inward 
+B33-B34 : adjacent_5p upward 
+B34-B35 : adjacent_5p upward 
+B38-B39 : adjacent_5p upward 
+B39-B40 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+A5-B38 : outward 
+B29-B31 : upward 
+Number of stackings = 28
+Number of adjacent stackings = 26
+Number of non adjacent stackings = 2
+Base-pairs ------------------------------------------------------
+A1-B41 : G-C Ww/Ww pairing antiparallel cis XIX 
+A2-B40 : G-C Ww/Ww pairing antiparallel cis XIX 
+A3-B39 : A-T Ww/Ww pairing antiparallel cis 
+A4-B38 : C-G Ww/Ww pairing antiparallel cis XIX 
+A5-B37 : A-T Ww/Ws pairing antiparallel cis 
+A6-B36 : G-C Ww/Ww pairing antiparallel cis XIX 
+B28-B29 : T-A O2P/Bh adjacent_5p pairing 
+B28-B35 : T-A Ww/Ww pairing antiparallel cis 
+B29-B33 : A-C Ss/Hw pairing antiparallel trans one_hbond 72 

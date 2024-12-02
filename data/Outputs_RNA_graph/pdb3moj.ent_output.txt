@@ -1,0 +1,227 @@
+Residue conformations -------------------------------------------
+A2508 : G O4p_endo anti
+A2509 : G C2p_exo anti
+A2510 : C C3p_endo anti
+A2511 : U C3p_endo anti
+A2512 : C C4p_exo anti
+A2513 : A C3p_endo anti
+A2514 : U C3p_endo anti
+A2515 : C C3p_endo anti
+A2516 : A C3p_endo anti
+A2517 : C C3p_endo anti
+A2518 : A C2p_exo anti
+A2519 : U C3p_endo anti
+A2520 : C C3p_endo anti
+A2521 : C C3p_endo anti
+A2522 : U C3p_endo anti
+A2523 : G C2p_exo anti
+A2524 : G C3p_endo anti
+A2525 : G C3p_endo anti
+A2526 : G C3p_endo anti
+A2527 : C C3p_endo anti
+A2528 : U C3p_endo anti
+A2529 : G C3p_endo anti
+A2530 : G C3p_endo anti
+A2531 : A C3p_endo anti
+A2532 : A C3p_endo anti
+A2533 : A C2p_exo anti
+A2534 : C C3p_endo anti
+A2535 : G C3p_endo anti
+A2536 : G C3p_endo anti
+A2537 : U C3p_endo anti
+A2538 : C C3p_endo anti
+A2539 : C C3p_endo anti
+A2540 : C C3p_endo anti
+A2541 : A C3p_endo anti
+A2542 : A C3p_endo anti
+A2543 : G C3p_endo anti
+A2544 : G C3p_endo anti
+A2545 : G C3p_endo anti
+A2546 : U C3p_endo anti
+A2547 : A C3p_endo anti
+A2548 : U C3p_endo anti
+A2549 : G C3p_endo anti
+A2550 : G C2p_exo anti
+A2551 : C C2p_exo anti
+A2552 : U C3p_exo anti
+A2553 : G C2p_endo anti
+A2554 : U C2p_endo anti
+A2555 : U C3p_endo anti
+A2556 : C C3p_exo anti
+A2557 : G C2p_exo anti
+A2558 : C C3p_endo anti
+A2559 : C C3p_endo anti
+A2560 : A C3p_endo anti
+A2561 : U C2p_exo anti
+A2562 : U C2p_exo anti
+A2563 : U C3p_endo anti
+A2564 : A C3p_endo anti
+A2565 : A C3p_endo anti
+A2566 : A C1p_exo syn
+A2567 : G C2p_endo anti
+A2568 : U C3p_endo anti
+A2569 : G C3p_endo anti
+A2570 : G C3p_endo anti
+A2571 : U C2p_exo syn
+A2577 : A C4p_endo anti
+A2578 : G C3p_exo anti
+A2579 : C C2p_exo anti
+A2580 : U C3p_endo anti
+A2581 : A C4p_exo anti
+B404 : MET
+B405 : LYS
+B406 : LEU
+B407 : TYR
+B408 : PHE
+B409 : ASN
+B410 : GLY
+B411 : GLY
+B412 : LYS
+B413 : LYS
+B414 : LYS
+B415 : LYS
+B416 : ILE
+B417 : ARG
+B418 : ALA
+B419 : VAL
+B420 : ASP
+B421 : PHE
+B422 : VAL
+B423 : GLY
+B424 : THR
+B425 : ILE
+B426 : ALA
+B427 : LYS
+B428 : ILE
+B429 : ASP
+B430 : GLY
+B431 : VAL
+B432 : SER
+B433 : ALA
+B434 : ASP
+B435 : ASP
+B436 : ILE
+B437 : GLY
+B438 : ILE
+B439 : ILE
+B440 : THR
+B441 : ILE
+B442 : MET
+B443 : ASP
+B444 : ASN
+B445 : ALA
+B446 : SER
+B447 : TYR
+B448 : VAL
+B449 : GLU
+B450 : ILE
+B451 : LEU
+B452 : ASN
+B453 : GLY
+B454 : LYS
+B455 : GLY
+B456 : PRO
+B457 : HIS
+B458 : VAL
+B459 : LEU
+B460 : LYS
+B461 : VAL
+B462 : MET
+B463 : LYS
+B464 : ASN
+B465 : THR
+B466 : THR
+B467 : VAL
+B468 : LYS
+B469 : GLY
+B470 : LYS
+B471 : GLN
+B472 : LEU
+B473 : LYS
+B474 : VAL
+B475 : ASN
+B476 : LYS
+B477 : ALA
+B478 : ASN
+Adjacent stackings ----------------------------------------------
+A2508-A2509 : adjacent_5p upward 
+A2509-A2510 : adjacent_5p upward 
+A2514-A2515 : adjacent_5p upward 
+A2515-A2516 : adjacent_5p upward 
+A2516-A2517 : adjacent_5p upward 
+A2517-A2518 : adjacent_5p upward 
+A2518-A2519 : adjacent_5p upward 
+A2519-A2520 : adjacent_5p upward 
+A2521-A2522 : adjacent_5p upward 
+A2523-A2524 : adjacent_5p upward 
+A2524-A2525 : adjacent_5p upward 
+A2525-A2526 : adjacent_5p upward 
+A2526-A2527 : adjacent_5p upward 
+A2527-A2528 : adjacent_5p upward 
+A2529-A2530 : adjacent_5p upward 
+A2531-A2532 : adjacent_5p upward 
+A2532-A2533 : adjacent_5p upward 
+A2533-A2534 : adjacent_5p upward 
+A2535-A2536 : adjacent_5p upward 
+A2536-A2537 : adjacent_5p upward 
+A2537-A2538 : adjacent_5p upward 
+A2538-A2539 : adjacent_5p upward 
+A2541-A2542 : adjacent_5p upward 
+A2542-A2543 : adjacent_5p upward 
+A2543-A2544 : adjacent_5p upward 
+A2544-A2545 : adjacent_5p upward 
+A2545-A2546 : adjacent_5p upward 
+A2547-A2548 : adjacent_5p upward 
+A2549-A2550 : adjacent_5p upward 
+A2550-A2551 : adjacent_5p upward 
+A2557-A2558 : adjacent_5p upward 
+A2558-A2559 : adjacent_5p upward 
+A2559-A2560 : adjacent_5p upward 
+A2560-A2561 : adjacent_5p upward 
+A2561-A2562 : adjacent_5p upward 
+A2564-A2565 : adjacent_5p upward 
+A2567-A2568 : adjacent_5p upward 
+A2569-A2570 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+A2511-A2578 : outward 
+A2516-A2569 : outward 
+A2518-A2567 : outward 
+A2523-A2541 : outward 
+A2529-A2535 : outward 
+A2547-A2566 : downward 
+A2549-A2560 : outward 
+A2563-A2566 : outward pairing 
+Number of stackings = 46
+Number of adjacent stackings = 38
+Number of non adjacent stackings = 8
+Base-pairs ------------------------------------------------------
+A2508-A2580 : G-U Ws/Ws pairing antiparallel cis one_hbond 
+A2508-A2581 : G-A Ss/Hw O2'/Bh pairing antiparallel trans one_hbond 
+A2509-A2579 : G-C Ww/Ww pairing antiparallel cis one_hbond 
+A2514-A2570 : U-G Ww/Ww pairing antiparallel cis one_hbond 
+A2515-A2569 : C-G Ww/Ww pairing antiparallel cis 
+A2516-A2568 : A-U Ww/Ww pairing antiparallel cis one_hbond 
+A2517-A2567 : C-G Ww/Ws pairing antiparallel cis one_hbond 
+A2518-A2546 : A-U Ww/Ww pairing antiparallel cis XX 
+A2519-A2545 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+A2520-A2544 : C-G Ww/Ww pairing antiparallel cis XIX 
+A2521-A2543 : C-G Ww/Ww pairing antiparallel cis XIX 
+A2521-A2564 : C-A O2'/Ss pairing 
+A2522-A2542 : U-A Ww/Ww pairing antiparallel cis XX 
+A2523-A2540 : G-C Ww/Ww pairing antiparallel cis XIX 
+A2524-A2539 : G-C Ww/Ww pairing antiparallel cis XIX 
+A2525-A2538 : G-C Ww/Ww pairing antiparallel cis XIX 
+A2526-A2537 : G-U Ww/Ws pairing antiparallel cis one_hbond 
+A2527-A2536 : C-G Ww/Ww pairing antiparallel cis XIX 
+A2528-A2535 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+A2529-A2534 : G-C Ww/Ww pairing antiparallel cis XIX 
+A2530-A2532 : G-A O2'/Hh pairing 
+A2530-A2533 : G-A Sw/Hh Bs/O2P pairing antiparallel trans one_hbond 
+A2544-A2565 : G-A O2'/Ww pairing 
+A2547-A2561 : A-U Ww/Ww pairing antiparallel cis one_hbond 
+A2548-A2560 : U-A Ww/Ww pairing antiparallel cis XX 
+A2549-A2559 : G-C Ww/Ww pairing antiparallel cis XIX 
+A2550-A2558 : G-C Ww/Ww pairing antiparallel cis XIX 
+A2551-A2557 : C-G Ww/Ww pairing antiparallel cis XIX 
+A2563-A2565 : U-A O2'/Hh Hh/O2P pairing 
+A2563-A2566 : U-A Ww/O2P outward pairing 

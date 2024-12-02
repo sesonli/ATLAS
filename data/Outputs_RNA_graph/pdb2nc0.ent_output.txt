@@ -1,0 +1,78 @@
+Residue conformations -------------------------------------------
+A681 : G C3p_endo anti
+A682 : G C3p_endo anti
+A683 : G C3p_endo anti
+A684 : C C3p_endo anti
+A685 : U C3p_endo anti
+A686 : G C3p_endo anti
+A687 : A C3p_endo anti
+A688 : A C3p_endo anti
+A689 : G C3p_endo anti
+A690 : G C3p_endo anti
+A691 : A C3p_endo anti
+A692 : U C3p_endo anti
+A693 : G C3p_endo anti
+A694 : G C3p_endo anti
+A695 : A C3p_endo anti
+A696 : G C4p_endo anti
+A697 : A C3p_endo anti
+A776 : C C3p_endo anti
+A777 : G C3p_endo anti
+A778 : U C3p_endo anti
+A779 : C C3p_endo anti
+A780 : U C3p_endo anti
+A781 : A C2p_endo anti
+A782 : G C3p_endo anti
+A783 : G C3p_endo anti
+A784 : C C3p_endo anti
+A785 : C C3p_endo anti
+A786 : C C3p_endo anti
+Adjacent stackings ----------------------------------------------
+A681-A682 : adjacent_5p upward 
+A682-A683 : adjacent_5p upward 
+A683-A684 : adjacent_5p upward 
+A684-A685 : adjacent_5p upward 
+A685-A686 : adjacent_5p upward 
+A686-A687 : adjacent_5p upward 
+A688-A689 : adjacent_5p upward 
+A689-A690 : adjacent_5p upward 
+A690-A691 : adjacent_5p upward 
+A691-A692 : adjacent_5p upward 
+A693-A694 : adjacent_5p upward 
+A695-A696 : adjacent_5p upward 
+A696-A697 : adjacent_5p upward pairing 
+A697-A776 : adjacent_5p upward 
+A776-A777 : adjacent_5p upward 
+A777-A778 : adjacent_5p upward 
+A778-A779 : adjacent_5p upward 
+A779-A780 : adjacent_5p upward 
+A780-A781 : adjacent_5p upward 
+A782-A783 : adjacent_5p upward 
+A783-A784 : adjacent_5p upward 
+A784-A785 : adjacent_5p upward 
+A785-A786 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+A686-A782 : outward 
+A693-A777 : outward 
+Number of stackings = 25
+Number of adjacent stackings = 23
+Number of non adjacent stackings = 2
+Base-pairs ------------------------------------------------------
+A681-A786 : G-C Ww/Ww pairing antiparallel cis XIX 
+A682-A785 : G-C Ww/Ww pairing antiparallel cis XIX 
+A683-A784 : G-C Ww/Ww pairing antiparallel cis XIX 
+A684-A783 : C-G Ww/Ww pairing antiparallel cis XIX 
+A685-A782 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+A686-A688 : G-A O2'/C8 pairing 
+A686-A781 : G-A Bs/Ss pairing parallel trans one_hbond 57 
+A687-A688 : A-A O2'/Hh adjacent_5p pairing 
+A687-A781 : A-A O2'/Ww pairing 
+A688-A781 : A-A Hh/Ss pairing antiparallel trans 41 
+A689-A780 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+A690-A779 : G-C Ww/Ww pairing antiparallel cis XIX 
+A691-A778 : A-U Ww/Ww pairing antiparallel cis XX 
+A692-A777 : U-G Ws/Ww pairing antiparallel cis XXVIII 
+A693-A776 : G-C Ww/Ww pairing antiparallel cis XIX 
+A694-A696 : G-G O2'/Hh Ww/O2P Bs/O2P Ss/O2P Ss/O2P pairing 
+A694-A697 : G-A Ss/Hh pairing antiparallel trans XI 
+A696-A697 : G-A O2'/C8 adjacent_5p upward pairing 

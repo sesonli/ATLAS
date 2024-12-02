@@ -1,0 +1,38 @@
+Residue conformations -------------------------------------------
+A1 : G C3p_endo anti
+A2 : G C3p_endo anti
+A3 : C C3p_endo anti
+A4 : C C1p_exo anti
+A5 : C C4p_exo anti
+A6 : U C4p_exo anti
+A7 : U C3p_endo anti
+A8 : U C2p_endo anti
+A9 : U C2p_endo anti
+A10 : C C4p_exo anti
+A11 : A C1p_endo anti
+A12 : G C3p_endo anti
+A13 : G C4p_exo anti
+A14 : G C3p_endo anti
+A15 : C C3p_endo anti
+A16 : C C3p_endo anti
+Adjacent stackings ----------------------------------------------
+A2-A3 : adjacent_5p upward 
+A6-A7 : adjacent_5p upward 
+A7-A8 : adjacent_5p upward 
+A11-A12 : adjacent_5p upward 
+A12-A13 : adjacent_5p upward 
+A13-A14 : adjacent_5p upward 
+A14-A15 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+A9-A11 : outward 
+Number of stackings = 8
+Number of adjacent stackings = 7
+Number of non adjacent stackings = 1
+Base-pairs ------------------------------------------------------
+A1-A16 : G-C Ww/Ww pairing antiparallel cis XIX 
+A2-A15 : G-C Ww/Ww pairing antiparallel cis XIX 
+A3-A14 : C-G Ww/Ww pairing antiparallel cis 
+A4-A13 : C-G Ww/Ww pairing antiparallel cis XIX 
+A5-A12 : C-G Ww/Ww pairing antiparallel cis XIX 
+A6-A11 : U-A Wh/Wh pairing antiparallel cis one_hbond 
+A7-A9 : U-U Ws/Hh pairing parallel cis one_hbond 

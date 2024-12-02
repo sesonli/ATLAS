@@ -1,0 +1,125 @@
+Residue conformations -------------------------------------------
+A1 : MET
+A2 : ALA
+A3 : VAL
+A4 : SER
+A5 : VAL
+A6 : THR
+A7 : PRO
+A8 : ILE
+A9 : ARG
+A10 : ASP
+A11 : THR
+A12 : LYS
+A13 : TRP
+A14 : LEU
+A15 : THR
+A16 : LEU
+A17 : GLU
+A18 : VAL
+A19 : CYS
+A20 : ARG
+A21 : GLU
+A22 : PHE
+A23 : GLN
+A24 : ARG
+A25 : GLY
+A26 : THR
+A27 : CYS
+A28 : SER
+A29 : ARG
+A30 : PRO
+A31 : ASP
+A32 : THR
+A33 : GLU
+A34 : CYS
+A35 : LYS
+A36 : PHE
+A37 : ALA
+A38 : HIS
+A39 : PRO
+A40 : SER
+A41 : LYS
+A42 : SER
+A43 : CYS
+A44 : GLN
+A45 : VAL
+A46 : GLU
+A47 : ASN
+A48 : GLY
+A49 : ARG
+A50 : VAL
+A51 : ILE
+A52 : ALA
+A53 : CYS
+A54 : PHE
+A55 : ASP
+A56 : SER
+A57 : LEU
+A58 : LYS
+A59 : GLY
+A60 : ARG
+A61 : CYS
+A62 : SER
+A63 : ARG
+A64 : GLU
+A65 : ASN
+A66 : CYS
+A67 : LYS
+A68 : TYR
+A69 : LEU
+A70 : HIS
+A71 : PRO
+A72 : PRO
+A73 : PRO
+A74 : HIS
+A75 : LEU
+A76 : LYS
+A77 : THR
+A78 : GLN
+A79 : LEU
+A80 : GLU
+A81 : ILE
+A82 : ASN
+A83 : GLY
+A84 : ARG
+A85 : ASN
+A86 : ASN
+A87 : LEU
+A88 : ILE
+A89 : GLN
+A90 : GLN
+A91 : LYS
+A92 : ASN
+B95 : G C3p_endo anti
+B96 : U C1p_endo syn
+B97 : C C2p_endo syn
+B98 : U C3p_exo syn
+B99 : C C2p_endo syn
+B100 : G C3p_exo syn
+B101 : C C3p_endo anti
+B102 : U C3p_endo anti
+B103 : U C3p_endo anti
+B104 : U C4p_exo anti
+B105 : U C2p_endo anti
+B106 : C C3p_endo anti
+B107 : C C3p_endo syn
+B108 : C C3p_endo anti
+B109 : C C4p_exo syn
+A101 : ZN
+A102 : ZN
+Adjacent stackings ----------------------------------------------
+B106-B107 : adjacent_5p inward pairing 
+B107-B108 : adjacent_5p outward 
+B108-B109 : adjacent_5p inward pairing 
+Non-Adjacent stackings ------------------------------------------
+B97-B99 : inward 
+Number of stackings = 4
+Number of adjacent stackings = 3
+Number of non adjacent stackings = 1
+Base-pairs ------------------------------------------------------
+B95-B97 : G-C Bs/O2' pairing 
+B95-B98 : G-U Ww/Hw Bs/O2P pairing parallel cis one_hbond 
+B106-B107 : C-C O2P/Ww adjacent_5p inward pairing 
+B106-B108 : C-C O2P/Bh pairing 
+B108-B109 : C-C O2P/Ww adjacent_5p inward pairing 

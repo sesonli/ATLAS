@@ -1,0 +1,61 @@
+Residue conformations -------------------------------------------
+A1 : G C3p_endo anti
+A2 : G C3p_endo anti
+A3 : G C2p_endo anti
+A4 : A C2p_endo anti
+A5 : A C2p_endo anti
+A6 : G C3p_endo anti
+A7 : G C4p_exo anti
+A8 : C C2p_endo anti
+A9 : G C4p_exo anti
+A10 : C C3p_endo anti
+A11 : U C3p_endo anti
+A12 : U C2p_endo anti
+A13 : C C1p_exo anti
+A14 : G C3p_endo syn
+A15 : G C2p_exo anti
+A16 : C C3p_endo anti
+A17 : G C2p_exo anti
+A18 : U C3p_endo anti
+A19 : C C2p_exo anti
+A20 : G C3p_endo anti
+A21 : G C3p_endo anti
+A22 : C C3p_endo anti
+A23 : C C2p_exo anti
+A24 : C C3p_endo anti
+Adjacent stackings ----------------------------------------------
+A2-A3 : adjacent_5p upward 
+A4-A5 : adjacent_5p upward pairing 
+A5-A6 : adjacent_5p upward 
+A6-A7 : adjacent_5p upward 
+A7-A8 : adjacent_5p upward 
+A10-A11 : adjacent_5p upward 
+A14-A15 : adjacent_5p outward 
+A15-A16 : adjacent_5p upward 
+A17-A18 : adjacent_5p upward 
+A19-A20 : adjacent_5p upward 
+A20-A21 : adjacent_5p upward 
+A21-A22 : adjacent_5p upward 
+A22-A23 : adjacent_5p upward 
+A23-A24 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+Number of stackings = 14
+Number of adjacent stackings = 14
+Number of non adjacent stackings = 0
+Base-pairs ------------------------------------------------------
+A1-A24 : G-C Ww/Ww pairing antiparallel cis XIX 
+A2-A23 : G-C Ww/Ww pairing antiparallel cis XIX 
+A3-A4 : G-A O2'/C8 adjacent_5p pairing 
+A3-A22 : G-C Ww/Ww pairing antiparallel cis XIX 
+A4-A5 : A-A O2'/C8 adjacent_5p upward pairing 
+A4-A21 : A-G Ww/Ww pairing antiparallel cis VIII 
+A5-A20 : A-G Ww/Ww pairing antiparallel cis VIII 
+A6-A19 : G-C Ww/Ww pairing antiparallel cis XIX 
+A7-A18 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+A8-A17 : C-G Ww/Ww pairing antiparallel cis XIX 
+A9-A16 : G-C Ww/Ww pairing antiparallel cis XIX 
+A10-A15 : C-G Ww/Ww pairing antiparallel cis XIX 
+A11-A13 : U-C Ww/Ws pairing parallel cis one_hbond 
+A11-A14 : U-G Ws/Ww pairing parallel trans one_hbond 
+A12-A13 : U-C O2P/Bh adjacent_5p pairing 
+A12-A14 : U-G O2'/Hh pairing 

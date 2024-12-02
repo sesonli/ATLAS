@@ -1,0 +1,828 @@
+Residue conformations -------------------------------------------
+A1 : MET
+A2 : THR
+A3 : ARG
+A4 : VAL
+A5 : THR
+A6 : VAL
+A7 : GLN
+A8 : THR
+A9 : ALA
+A10 : GLY
+A11 : VAL
+A12 : HIS
+A13 : TYR
+A14 : LYS
+A15 : TRP
+A16 : GLN
+A17 : MET
+A18 : PRO
+A19 : ASP
+A20 : GLN
+A21 : LEU
+A22 : THR
+A23 : GLN
+A24 : GLN
+A25 : LEU
+A26 : ARG
+A27 : LEU
+A28 : ALA
+A29 : HIS
+A30 : ASP
+A31 : LEU
+A32 : ARG
+A33 : GLU
+A34 : ASP
+A35 : LEU
+A36 : VAL
+A37 : THR
+A38 : LEU
+A39 : GLU
+A40 : TYR
+A41 : GLU
+A42 : TYR
+A43 : GLU
+A44 : ASP
+A45 : ALA
+A46 : VAL
+A47 : LYS
+A48 : ALA
+A49 : VAL
+A50 : TRP
+A51 : SER
+A52 : SER
+A53 : TYR
+A54 : PRO
+A55 : ALA
+A56 : VAL
+A57 : ALA
+A58 : ALA
+A59 : LEU
+A60 : GLU
+A61 : ALA
+A62 : GLN
+A63 : VAL
+A64 : ALA
+A65 : GLU
+A66 : LEU
+A67 : ASP
+A68 : GLU
+A69 : ARG
+A70 : ALA
+A71 : SER
+A72 : GLU
+A73 : LEU
+A74 : ALA
+A75 : SER
+A76 : THR
+A77 : VAL
+A78 : LYS
+A79 : GLU
+A80 : GLU
+A81 : LYS
+A82 : SER
+A83 : ARG
+A84 : GLN
+A85 : ARG
+A86 : THR
+A87 : LYS
+A88 : ARG
+A89 : PRO
+A90 : SER
+A91 : HIS
+A92 : PRO
+A93 : ALA
+A94 : VAL
+A95 : ALA
+A96 : GLN
+A97 : LEU
+A98 : ALA
+A99 : GLU
+A100 : THR
+A101 : ARG
+A102 : ALA
+A103 : GLN
+A104 : LEU
+A105 : LYS
+A106 : ALA
+A107 : ALA
+A108 : LYS
+A109 : ALA
+A110 : SER
+A111 : ARG
+A112 : ARG
+A113 : GLU
+A114 : ALA
+A115 : ILE
+A116 : ALA
+A117 : SER
+A118 : VAL
+A119 : ARG
+A120 : ASP
+A121 : GLU
+A122 : ALA
+A123 : THR
+A124 : GLU
+A125 : ARG
+A126 : LEU
+A127 : ARG
+A128 : THR
+A129 : ILE
+A130 : SER
+A131 : ASP
+A132 : GLU
+A133 : ARG
+A134 : TYR
+A135 : ALA
+A136 : ALA
+A137 : GLN
+A138 : LYS
+A139 : GLN
+A140 : LEU
+A141 : TYR
+A142 : ARG
+A143 : ASP
+A144 : TYR
+A145 : CYS
+A146 : THR
+A147 : ASP
+A148 : GLY
+A149 : LEU
+A150 : LEU
+A151 : TYR
+A152 : TRP
+A153 : ALA
+A154 : THR
+A155 : PHE
+A156 : ASN
+A157 : ALA
+A158 : VAL
+A159 : LEU
+A160 : ASP
+A161 : HIS
+A162 : HIS
+A163 : LYS
+A164 : THR
+A165 : ALA
+A166 : VAL
+A167 : LYS
+A168 : ARG
+A169 : ILE
+A170 : ALA
+A171 : ALA
+A172 : HIS
+A173 : ARG
+A174 : LYS
+A175 : GLN
+A176 : GLY
+A177 : ARG
+A178 : ALA
+A179 : ALA
+A180 : GLN
+A181 : LEU
+A182 : ARG
+A183 : HIS
+A184 : HIS
+A185 : ARG
+A186 : TRP
+A187 : ASP
+A188 : GLY
+A189 : THR
+A190 : GLY
+A191 : THR
+A192 : ILE
+A193 : SER
+A194 : VAL
+A195 : GLN
+A196 : LEU
+A197 : GLN
+A198 : ARG
+A199 : GLN
+A200 : ALA
+A201 : THR
+A202 : ASP
+A203 : PRO
+A204 : ALA
+A205 : ARG
+A206 : THR
+A207 : PRO
+A208 : ALA
+A209 : ILE
+A210 : ILE
+A211 : ALA
+A212 : ASP
+A213 : ALA
+A214 : ASP
+A215 : THR
+A216 : GLY
+A217 : LYS
+A218 : TRP
+A219 : ARG
+A220 : SER
+A221 : SER
+A222 : LEU
+A223 : ILE
+A224 : VAL
+A225 : PRO
+A226 : TRP
+A227 : VAL
+A228 : ASN
+A229 : PRO
+A230 : ASP
+A231 : VAL
+A232 : TRP
+A233 : ASP
+A234 : THR
+A235 : MET
+A236 : ASP
+A237 : ARG
+A238 : ALA
+A239 : SER
+A240 : ARG
+A241 : ARG
+A242 : LYS
+A243 : ALA
+A244 : GLY
+A245 : ARG
+A246 : VAL
+A247 : VAL
+A248 : ILE
+A249 : ARG
+A250 : MET
+A251 : ARG
+A252 : CYS
+A253 : GLY
+A254 : SER
+A255 : SER
+A256 : ARG
+A257 : ASN
+A258 : PRO
+A259 : ASP
+A260 : GLY
+A261 : THR
+A262 : LYS
+A263 : THR
+A264 : SER
+A265 : GLU
+A266 : TRP
+A267 : ILE
+A268 : ASP
+A269 : VAL
+A270 : PRO
+A271 : VAL
+A272 : GLN
+A273 : GLN
+A274 : HIS
+A275 : ARG
+A276 : MET
+A277 : LEU
+A278 : PRO
+A279 : ALA
+A280 : ASP
+A281 : ALA
+A282 : ASP
+A283 : ILE
+A284 : THR
+A285 : ALA
+A286 : ALA
+A287 : GLN
+A288 : LEU
+A289 : THR
+A290 : VAL
+A291 : ARG
+A292 : ARG
+A293 : GLU
+A294 : GLY
+A295 : ALA
+A296 : ASP
+A297 : LEU
+A298 : ARG
+A299 : ALA
+A300 : THR
+A301 : ILE
+A302 : GLY
+A303 : ILE
+A304 : THR
+A305 : ALA
+A306 : LYS
+A307 : ILE
+A308 : PRO
+A309 : ASP
+A310 : GLN
+A311 : GLY
+A312 : GLU
+A313 : VAL
+A314 : ASP
+A315 : GLU
+A316 : GLY
+A317 : PRO
+A318 : THR
+A319 : ILE
+A320 : ALA
+A321 : VAL
+A322 : HIS
+A323 : LEU
+A324 : GLY
+A325 : TRP
+A326 : ARG
+A327 : SER
+A328 : SER
+A329 : ASP
+A330 : HIS
+A331 : GLY
+A332 : THR
+A333 : VAL
+A334 : VAL
+A335 : ALA
+A336 : THR
+A337 : TRP
+A338 : ARG
+A339 : SER
+A340 : THR
+A341 : GLU
+A342 : PRO
+A343 : LEU
+A344 : ASP
+A345 : ILE
+A346 : PRO
+A347 : GLU
+A348 : THR
+A349 : LEU
+A350 : ARG
+A351 : GLY
+A352 : VAL
+A353 : ILE
+A354 : THR
+A355 : THR
+A356 : GLN
+A357 : SER
+A358 : ALA
+A359 : GLU
+A360 : ARG
+A361 : THR
+A362 : VAL
+A363 : GLY
+A364 : SER
+A365 : ILE
+A366 : VAL
+A367 : VAL
+A368 : PRO
+A369 : HIS
+A370 : ARG
+A371 : ILE
+A372 : GLU
+A373 : GLN
+A374 : ARG
+A375 : VAL
+A376 : HIS
+A377 : HIS
+A378 : HIS
+A379 : ALA
+A380 : THR
+A381 : VAL
+A382 : ALA
+A383 : SER
+A384 : HIS
+A385 : ARG
+A386 : ASP
+A387 : LEU
+A388 : ALA
+A389 : VAL
+A390 : ASP
+A391 : SER
+A392 : ILE
+A393 : ARG
+A394 : ASP
+A395 : THR
+A396 : LEU
+A397 : VAL
+A398 : ALA
+A399 : TRP
+A400 : LEU
+A401 : THR
+A402 : GLU
+A403 : HIS
+A404 : GLY
+A405 : PRO
+A406 : GLN
+A407 : PRO
+A408 : HIS
+A409 : PRO
+A410 : TYR
+A411 : ASP
+A412 : GLY
+A413 : ASP
+A414 : PRO
+A415 : ILE
+A416 : THR
+A417 : ALA
+A418 : ALA
+A419 : SER
+A420 : VAL
+A421 : GLN
+A422 : ARG
+A423 : TRP
+A424 : LYS
+A425 : ALA
+A426 : PRO
+A427 : ARG
+A428 : ARG
+A429 : PHE
+A430 : ALA
+A431 : TRP
+A432 : LEU
+A433 : ALA
+A434 : LEU
+A435 : GLN
+A436 : TRP
+A437 : ARG
+A438 : ASP
+A439 : THR
+A440 : PRO
+A441 : PRO
+A442 : PRO
+A443 : GLU
+A444 : GLY
+A445 : ALA
+A446 : ASP
+A447 : ILE
+A448 : ALA
+A449 : GLU
+A450 : THR
+A451 : LEU
+A452 : GLU
+A453 : ALA
+A454 : TRP
+A455 : ARG
+A456 : ARG
+A457 : ALA
+A458 : ASP
+A459 : LYS
+A460 : LYS
+A461 : LEU
+A462 : TRP
+A463 : LEU
+A464 : GLU
+A465 : SER
+A466 : GLU
+A467 : HIS
+A468 : GLY
+A469 : ARG
+A470 : GLY
+A471 : ARG
+A472 : ALA
+A473 : LEU
+A474 : ARG
+A475 : HIS
+A476 : ARG
+A477 : THR
+A478 : ASP
+A479 : LEU
+A480 : HIS
+A481 : ARG
+A482 : GLN
+A483 : VAL
+A484 : ALA
+A485 : ALA
+A486 : TYR
+A487 : PHE
+A488 : ALA
+A489 : GLY
+A490 : VAL
+A491 : ALA
+A492 : GLY
+A493 : ARG
+A494 : ILE
+A495 : VAL
+A496 : VAL
+A497 : ASP
+A498 : ASP
+A499 : SER
+A500 : ASP
+A501 : ILE
+A502 : ALA
+A503 : GLN
+A504 : ILE
+A505 : ALA
+A506 : GLY
+A507 : THR
+A508 : ALA
+A509 : LYS
+A510 : HIS
+A511 : SER
+A512 : GLU
+A513 : LEU
+A514 : LEU
+A515 : THR
+A516 : ASP
+A517 : VAL
+A518 : ASP
+A519 : ARG
+A520 : GLN
+A521 : ILE
+A522 : ALA
+A523 : ARG
+A524 : ARG
+A525 : ARG
+A526 : ALA
+A527 : ILE
+A528 : ALA
+A529 : ALA
+A530 : PRO
+A531 : GLY
+A532 : MET
+A533 : LEU
+A534 : ARG
+A535 : ALA
+A536 : ALA
+A537 : ILE
+A538 : VAL
+A539 : ALA
+A540 : ALA
+A541 : ALA
+A542 : THR
+A543 : ARG
+A544 : ASP
+A545 : GLU
+A546 : VAL
+A547 : PRO
+A548 : THR
+A549 : THR
+A550 : THR
+A551 : VAL
+A552 : SER
+A553 : HIS
+A554 : THR
+A555 : GLY
+A556 : LEU
+A557 : SER
+A558 : ARG
+A559 : VAL
+A560 : HIS
+A561 : ALA
+A562 : ALA
+A563 : CYS
+A564 : GLY
+A565 : HIS
+A566 : GLU
+A567 : ASN
+A568 : PRO
+A569 : ALA
+A570 : ASP
+A571 : ASP
+A572 : ARG
+A573 : TYR
+A574 : LEU
+A575 : MET
+A576 : GLN
+A577 : PRO
+A578 : VAL
+A579 : LEU
+A580 : CYS
+A581 : ASP
+A582 : GLY
+A583 : CYS
+A584 : GLY
+A585 : ARG
+A586 : THR
+A587 : TYR
+A588 : ASP
+A589 : THR
+A590 : ASP
+A591 : LEU
+A592 : SER
+A593 : ALA
+A594 : THR
+A595 : ILE
+A596 : LEU
+A597 : MET
+A598 : LEU
+A599 : GLN
+A600 : ARG
+A601 : ALA
+A602 : SER
+A603 : ALA
+A604 : ALA
+B-31 : C C3p_endo anti
+B-30 : A C3p_endo anti
+B-29 : A C3p_endo anti
+B-28 : C C3p_endo anti
+B-27 : G C3p_endo anti
+B-26 : C C3p_endo anti
+B-25 : C C3p_endo anti
+B-24 : A C2p_endo syn
+B-23 : G C3p_endo anti
+B-22 : C C3p_endo anti
+B-21 : G C3p_endo anti
+B-20 : C C3p_endo anti
+B-19 : G C3p_endo anti
+B-18 : G C3p_endo anti
+B-17 : A C3p_endo anti
+B-16 : G C3p_endo anti
+B-15 : G C3p_endo anti
+B-14 : C C3p_endo anti
+B-13 : G C2p_endo anti
+B-12 : U C2p_endo anti
+B-11 : C C2p_endo syn
+B-10 : A C3p_endo anti
+B-9 : A C3p_endo anti
+B-8 : A C2p_endo anti
+B-7 : U C3p_endo anti
+B-6 : C C3p_endo anti
+B-5 : C C3p_endo anti
+B-4 : G C3p_endo anti
+B-3 : C C3p_endo anti
+B-2 : G C3p_endo anti
+B-1 : A C3p_endo anti
+B0 : C C3p_endo anti
+B1 : A C2p_endo syn
+B2 : G C3p_endo anti
+B3 : U C3p_endo anti
+B4 : U C3p_endo anti
+B5 : G C3p_endo anti
+B6 : A C3p_endo anti
+B7 : C C3p_endo anti
+B8 : C C3p_endo anti
+B9 : C C3p_endo anti
+B10 : A C3p_endo anti
+B11 : A C3p_endo anti
+B12 : C C3p_endo anti
+B13 : G C3p_endo anti
+B14 : U C3p_endo anti
+B15 : C C3p_endo anti
+B16 : G C3p_endo anti
+B17 : C C3p_endo anti
+B18 : C C3p_endo anti
+B19 : G C3p_endo anti
+B20 : G C2p_endo anti
+C-19 : C C2p_exo anti
+C-18 : G C2p_endo anti
+C-17 : G C4p_exo anti
+C-16 : C C4p_exo anti
+C-15 : G C4p_exo anti
+C-14 : A C3p_endo anti
+C-13 : C C3p_endo anti
+C-12 : G C1p_exo anti
+C-11 : T C2p_endo anti
+C-10 : T C2p_endo anti
+C-9 : G C1p_exo anti
+C-8 : G C2p_endo anti
+C-7 : G C2p_endo anti
+C-6 : T C2p_endo anti
+C-5 : C C2p_endo anti
+C-4 : A C1p_exo anti
+C-3 : A C2p_endo anti
+C-2 : C C1p_exo anti
+C-1 : T C4p_exo anti
+C0 : G C2p_endo syn
+C1 : A C2p_endo anti
+C2 : A C2p_endo anti
+C3 : A C2p_endo anti
+C4 : T C2p_endo anti
+C5 : G O4p_endo anti
+C6 : T C2p_endo anti
+C7 : C C2p_endo syn
+D-7 : G C3p_exo syn
+D-6 : A C2p_endo anti
+D-5 : C C2p_endo anti
+D-4 : A C1p_exo anti
+D-3 : T C2p_endo anti
+D-2 : T C2p_endo anti
+D-1 : T C2p_endo anti
+D0 : C C1p_exo anti
+D1 : T C3p_endo anti
+D2 : C C2p_endo anti
+D3 : A C3p_endo anti
+D4 : A C3p_exo syn
+D5 : C C1p_exo syn
+D6 : A C4p_exo syn
+D7 : A C2p_endo syn
+D8 : A C2p_endo anti
+D9 : A C4p_exo anti
+Adjacent stackings ----------------------------------------------
+B-31-B-30 : adjacent_5p upward 
+B-30-B-29 : adjacent_5p upward 
+B-29-B-28 : adjacent_5p upward 
+B-27-B-26 : adjacent_5p upward 
+B-23-B-22 : adjacent_5p upward 
+B-22-B-21 : adjacent_5p upward 
+B-21-B-20 : adjacent_5p upward 
+B-20-B-19 : adjacent_5p upward 
+B-19-B-18 : adjacent_5p upward 
+B-18-B-17 : adjacent_5p upward 
+B-17-B-16 : adjacent_5p upward 
+B-16-B-15 : adjacent_5p upward 
+B-15-B-14 : adjacent_5p upward 
+B-14-B-13 : adjacent_5p upward 
+B-10-B-9 : adjacent_5p upward 
+B-7-B-6 : adjacent_5p upward 
+B-5-B-4 : adjacent_5p upward 
+B-4-B-3 : adjacent_5p upward 
+B-2-B-1 : adjacent_5p upward 
+B-1-B0 : adjacent_5p upward 
+B1-B2 : adjacent_5p upward 
+B2-B3 : adjacent_5p upward 
+B3-B4 : adjacent_5p upward 
+B4-B5 : adjacent_5p upward 
+B5-B6 : adjacent_5p upward 
+B6-B7 : adjacent_5p upward 
+B7-B8 : adjacent_5p upward 
+B8-B9 : adjacent_5p upward 
+B10-B11 : adjacent_5p upward 
+B11-B12 : adjacent_5p upward 
+B12-B13 : adjacent_5p upward 
+B13-B14 : adjacent_5p upward 
+B14-B15 : adjacent_5p upward 
+B16-B17 : adjacent_5p upward 
+B17-B18 : adjacent_5p upward 
+B19-B20 : adjacent_5p upward 
+C-19-C-18 : adjacent_5p upward 
+C-17-C-16 : adjacent_5p upward 
+C-16-C-15 : adjacent_5p upward 
+C-15-C-14 : adjacent_5p upward 
+C-14-C-13 : adjacent_5p upward 
+C-13-C-12 : adjacent_5p upward 
+C-12-C-11 : adjacent_5p upward 
+C-11-C-10 : adjacent_5p upward 
+C-10-C-9 : adjacent_5p upward 
+C-9-C-8 : adjacent_5p upward 
+C-8-C-7 : adjacent_5p upward 
+C-7-C-6 : adjacent_5p upward 
+C-6-C-5 : adjacent_5p upward 
+C-5-C-4 : adjacent_5p upward 
+C-4-C-3 : adjacent_5p upward 
+C-3-C-2 : adjacent_5p upward 
+C-2-C-1 : adjacent_5p upward 
+C0-C1 : adjacent_5p upward 
+C2-C3 : adjacent_5p upward 
+C3-C4 : adjacent_5p upward 
+C4-C5 : adjacent_5p upward 
+C5-C6 : adjacent_5p upward 
+D-7-D-6 : adjacent_5p upward 
+D-6-D-5 : adjacent_5p upward 
+D-5-D-4 : adjacent_5p upward 
+D-4-D-3 : adjacent_5p upward 
+D-3-D-2 : adjacent_5p upward 
+D-2-D-1 : adjacent_5p upward 
+D-1-D0 : adjacent_5p upward 
+D2-D3 : adjacent_5p upward 
+D4-D5 : adjacent_5p upward 
+D6-D7 : adjacent_5p downward 
+D7-D8 : adjacent_5p outward 
+D8-D9 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+B-27-B-13 : outward 
+B-21-B-2 : outward 
+B-19-B-4 : outward 
+B-12-B-10 : outward 
+B10-C-9 : outward 
+B13-C-12 : outward 
+B16-C-15 : outward 
+B19-C-18 : outward 
+Number of stackings = 78
+Number of adjacent stackings = 70
+Number of non adjacent stackings = 8
+Base-pairs ------------------------------------------------------
+B-28-B-13 : C-G Ww/Ww pairing antiparallel cis XIX 
+B-27-B-14 : G-C Ww/Ww pairing antiparallel cis XIX 
+B-27-B-12 : G-U Sw/Hw pairing antiparallel trans one_hbond 88 
+B-26-B-15 : C-G Ww/Ww pairing antiparallel cis XIX 
+B-26-B-9 : C-A Ss/Bs O2'/Ww pairing parallel trans one_hbond 
+B-25-B-16 : C-G Ww/Ww pairing antiparallel cis XIX 
+B-23-B-1 : G-A Ww/Ww pairing antiparallel cis VIII 
+B-22-B-2 : C-G Ww/Ww pairing antiparallel cis 
+B-21-B-3 : G-C Ww/Ww pairing antiparallel cis XIX 
+B-20-B-4 : C-G Ww/Ww pairing antiparallel cis XIX 
+B-19-B-5 : G-C Ww/Ww pairing antiparallel cis XIX 
+B-18-B-6 : G-C Ww/Ww pairing antiparallel cis one_hbond 
+B-17-B-7 : A-U Ww/Ww pairing antiparallel cis XX 
+B-16-B-8 : G-A O2'/Ww pairing 
+B-15-B-8 : G-A O2'/Hh pairing 
+B-14-B-10 : C-A O2'/Ss pairing 
+B1-C-1 : A-T Ww/Ww pairing antiparallel cis 
+B2-C-2 : G-C Ww/Ww pairing antiparallel cis XIX 
+B3-C-3 : U-A Ww/Ww pairing antiparallel cis XX 
+B4-C-4 : U-A Ww/Ww pairing antiparallel cis XX 
+B5-C-5 : G-C Ww/Ww pairing antiparallel cis 
+B6-C-6 : A-T Ww/Ww pairing antiparallel cis 
+B7-C-7 : C-G Ww/Ww pairing antiparallel cis XIX 
+B8-C-8 : C-G Ww/Ww pairing antiparallel cis XIX 
+B9-C-9 : C-G Ww/Ww pairing antiparallel cis XIX 
+B10-C-10 : A-T Ww/Ww pairing antiparallel cis 
+B11-C-11 : A-T Ww/Ww pairing antiparallel cis 
+B12-C-12 : C-G Ww/Ww pairing antiparallel cis XIX 
+B13-C-13 : G-C Ww/Ww pairing antiparallel cis XIX 
+B14-C-14 : U-A Ww/Ww pairing antiparallel cis XX 
+B15-C-15 : C-G Ww/Ww pairing antiparallel cis XIX 
+B16-C-16 : G-C Ww/Ww pairing antiparallel cis XIX 
+B17-C-17 : C-G Ww/Ww pairing antiparallel cis XIX 
+B18-C-18 : C-G Ww/Ww pairing antiparallel cis XIX 
+B19-C-19 : G-C Ww/Ww pairing antiparallel cis XIX 
+C0-D0 : G-C Ww/Ww pairing antiparallel cis XIX 
+C1-D-1 : A-T Ww/Ww pairing antiparallel cis one_hbond 
+C2-D-2 : A-T Ww/Ww pairing antiparallel cis 
+C3-D-3 : A-T Ww/Ww pairing antiparallel cis 
+C4-D-4 : T-A Ww/Ww pairing antiparallel cis 
+C5-D-5 : G-C Ww/Ww pairing antiparallel cis XIX 
+C6-D-6 : T-A Ww/Ww pairing antiparallel cis 
+C7-D-7 : C-G Ww/Ww pairing antiparallel cis XIX 

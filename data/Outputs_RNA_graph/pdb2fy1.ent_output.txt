@@ -1,0 +1,160 @@
+Residue conformations -------------------------------------------
+B109 : G C3p_endo anti
+B110 : G C3p_endo anti
+B111 : A C3p_endo anti
+B112 : C C3p_endo anti
+B113 : U C3p_endo anti
+B114 : G C3p_endo anti
+B115 : U C3p_endo anti
+B116 : C C3p_endo anti
+B117 : C C2p_exo anti
+B118 : A C2p_exo anti
+B119 : C C2p_endo anti
+B120 : A C4p_exo syn
+B121 : A C1p_exo anti
+B122 : G C3p_endo anti
+B123 : A C3p_endo anti
+B124 : C C3p_endo anti
+B125 : A C3p_endo anti
+B126 : G C3p_endo anti
+B127 : U C3p_endo anti
+B128 : C C3p_endo anti
+B129 : C C3p_endo anti
+A1 : MET
+A2 : VAL
+A3 : GLU
+A4 : ALA
+A5 : ASP
+A6 : HIS
+A7 : PRO
+A8 : GLY
+A9 : LYS
+A10 : LEU
+A11 : PHE
+A12 : ILE
+A13 : GLY
+A14 : GLY
+A15 : LEU
+A16 : ASN
+A17 : ARG
+A18 : GLU
+A19 : THR
+A20 : ASN
+A21 : GLU
+A22 : LYS
+A23 : MET
+A24 : LEU
+A25 : LYS
+A26 : ALA
+A27 : VAL
+A28 : PHE
+A29 : GLY
+A30 : LYS
+A31 : HIS
+A32 : GLY
+A33 : PRO
+A34 : ILE
+A35 : SER
+A36 : GLU
+A37 : VAL
+A38 : LEU
+A39 : LEU
+A40 : ILE
+A41 : LYS
+A42 : ASP
+A43 : ARG
+A44 : THR
+A45 : SER
+A46 : LYS
+A47 : SER
+A48 : ARG
+A49 : GLY
+A50 : PHE
+A51 : ALA
+A52 : PHE
+A53 : ILE
+A54 : THR
+A55 : PHE
+A56 : GLU
+A57 : ASN
+A58 : PRO
+A59 : ALA
+A60 : ASP
+A61 : ALA
+A62 : LYS
+A63 : ASN
+A64 : ALA
+A65 : ALA
+A66 : LYS
+A67 : ASP
+A68 : MET
+A69 : ASN
+A70 : GLY
+A71 : LYS
+A72 : SER
+A73 : LEU
+A74 : HIS
+A75 : GLY
+A76 : LYS
+A77 : ALA
+A78 : ILE
+A79 : LYS
+A80 : VAL
+A81 : GLU
+A82 : GLN
+A83 : ALA
+A84 : LYS
+A85 : LYS
+A86 : PRO
+A87 : SER
+A88 : PHE
+A89 : GLN
+A90 : SER
+A91 : GLY
+A92 : GLY
+A93 : ARG
+A94 : ARG
+A95 : ARG
+A96 : PRO
+A97 : PRO
+A98 : ALA
+A99 : SER
+A100 : SER
+A101 : ARG
+A102 : ASN
+A103 : ARG
+A104 : SER
+A105 : PRO
+A106 : SER
+A107 : GLY
+A108 : SER
+Adjacent stackings ----------------------------------------------
+B109-B110 : adjacent_5p upward 
+B110-B111 : adjacent_5p upward 
+B111-B112 : adjacent_5p upward 
+B112-B113 : adjacent_5p upward 
+B114-B115 : adjacent_5p upward 
+B116-B117 : adjacent_5p upward 
+B117-B118 : adjacent_5p upward 
+B122-B123 : adjacent_5p upward 
+B123-B124 : adjacent_5p upward 
+B125-B126 : adjacent_5p upward 
+B126-B127 : adjacent_5p upward 
+B127-B128 : adjacent_5p upward 
+B128-B129 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+B114-B125 : outward 
+Number of stackings = 14
+Number of adjacent stackings = 13
+Number of non adjacent stackings = 1
+Base-pairs ------------------------------------------------------
+A9-B121 : LYS-A pairing one_hbond 
+A79-B119 : LYS-C pairing one_hbond 
+B109-B129 : G-C Ww/Ww pairing antiparallel cis XIX 
+B110-B128 : G-C Ww/Ww pairing antiparallel cis XIX 
+B111-B127 : A-U Ww/Ww pairing antiparallel cis XX 
+B112-B126 : C-G Ww/Ww pairing antiparallel cis XIX 
+B113-B125 : U-A Ww/Ww pairing antiparallel cis XX 
+B114-B124 : G-C Ww/Ww pairing antiparallel cis XIX 
+B115-B123 : U-A Ww/Ww pairing antiparallel cis XX 
+B116-B122 : C-G Ww/Ww pairing antiparallel cis XIX 

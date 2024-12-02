@@ -1,0 +1,23 @@
+Residue conformations -------------------------------------------
+A1 : GPN
+A2 : APN
+A3 : APN
+A4 : CPN
+A5 : TPN
+A6 : CPN
+B7 : G C2p_exo anti
+B8 : A C2p_exo anti
+B9 : G C3p_endo anti
+B10 : U C3p_endo anti
+B11 : U C3p_endo anti
+B12 : C C3p_endo anti
+Adjacent stackings ----------------------------------------------
+B7-B8 : adjacent_5p upward 
+B8-B9 : adjacent_5p upward 
+B9-B10 : adjacent_5p upward 
+B11-B12 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+Number of stackings = 4
+Number of adjacent stackings = 4
+Number of non adjacent stackings = 0
+Base-pairs ------------------------------------------------------

@@ -1,0 +1,429 @@
+Residue conformations -------------------------------------------
+A400 : C unknown unknown
+A401 : G unknown unknown
+A402 : C unknown unknown
+A403 : C unknown unknown
+A404 : C unknown unknown
+A405 : G unknown unknown
+A406 : U unknown unknown
+A407 : C unknown unknown
+A408 : A unknown unknown
+A409 : C unknown unknown
+A410 : G unknown unknown
+A411 : C unknown unknown
+A412 : C unknown unknown
+A413 : A unknown unknown
+A414 : U unknown unknown
+A415 : G unknown unknown
+A416 : G unknown unknown
+A417 : G unknown unknown
+A418 : A unknown unknown
+A419 : G unknown unknown
+A420 : C unknown unknown
+A421 : G unknown unknown
+A422 : G unknown unknown
+A423 : G unknown unknown
+A424 : C unknown unknown
+A425 : U unknown unknown
+A426 : C unknown unknown
+A427 : U unknown unknown
+A428 : A unknown unknown
+A429 : C unknown unknown
+A430 : C unknown unknown
+A431 : C unknown unknown
+A432 : G unknown unknown
+A433 : A unknown unknown
+A434 : A unknown unknown
+A435 : G unknown unknown
+A436 : U unknown unknown
+A437 : C unknown unknown
+A438 : G unknown unknown
+A439 : C unknown unknown
+A440 : C unknown unknown
+A441 : G unknown unknown
+A442 : G unknown unknown
+A443 : G unknown unknown
+A446 : A unknown unknown
+A447 : G unknown unknown
+A448 : C unknown unknown
+A449 : C unknown unknown
+A450 : U unknown unknown
+A451 : A unknown unknown
+A452 : C unknown unknown
+A453 : G unknown unknown
+A454 : G unknown unknown
+A455 : G unknown unknown
+A459 : C unknown unknown
+A460 : A unknown unknown
+A461 : G unknown unknown
+A462 : G unknown unknown
+A463 : C unknown unknown
+A464 : G unknown unknown
+A465 : C unknown unknown
+A466 : C unknown unknown
+A467 : G unknown unknown
+A468 : A unknown unknown
+A469 : G unknown unknown
+A470 : G unknown unknown
+A471 : G unknown unknown
+A472 : U unknown unknown
+A473 : A unknown unknown
+A474 : G unknown unknown
+A475 : G unknown unknown
+A476 : G unknown unknown
+A477 : C unknown unknown
+A478 : C unknown unknown
+A479 : C unknown unknown
+A480 : G unknown unknown
+A481 : U unknown unknown
+A482 : G unknown unknown
+A483 : A unknown unknown
+A484 : C unknown unknown
+A485 : U unknown unknown
+A486 : G unknown unknown
+A487 : G unknown unknown
+A488 : G unknown unknown
+A489 : G unknown unknown
+A490 : C unknown unknown
+A491 : G unknown unknown
+A492 : A unknown unknown
+A493 : A unknown unknown
+A494 : G unknown unknown
+A495 : U unknown unknown
+A496 : C unknown unknown
+A497 : G unknown unknown
+A498 : U unknown unknown
+A499 : A unknown unknown
+A500 : A unknown unknown
+A501 : C unknown unknown
+A502 : A unknown unknown
+A503 : A unknown unknown
+A504 : G unknown unknown
+A505 : G unknown unknown
+A506 : U unknown unknown
+A507 : A unknown unknown
+A508 : G unknown unknown
+A509 : C unknown unknown
+A510 : U unknown unknown
+A511 : G unknown unknown
+A512 : U unknown unknown
+A513 : A unknown unknown
+A514 : C unknown unknown
+A515 : C unknown unknown
+A516 : G unknown unknown
+A517 : G unknown unknown
+A518 : A unknown unknown
+A519 : A unknown unknown
+A520 : G unknown unknown
+A521 : G unknown unknown
+A522 : U unknown unknown
+A523 : G unknown unknown
+A524 : C unknown unknown
+A525 : G unknown unknown
+A526 : G unknown unknown
+A527 : C unknown unknown
+A528 : U unknown unknown
+A529 : G unknown unknown
+A530 : G unknown unknown
+A531 : A unknown unknown
+A532 : U unknown unknown
+A533 : C unknown unknown
+A534 : A unknown unknown
+X4 : ASP
+X5 : LYS
+X6 : SER
+X7 : TYR
+X8 : CYS
+X9 : GLY
+X10 : PHE
+X11 : ILE
+X12 : ALA
+X13 : ILE
+X14 : VAL
+X15 : GLY
+X16 : ARG
+X17 : PRO
+X18 : ASN
+X19 : VAL
+X20 : GLY
+X21 : LYS
+X22 : SER
+X23 : THR
+X24 : LEU
+X25 : LEU
+X26 : ASN
+X27 : LYS
+X28 : LEU
+X29 : LEU
+X30 : GLY
+X31 : GLN
+X32 : LYS
+X33 : ILE
+X34 : SER
+X35 : ILE
+X36 : THR
+X37 : SER
+X38 : ARG
+X39 : LYS
+X40 : ALA
+X41 : GLN
+X42 : THR
+X43 : THR
+X44 : ARG
+X45 : HIS
+X46 : ARG
+X47 : ILE
+X48 : VAL
+X49 : GLY
+X50 : ILE
+X51 : HIS
+X52 : THR
+X53 : GLU
+X54 : GLY
+X55 : ALA
+X56 : TYR
+X57 : GLN
+X58 : ALA
+X59 : ILE
+X60 : TYR
+X61 : VAL
+X62 : ASP
+X63 : THR
+X64 : PRO
+X65 : GLY
+X66 : LEU
+X67 : HIS
+X68 : MET
+X69 : GLU
+X70 : GLU
+X71 : LYS
+X72 : ARG
+X73 : ALA
+X74 : ILE
+X75 : ASN
+X76 : ARG
+X77 : LEU
+X78 : MET
+X79 : ASN
+X80 : LYS
+X81 : ALA
+X82 : ALA
+X83 : SER
+X84 : SER
+X85 : SER
+X86 : ILE
+X87 : GLY
+X88 : ASP
+X89 : VAL
+X90 : GLU
+X91 : LEU
+X92 : VAL
+X93 : ILE
+X94 : PHE
+X95 : VAL
+X96 : VAL
+X97 : GLU
+X98 : GLY
+X99 : THR
+X100 : ARG
+X101 : TRP
+X102 : THR
+X103 : PRO
+X104 : ASP
+X105 : ASP
+X106 : GLU
+X107 : MET
+X108 : VAL
+X109 : LEU
+X110 : ASN
+X111 : LYS
+X112 : LEU
+X113 : ARG
+X114 : GLU
+X115 : GLY
+X116 : LYS
+X117 : ALA
+X118 : PRO
+X119 : VAL
+X120 : ILE
+X121 : LEU
+X122 : ALA
+X123 : VAL
+X124 : ASN
+X125 : LYS
+X126 : VAL
+X127 : ASP
+X128 : ASN
+X129 : VAL
+X130 : GLN
+X131 : GLU
+X132 : LYS
+X133 : ALA
+X134 : ASP
+X135 : LEU
+X136 : LEU
+X137 : PRO
+X138 : HIS
+X139 : LEU
+X140 : GLN
+X141 : PHE
+X142 : LEU
+X143 : ALA
+X144 : SER
+X145 : GLN
+X146 : MET
+X147 : ASN
+X148 : PHE
+X149 : LEU
+X150 : ASP
+X151 : ILE
+X152 : VAL
+X153 : PRO
+X154 : ILE
+X155 : SER
+X156 : ALA
+X157 : GLU
+X158 : THR
+X159 : GLY
+X160 : LEU
+X161 : ASN
+X162 : VAL
+X163 : ASP
+X164 : THR
+X165 : ILE
+X166 : ALA
+X167 : ALA
+X168 : ILE
+X169 : VAL
+X170 : ARG
+X171 : LYS
+X172 : HIS
+X173 : LEU
+X174 : PRO
+X175 : GLU
+X176 : ALA
+X177 : THR
+X178 : HIS
+X179 : HIS
+X180 : PHE
+X181 : PRO
+X182 : GLU
+X183 : ASP
+X184 : TYR
+X185 : ILE
+X186 : THR
+X187 : ASP
+X188 : ARG
+X189 : SER
+X190 : GLN
+X191 : ARG
+X192 : PHE
+X193 : MET
+X194 : ALA
+X195 : SER
+X196 : GLU
+X197 : ILE
+X198 : ILE
+X199 : ARG
+X200 : GLU
+X201 : LYS
+X202 : LEU
+X203 : MET
+X204 : ARG
+X205 : PHE
+X206 : LEU
+X207 : GLY
+X208 : ALA
+X209 : GLU
+X210 : LEU
+X211 : PRO
+X212 : TYR
+X213 : SER
+X214 : VAL
+X215 : THR
+X216 : VAL
+X217 : GLU
+X218 : ILE
+X219 : GLU
+X220 : ARG
+X221 : PHE
+X222 : VAL
+X223 : SER
+X224 : ASN
+X225 : GLU
+X226 : ARG
+X227 : GLY
+X228 : GLY
+X229 : TYR
+X230 : ASP
+X231 : ILE
+X232 : ASN
+X233 : GLY
+X234 : LEU
+X235 : ILE
+X236 : LEU
+X237 : VAL
+X238 : GLU
+X239 : ARG
+X240 : GLU
+X241 : GLY
+X242 : GLN
+X243 : LYS
+X244 : LYS
+X245 : MET
+X246 : VAL
+X247 : ILE
+X248 : GLY
+X249 : ASN
+X250 : LYS
+X251 : GLY
+X252 : ALA
+X253 : LYS
+X254 : ILE
+X255 : LYS
+X256 : THR
+X257 : ILE
+X258 : GLY
+X259 : ILE
+X260 : GLU
+X261 : ALA
+X262 : ARG
+X263 : LYS
+X264 : ASP
+X265 : MET
+X266 : GLN
+X267 : GLU
+X268 : MET
+X269 : PHE
+X270 : GLU
+X271 : ALA
+X272 : PRO
+X273 : VAL
+X274 : HIS
+X275 : LEU
+X276 : GLU
+X277 : LEU
+X278 : TRP
+X279 : VAL
+X280 : LYS
+X281 : VAL
+X282 : LYS
+X283 : SER
+X284 : GLY
+X285 : TRP
+X286 : ALA
+X287 : ASP
+X288 : ASP
+X289 : GLU
+X290 : ARG
+X291 : ALA
+X292 : LEU
+X293 : ARG
+X294 : SER
+X295 : LEU
+Adjacent stackings ----------------------------------------------
+Non-Adjacent stackings ------------------------------------------
+Number of stackings = 0
+Number of adjacent stackings = 0
+Number of non adjacent stackings = 0
+Base-pairs ------------------------------------------------------

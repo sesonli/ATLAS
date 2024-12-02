@@ -1,0 +1,210 @@
+Residue conformations -------------------------------------------
+y1 : G C2p_exo anti
+y2 : G C3p_endo anti
+y3 : A C2p_exo anti
+y4 : G C3p_endo anti
+y5 : G C2p_exo anti
+y5.A : G C3p_endo anti
+y5.B : G C2p_exo anti
+y6 : A C2p_endo anti
+y7 : A C3p_endo anti
+y8 : A C3p_endo anti
+y9 : U C3p_exo anti
+y10 : U C2p_exo anti
+y11 : C C2p_exo anti
+y12 : U C3p_endo anti
+y13 : A C3p_endo anti
+y14 : U C3p_endo anti
+y15 : C C2p_exo anti
+y16 : U C2p_exo anti
+y18 : G C2p_endo anti
+y19 : G C2p_endo syn
+y20 : U C2p_exo syn
+y20.A : G C3p_endo anti
+y21 : A C3p_endo anti
+y22 : U C3p_endo anti
+y23 : A C3p_endo anti
+y24 : G C3p_endo anti
+y25 : A C3p_endo anti
+y26 : C C2p_exo anti
+y27 : G C2p_exo anti
+y28 : G C2p_exo anti
+y29 : G C2p_exo anti
+y30 : A C3p_endo anti
+y31 : A C3p_endo anti
+y32 : C C3p_endo anti
+y33 : U C2p_endo syn
+y34 : C C3p_endo anti
+y35 : U C3p_endo anti
+y36 : A C2p_exo anti
+y37 : A C3p_endo anti
+y38 : A C3p_endo anti
+y39 : U C3p_endo anti
+y40 : U C3p_endo anti
+y41 : C C3p_endo anti
+y42 : C C2p_exo anti
+y42.A : U C3p_endo anti
+y43 : U C2p_endo syn
+y44 : G C2p_endo anti
+y45 : A C3p_endo anti
+y46 : A C3p_endo anti
+y47 : A C2p_exo anti
+y47.A : U C3p_endo anti
+y47.B : G C3p_endo anti
+y47.C : C C3p_endo anti
+y47.D : C C2p_exo anti
+y47.E : U C2p_exo anti
+y47.F : C C3p_endo anti
+y47.G : G C2p_endo syn
+y47.H : C C3p_endo anti
+y47.I : C C3p_endo anti
+y47.J : G C3p_endo anti
+y47.K : C C2p_exo anti
+y47.L : A C2p_exo anti
+y47.M : U C2p_exo anti
+y48 : U C3p_endo anti
+y51 : G C2p_exo anti
+y52 : G C2p_exo anti
+y53 : G C3p_endo anti
+y54 : U C2p_exo anti
+y55 : U C3p_endo anti
+y56 : C C3p_endo anti
+y57 : G C3p_endo anti
+y58 : A C2p_endo syn
+y59 : U C2p_exo anti
+y60 : U C4p_exo anti
+y61 : C C3p_endo anti
+y62 : C C3p_endo anti
+y63 : C C3p_endo anti
+y66 : U C3p_endo anti
+y67 : U C2p_exo anti
+y67.A : C C3p_endo anti
+y67.B : C C3p_endo anti
+y68 : C C2p_exo anti
+y69 : C C3p_endo anti
+y70 : U C3p_endo anti
+y71 : C C3p_endo anti
+y72 : C C2p_exo anti
+y73 : G C3p_endo anti
+y74 : C C3p_endo anti
+y75 : C C3p_endo anti
+y76 : A C4p_exo syn
+Adjacent stackings ----------------------------------------------
+y1-y2 : adjacent_5p upward 
+y2-y3 : adjacent_5p upward 
+y3-y4 : adjacent_5p upward 
+y4-y5 : adjacent_5p upward 
+y5-y5.A : adjacent_5p upward 
+y5.A-y5.B : adjacent_5p upward 
+y5.B-y6 : adjacent_5p upward 
+y6-y7 : adjacent_5p upward 
+y8-y9 : adjacent_5p upward 
+y12-y13 : adjacent_5p upward 
+y13-y14 : adjacent_5p upward 
+y14-y15 : adjacent_5p upward 
+y15-y16 : adjacent_5p upward 
+y20.A-y21 : adjacent_5p upward 
+y21-y22 : adjacent_5p upward 
+y22-y23 : adjacent_5p upward 
+y23-y24 : adjacent_5p upward 
+y24-y25 : adjacent_5p upward 
+y25-y26 : adjacent_5p upward 
+y26-y27 : adjacent_5p upward 
+y27-y28 : adjacent_5p upward 
+y28-y29 : adjacent_5p upward 
+y29-y30 : adjacent_5p upward 
+y30-y31 : adjacent_5p upward 
+y31-y32 : adjacent_5p upward 
+y34-y35 : adjacent_5p upward 
+y35-y36 : adjacent_5p upward 
+y36-y37 : adjacent_5p upward 
+y37-y38 : adjacent_5p upward 
+y38-y39 : adjacent_5p upward 
+y39-y40 : adjacent_5p upward 
+y40-y41 : adjacent_5p upward 
+y41-y42 : adjacent_5p upward 
+y42-y42.A : adjacent_5p upward 
+y45-y46 : adjacent_5p upward 
+y46-y47 : adjacent_5p upward 
+y47-y47.A : adjacent_5p upward 
+y47.A-y47.B : adjacent_5p upward 
+y47.B-y47.C : adjacent_5p upward 
+y47.D-y47.E : adjacent_5p upward 
+y47.F-y47.G : adjacent_5p inward 
+y47.H-y47.I : adjacent_5p upward 
+y47.J-y47.K : adjacent_5p upward 
+y47.L-y47.M : adjacent_5p upward 
+y51-y52 : adjacent_5p upward 
+y52-y53 : adjacent_5p upward 
+y53-y54 : adjacent_5p upward 
+y54-y55 : adjacent_5p upward 
+y56-y57 : adjacent_5p upward 
+y59-y60 : adjacent_5p upward 
+y62-y63 : adjacent_5p upward 
+y63-y66 : adjacent_5p upward 
+y66-y67 : adjacent_5p upward 
+y67.A-y67.B : adjacent_5p upward 
+y67.B-y68 : adjacent_5p upward 
+y69-y70 : adjacent_5p upward 
+y70-y71 : adjacent_5p upward 
+y71-y72 : adjacent_5p upward 
+y72-y73 : adjacent_5p upward 
+y74-y75 : adjacent_5p upward 
+y75-y76 : adjacent_5p inward 
+Non-Adjacent stackings ------------------------------------------
+y1-y73 : outward 
+y7-y51 : upward 
+y8-y48 : downward 
+y10-y44 : downward 
+y13-y23 : outward 
+y18-y57 : inward pairing 
+y18-y58 : outward 
+y19-y57 : outward 
+y20.A-y59 : outward 
+y27-y44 : outward 
+y47.B-y47.L : outward 
+y53-y62 : outward 
+y58-y61 : upward pairing 
+Number of stackings = 74
+Number of adjacent stackings = 61
+Number of non adjacent stackings = 13
+Base-pairs ------------------------------------------------------
+y1-y72 : G-C Ww/Ww pairing antiparallel cis 122 
+y2-y71 : G-C Ww/Ww pairing antiparallel cis one_hbond 130 
+y4-y69 : G-C Ww/Ww pairing antiparallel cis one_hbond 
+y5.B-y67.A : G-C Ww/Ww pairing antiparallel cis one_hbond 
+y6-y67 : A-U Ww/Ww pairing antiparallel cis XX 
+y7-y66 : A-U Ww/Ww pairing antiparallel cis XX 
+y8-y45 : A-A O2'/Bh pairing 
+y10-y25 : U-A Ww/Ww pairing antiparallel cis XX 
+y11-y24 : C-G Ww/Ww pairing antiparallel cis XIX 
+y12-y23 : U-A Ww/Ww pairing antiparallel cis XX 
+y13-y22 : A-U Ww/Ww pairing antiparallel cis XX 
+y14-y21 : U-A Ww/Ww pairing antiparallel cis XX 
+y15-y20.A : C-G Ww/Ww pairing antiparallel cis XIX 
+y16-y59 : U-U Ws/Ws pairing parallel trans XIII 
+y18-y55 : G-U Ww/Bs pairing parallel trans 87 
+y18-y57 : G-G O2'/Ww O2'/Bs inward pairing 
+y19-y56 : G-C Ww/Ww pairing antiparallel cis XIX 
+y19-y60 : G-U O2P/Ww pairing 
+y26-y44 : C-G Ww/Ww pairing antiparallel cis XIX 
+y27-y42.A : G-U Ww/Ws pairing antiparallel cis XXVIII 
+y28-y42 : G-C Ww/Ww pairing antiparallel cis XIX 
+y29-y41 : G-C Ww/Ww pairing antiparallel cis XIX 
+y30-y40 : A-U Ww/Ww pairing antiparallel cis XX 
+y31-y39 : A-U Ww/Ww pairing antiparallel cis XX 
+y46-y48 : A-U Ww/Ww pairing antiparallel cis XX 
+y47-y47.M : A-U Ww/Ww pairing antiparallel cis XX 
+y47.A-y47.L : U-A Ww/Ww pairing antiparallel cis XX 
+y47.B-y47.K : G-C Ww/Ww pairing antiparallel cis XIX 
+y47.C-y47.J : C-G Ww/Ww pairing antiparallel cis XIX 
+y47.E-y47.F : U-C Ww/O2' adjacent_5p pairing 
+y47.E-y47.H : U-C Ww/Ww pairing antiparallel cis XVIII 
+y47.F-y47.H : C-C O2'/Ww pairing 
+y51-y63 : G-C Ww/Ww pairing antiparallel cis XIX 
+y52-y62 : G-C Ww/Ww pairing antiparallel cis XIX 
+y53-y61 : G-C Ww/Ww pairing antiparallel cis XIX 
+y54-y58 : U-A Ww/Hh pairing antiparallel trans XXIV 
+y55-y57 : U-G O2'/Hh pairing 
+y55-y58 : U-A Ww/O2P pairing 
+y58-y61 : A-C O2'/Bh upward pairing 

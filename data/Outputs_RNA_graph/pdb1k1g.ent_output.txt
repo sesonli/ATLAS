@@ -1,0 +1,144 @@
+Residue conformations -------------------------------------------
+B501 : U C4p_exo anti
+B502 : A C2p_endo syn
+B503 : U C4p_exo anti
+B504 : A C2p_endo syn
+B505 : C O4p_endo anti
+B506 : U C4p_exo anti
+B507 : A C2p_exo anti
+B508 : A C4p_exo anti
+B509 : C C3p_endo anti
+B510 : A C2p_exo anti
+B511 : A C3p_endo syn
+A134 : THR
+A135 : ARG
+A136 : VAL
+A137 : SER
+A138 : ASP
+A139 : LYS
+A140 : VAL
+A141 : MET
+A142 : ILE
+A143 : PRO
+A144 : GLN
+A145 : ASP
+A146 : GLU
+A147 : TYR
+A148 : PRO
+A149 : GLU
+A150 : ILE
+A151 : ASN
+A152 : PHE
+A153 : VAL
+A154 : GLY
+A155 : LEU
+A156 : LEU
+A157 : ILE
+A158 : GLY
+A159 : PRO
+A160 : ARG
+A161 : GLY
+A162 : ASN
+A163 : THR
+A164 : LEU
+A165 : LYS
+A166 : ASN
+A167 : ILE
+A168 : GLU
+A169 : LYS
+A170 : GLU
+A171 : CYS
+A172 : ASN
+A173 : ALA
+A174 : LYS
+A175 : ILE
+A176 : MET
+A177 : ILE
+A178 : ARG
+A179 : GLY
+A180 : LYS
+A181 : GLY
+A182 : SER
+A183 : VAL
+A184 : LYS
+A185 : GLU
+A186 : GLY
+A187 : LYS
+A188 : VAL
+A189 : GLY
+A190 : ARG
+A191 : LYS
+A192 : ASP
+A193 : GLY
+A194 : GLN
+A195 : MET
+A196 : LEU
+A197 : PRO
+A198 : GLY
+A199 : GLU
+A200 : ASP
+A201 : GLU
+A202 : PRO
+A203 : LEU
+A204 : HIS
+A205 : ALA
+A206 : LEU
+A207 : VAL
+A208 : THR
+A209 : ALA
+A210 : ASN
+A211 : THR
+A212 : MET
+A213 : GLU
+A214 : ASN
+A215 : VAL
+A216 : LYS
+A217 : LYS
+A218 : ALA
+A219 : VAL
+A220 : GLU
+A221 : GLN
+A222 : ILE
+A223 : ARG
+A224 : ASN
+A225 : ILE
+A226 : LEU
+A227 : LYS
+A228 : GLN
+A229 : GLY
+A230 : ILE
+A231 : GLU
+A232 : THR
+A233 : PRO
+A234 : GLU
+A235 : ASP
+A236 : GLN
+A237 : ASN
+A238 : ASP
+A239 : LEU
+A240 : ARG
+A241 : LYS
+A242 : MET
+A243 : GLN
+A244 : LEU
+A245 : ARG
+A246 : GLU
+A247 : LEU
+A248 : ALA
+A249 : ARG
+A250 : LEU
+A251 : ASN
+A252 : GLY
+A253 : THR
+A254 : LEU
+A255 : ARG
+Adjacent stackings ----------------------------------------------
+B508-B509 : adjacent_5p upward 
+B509-B510 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+Number of stackings = 2
+Number of adjacent stackings = 2
+Number of non adjacent stackings = 0
+Base-pairs ------------------------------------------------------
+B503-B504 : U-A O2P/Ss adjacent_5p pairing 
+B510-B511 : A-A Ss/C8 adjacent_5p pairing antiparallel trans one_hbond 

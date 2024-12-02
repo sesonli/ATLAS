@@ -1,0 +1,19 @@
+Residue conformations -------------------------------------------
+A11 : G C2p_exo anti
+A12 : C C3p_endo anti
+A13 : U C3p_endo anti
+A14 : G O4p_endo anti
+A15 : U C3p_exo anti
+A16 : U C4p_exo anti
+A17 : G C4p_exo anti
+A18 : U C4p_exo anti
+Adjacent stackings ----------------------------------------------
+A12-A13 : adjacent_5p upward 
+A13-A14 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+Number of stackings = 2
+Number of adjacent stackings = 2
+Number of non adjacent stackings = 0
+Base-pairs ------------------------------------------------------
+A11-A18 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+A12-A17 : C-G Ww/Ww pairing antiparallel cis XIX 

@@ -1,0 +1,98 @@
+Residue conformations -------------------------------------------
+A693 : G C3p_endo anti
+A694 : G C3p_endo anti
+A695 : G C3p_endo anti
+A696 : C C3p_endo anti
+A697 : A C3p_endo anti
+A698 : G C3p_endo anti
+A699 : A C3p_endo anti
+A700 : A C3p_endo anti
+A701 : G C3p_endo anti
+A702 : G C3p_endo anti
+A703 : U C3p_endo anti
+A704 : A C3p_endo anti
+A705 : C C3p_endo anti
+A706 : C C3p_endo anti
+A707 : C C3p_endo anti
+A708 : C C3p_endo anti
+A709 : A C3p_endo anti
+A710 : U C3p_endo anti
+A711 : U C3p_endo anti
+A712 : G C2p_endo anti
+A713 : U C2p_endo anti
+A714 : A C3p_endo anti
+A715 : U C3p_endo anti
+A716 : G C3p_endo anti
+A717 : G C3p_endo anti
+A718 : G C3p_endo anti
+A719 : A C3p_endo anti
+A720 : U C3p_endo anti
+A721 : C C3p_endo anti
+A722 : U C3p_endo anti
+A723 : G C3p_endo anti
+A724 : A C3p_endo anti
+A725 : U C3p_endo anti
+A726 : C C3p_endo anti
+A727 : U C3p_endo anti
+A728 : G C3p_endo anti
+A729 : C C3p_endo anti
+A730 : C C3p_endo anti
+A731 : C C3p_endo anti
+Adjacent stackings ----------------------------------------------
+A693-A694 : adjacent_5p upward 
+A694-A695 : adjacent_5p upward 
+A695-A696 : adjacent_5p upward 
+A696-A697 : adjacent_5p upward 
+A697-A698 : adjacent_5p upward 
+A698-A699 : adjacent_5p upward 
+A699-A700 : adjacent_5p upward 
+A700-A701 : adjacent_5p upward 
+A701-A702 : adjacent_5p upward 
+A704-A705 : adjacent_5p upward 
+A706-A707 : adjacent_5p upward 
+A707-A708 : adjacent_5p upward 
+A708-A709 : adjacent_5p upward 
+A709-A710 : adjacent_5p upward 
+A710-A711 : adjacent_5p upward 
+A711-A712 : adjacent_5p upward 
+A712-A713 : adjacent_5p upward 
+A714-A715 : adjacent_5p upward 
+A716-A717 : adjacent_5p upward 
+A717-A718 : adjacent_5p upward 
+A718-A719 : adjacent_5p upward 
+A719-A720 : adjacent_5p upward 
+A721-A722 : adjacent_5p upward 
+A723-A724 : adjacent_5p upward 
+A724-A725 : adjacent_5p upward 
+A725-A726 : adjacent_5p upward 
+A726-A727 : adjacent_5p upward 
+A728-A729 : adjacent_5p upward 
+A729-A730 : adjacent_5p upward 
+A730-A731 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+A697-A728 : outward 
+A701-A723 : outward 
+A702-A704 : upward 
+A709-A716 : outward 
+Number of stackings = 34
+Number of adjacent stackings = 30
+Number of non adjacent stackings = 4
+Base-pairs ------------------------------------------------------
+A693-A731 : G-C Ww/Ww pairing antiparallel cis XIX 
+A694-A730 : G-C Ww/Ww pairing antiparallel cis XIX 
+A695-A729 : G-C Ww/Ww pairing antiparallel cis XIX 
+A696-A728 : C-G Ww/Ww pairing antiparallel cis XIX 
+A697-A727 : A-U Ww/Ww pairing antiparallel cis XX 
+A698-A726 : G-C Ww/Ww pairing antiparallel cis XIX 
+A699-A725 : A-U Ww/Ww pairing antiparallel cis XX 
+A700-A723 : A-G Ww/Wh pairing antiparallel cis one_hbond 
+A701-A722 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+A702-A721 : G-C Ww/Ww pairing antiparallel cis XIX 
+A703-A705 : U-C O2'/Bh pairing 
+A704-A720 : A-U Ww/Ww pairing antiparallel cis XX 
+A705-A719 : C-A Ww/Ww pairing antiparallel cis 75 
+A706-A718 : C-G Ww/Ww pairing antiparallel cis XIX 
+A707-A717 : C-G Ww/Ww pairing antiparallel cis XIX 
+A708-A716 : C-G Ww/Ww pairing antiparallel cis XIX 
+A709-A715 : A-U Ww/Ww pairing antiparallel cis XX 
+A710-A714 : U-A Ww/Ww pairing antiparallel cis XX 
