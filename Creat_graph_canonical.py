@@ -10,29 +10,13 @@ The nodes have no attribute.
 @author: JingyiLi
 """
 import networkx as nx
-import matplotlib.pyplot as plt
 import os
 import re
+import pickle
 
-# Encode node labels into a numerical format for graph processing
+# Keep node labels as-is without encoding
 def encode_label(label):
-    cleaned_label = label.replace("'", "")
-    has_dash = '-' in cleaned_label
-    parts = re.split('(-|\d+)', cleaned_label)
-    parts = [p for p in parts if p]
-    prefix = '2' if has_dash else '1'
-    encoded_parts = []
-    for part in parts:
-        if part.isalpha():
-            ascii_value = ord(part)
-            encoded_part = f'9{ascii_value:03}'
-        elif part.isdigit():
-            encoded_part = part
-        else:
-            continue
-        encoded_parts.append(encoded_part)
-    final_encoding = prefix + ''.join(encoded_parts)
-    return final_encoding
+    return label
 
 # Convert a list of integers into a single concatenated integer
 def list_to_number(lst):
@@ -116,6 +100,8 @@ def get_graph_info(filename):
         line = line.strip()
         if line.startswith("Residue conformations"):
             current_section = "residues"
+        elif line.startswith("Adjacent stackings"):
+            current_section = "adjacent_stackings" 
         elif line.startswith("Base-pairs"):
             current_section = "base_pairs"
         elif current_section == "residues" and line:
@@ -138,6 +124,17 @@ def create_graph(vertices, edges):
             if edge_attribute != [0, 0, 0]:
                 G.add_edge(vertex1, vertex2, attribute=edge_attribute)
     return G
+
+# Generate next sequential nucleotide name
+def nextnode(node_name):
+    match = re.match(r"^(.*?)(\d+)$", node_name)
+    if match:
+        prefix = match.group(1)
+        number = match.group(2)
+        new_number = int(number) + 1  
+        return f"{prefix}{new_number}"
+    else:
+        return None
 
 # Add covalent edges between nodes based on naming convention
 def add_covalent(G, filename):
@@ -166,14 +163,14 @@ interaction_list_path = os.path.join(script_dir,'data','unique_interactions_redu
 nt_mapping = read_data(nt_list_path)
 interaction_mapping = read_data(interaction_list_path)
 
-path = os.path.join(script_dir,'data','Out_RNA_graph')
-output_path = os.path.join(script_dir,'data','Outputs_RNA_graph')
+path = os.path.join(script_dir,'data','rna_annotation')
+output_path = os.path.join(script_dir,'data','canonical_output_new.txt')
 # Main processing loop to build graphs
 graphs = {}
 with open(output_path, 'w') as out_file:
     graph_number = 0
     for filename in os.listdir(path):
-        if filename.endswith(".txt"):
+        if filename.endswith("_annotation.txt"):
             filepath = os.path.join(path, filename)
             vertices, edges = get_graph_info(filepath)
             G = create_graph(vertices, edges)
@@ -185,7 +182,7 @@ with open(output_path, 'w') as out_file:
 print("Graphs have been saved to TXT successfully.")
 
 # Save the graph data using pickle for later use
-file_path_to_save = os.path.join(script_dir,'data','saved_graphs_canonical.pickle')
+file_path_to_save = os.path.join(script_dir,'data','saved_graphs_canonical_new.pickle')
 with open(file_path_to_save, 'wb') as file:
     pickle.dump(graphs, file)
 

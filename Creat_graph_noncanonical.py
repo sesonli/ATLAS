@@ -17,6 +17,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import os
 import re
+import pickle
 
 "Possible A1, A-1,'1'1,'1'-1"
 def encode_label(label):
@@ -208,11 +209,14 @@ interaction_list_path = os.path.join(script_dir, 'data', 'unique_interactions.tx
 interaction_mapping = read_data(interaction_list_path)
 
 #This is the path to read MC output date to build graphs
-path = os.path.join(script_dir, 'data', 'Outputs_RNA_graph')
+path = os.path.join(script_dir, 'data', 'rna_annotation')
 # path = 'D:/test'
-output_path = os.path.join(script_dir, 'data', 'created_graphs_all.txt')
+output_path = os.path.join(script_dir, 'data', 'created_graphs_noncanonical.txt')
 
 graphs = {}
+batch_size = 100
+batch_count = 0
+
 with open(output_path, 'w') as out_file:
     graph_number = 0
     for filename in os.listdir(path):
@@ -225,19 +229,55 @@ with open(output_path, 'w') as out_file:
 
             graphs[filename] = G
             graph_number += 1
-print(graphs)
+            
+            # Batch processing logic
+            if graph_number % batch_size == 0:
+                batch_file = os.path.join(script_dir, 'data', f'batch_{batch_count:04d}_graphs.pickle')
+                with open(batch_file, 'wb') as f:
+                    pickle.dump(graphs, f)
+                print(f"Saved batch {batch_count} with {len(graphs)} graphs")
+                graphs.clear()  # Clear memory
+                batch_count += 1
+            
+            # Print progress every 100 files
+            if graph_number % 100 == 0:
+                print(f"Progress: {graph_number} files processed")
+# Save final batch if there are remaining graphs
+if graphs:
+    batch_file = os.path.join(script_dir, 'data', f'batch_{batch_count:04d}_graphs.pickle')
+    with open(batch_file, 'wb') as f:
+        pickle.dump(graphs, f)
+    print(f"Saved final batch {batch_count} with {len(graphs)} graphs")
 
 print("Graphs have been saved to TXT successfully.")
 
-import pickle
+# Function to merge all batch files
+def merge_all_batches():
+    print("Merging all batch files...")
+    all_graphs = {}
+    batch_num = 0
+    
+    while True:
+        batch_file = os.path.join(script_dir, 'data', f'batch_{batch_num:04d}_graphs.pickle')
+        if not os.path.exists(batch_file):
+            break
+        
+        with open(batch_file, 'rb') as f:
+            batch_graphs = pickle.load(f)
+            all_graphs.update(batch_graphs)
+        
+        print(f"Loaded batch {batch_num} with {len(batch_graphs)} graphs")
+        batch_num += 1
+    
+    # Save merged file
+    final_file = os.path.join(script_dir, 'data', 'saved_graphs_noncanonical20250627.pickle')
+    with open(final_file, 'wb') as f:
+        pickle.dump(all_graphs, f)
+    
+    print(f"Merged {len(all_graphs)} graphs into final file")
+    return all_graphs
 
-# Assuming 'graphs' is your dictionary containing networkx graph objects
-# Specify the path to the file where you want to save the graphs
-file_path_to_save = "D:/RNA_design_py/data/saved_graphs_noncanonical20241010.pickle"
-
-# Saving the graphs to a file using pickle
-with open(file_path_to_save, 'wb') as file:
-    pickle.dump(graphs, file)
-
-print("Graphs have been saved successfully.")
+# Merge all batches and save final file
+merged_graphs = merge_all_batches()
+print("All graphs have been saved successfully.")
 

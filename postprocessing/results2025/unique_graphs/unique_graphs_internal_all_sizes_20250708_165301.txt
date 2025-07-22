@@ -1,0 +1,114 @@
+Unique Graphs Analysis for internal
+Motif Size Constraint: All Sizes
+Date and Time: 2025-07-08 16:53:01
+==================================================
+
+Retrieved 224796 records of type 'internal' from database
+
+Analysis Results:
+Total graphs processed: 224796
+Total graphs skipped: 0
+Number of unique graphs found: 13705
+Number of top graphs plotted (Top 8): 119056
+Number of other graphs not plotted: 105740
+
+Detailed Frequency Information:
+Graph 1 has been found 69605 time(s) (30.96%)
+  Edges in Graph 1:
+    A3 -- A19 : [1, 0, 0]
+    A3 -- A4 : [0, 0, 1]
+    A19 -- A18 : [0, 0, 1]
+    A4 -- A18 : [0, 1, 0]
+    A4 -- A5 : [0, 0, 1]
+    A17 -- A5 : [1, 0, 0]
+    A17 -- A18 : [0, 0, 1]
+
+Graph 2 has been found 12566 time(s) (5.59%)
+  Edges in Graph 2:
+    B94 -- A82 : [1, 0, 0]
+    B94 -- B95 : [0, 0, 1]
+    A82 -- A81 : [0, 0, 1]
+    B95 -- B96 : [0, 0, 1]
+    B95 -- A81 : [0, 1, 0]
+    A81 -- A80 : [0, 0, 1]
+    A79 -- B97 : [1, 0, 0]
+    A79 -- A80 : [0, 0, 1]
+    B97 -- B96 : [0, 0, 1]
+    A80 -- B96 : [0, 1, 0]
+
+Graph 3 has been found 12236 time(s) (5.44%)
+  Edges in Graph 3:
+    C8 -- C9 : [0, 0, 1]
+    C8 -- C7 : [0, 0, 1]
+    C9 -- B1 : [1, 0, 0]
+    C7 -- B3 : [1, 0, 0]
+    B3 -- B2 : [0, 0, 1]
+    B1 -- B2 : [0, 0, 1]
+
+Graph 4 has been found 10631 time(s) (4.73%)
+  Edges in Graph 4:
+    B2839 -- B2878 : [0, 1, 0]
+    B2839 -- B2840 : [0, 0, 1]
+    B2839 -- B2838 : [0, 0, 1]
+    B2878 -- B2879 : [0, 0, 1]
+    B2878 -- B2877 : [0, 0, 1]
+    B2840 -- B2877 : [1, 0, 0]
+    B2838 -- B2880 : [1, 0, 0]
+    B2879 -- B2880 : [0, 0, 1]
+
+Graph 5 has been found 4316 time(s) (1.92%)
+  Edges in Graph 5:
+    A2576 -- A2577 : [0, 0, 1]
+    A2576 -- A2575 : [0, 0, 1]
+    A2577 -- A2578 : [0, 0, 1]
+    A2575 -- A2558 : [1, 0, 0]
+    A2556 -- A2579 : [1, 0, 0]
+    A2556 -- A2557 : [0, 0, 1]
+    A2579 -- A2578 : [0, 0, 1]
+    A2557 -- A2578 : [0, 1, 0]
+    A2557 -- A2558 : [0, 0, 1]
+
+Graph 6 has been found 3950 time(s) (1.76%)
+  Edges in Graph 6:
+    A17 -- A5 : [1, 0, 0]
+    A17 -- A16 : [0, 0, 1]
+    A5 -- A6 : [0, 0, 1]
+    A16 -- A15 : [0, 0, 1]
+    A7 -- A8 : [0, 0, 1]
+    A7 -- A6 : [0, 0, 1]
+    A8 -- A15 : [1, 0, 0]
+
+Graph 7 has been found 3143 time(s) (1.40%)
+  Edges in Graph 7:
+    B2141 -- B2150 : [1, 0, 0]
+    B2141 -- B2140 : [0, 0, 1]
+    B2150 -- B2151 : [0, 0, 1]
+    B2140 -- B2151 : [0, 1, 0]
+    B2140 -- B2139 : [0, 0, 1]
+    B2151 -- B2152 : [0, 0, 1]
+    B2152 -- B2153 : [0, 0, 1]
+    B2153 -- B2138 : [1, 0, 0]
+    B2138 -- B2139 : [0, 0, 1]
+
+Graph 8 has been found 2609 time(s) (1.16%)
+  Edges in Graph 8:
+    B765 -- B697 : [1, 0, 0]
+    B765 -- B766 : [0, 0, 1]
+    B697 -- B696 : [0, 0, 1]
+    B766 -- B767 : [0, 0, 1]
+    B766 -- B696 : [0, 1, 0]
+    B767 -- B695 : [0, 1, 0]
+    B767 -- B768 : [0, 0, 1]
+    B695 -- B696 : [0, 0, 1]
+    B695 -- B694 : [0, 0, 1]
+    B768 -- B694 : [0, 1, 0]
+    B768 -- B769 : [0, 0, 1]
+    B694 -- B693 : [0, 0, 1]
+    B769 -- B693 : [1, 0, 0]
+
+
+Results saved to: postprocessing/results2025/unique_graphs\unique_graphs_internal_all_sizes_20250708_165301.txt
+Plot saved to: postprocessing/results2025/unique_graphs\unique_graphs_internal_all_sizes_20250708_165301.png
+
+Generating pie chart of graph distribution...
+Pie chart saved to: postprocessing/results2025/unique_graphs\pie_chart_internal_all_sizes_20250708_172654.png

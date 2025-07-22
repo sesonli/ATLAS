@@ -1,0 +1,133 @@
+# RNA Motif Analysis Pipeline
+
+> **⚠️ IMPORTANT VERSION NOTICE:**
+> - **Current Version (main branch)**: This is the latest, functional version of the RNA motif analysis pipeline
+> - **Legacy Version (master branch)**: The old version in the master branch is **deprecated and non-functional**. Please do not use it.
+
+A Python-based toolkit for identifying and analyzing RNA structural motifs from PDB structures using graph-based algorithms and parallel processing.
+
+## 🧬 Overview
+
+This project analyzes RNA structures from the Protein Data Bank to identify recurring structural motifs including hairpins, internal loops, bulges, junctions, and pseudoknots. The approach converts RNA structures into NetworkX graph representations and uses subgraph isomorphism algorithms to discover and catalog common motifs.
+
+## ✨ Key Features
+
+- **Automated PDB Processing**: Downloads and processes PDB files with RNA chain extraction
+- **Graph-Based Analysis**: Converts RNA structures into NetworkX graphs  
+- **Parallel Motif Discovery**: Multi-process motif identification for performance
+- **Pseudoknot Detection**: Specialized algorithms for pseudoknot identification
+- **Database Management**: SQLite-based storage with optimization and deduplication
+- **Statistical Analysis**: Generate distribution plots and similarity analyses
+
+## 🚀 Quick Start
+
+### Prerequisites
+```bash
+pip install -r requirements.txt
+```
+
+### Basic Workflow
+
+1. **Download and process PDB files:**
+   ```bash
+   python RNA_downloader.py --pdb-list pdb_ids.txt --output-dir data/rna_final
+   ```
+
+2. **Create RNA graphs from PDB structures:**
+   ```bash
+   python Creat_graph_canonical.py      # Standard base pairs only
+   python Creat_graph_noncanonical.py   # All interaction types
+   ```
+
+3. **Find motifs in RNA structures:**
+   ```bash
+   python find_all_motifs_parallel.py   # Discover all motif types (parallel)
+   python find_pk.py                    # Discover pseudoknots
+   ```
+
+4. **Process and optimize databases:**
+   ```bash
+   python tools/pickle_to_db.py         # Convert noncanonical graphs to database
+   python tools/merge_databases.py      # Merge database shards
+   python postprocessing_obtain_db.py   # Create final optimized database
+   ```
+
+5. **Generate statistical analyses:**
+   ```bash
+   python postprocessing/scripts/plot_motif_distributions/get_motif_number.py
+   python postprocessing/scripts/similarity_map/similarity_map_v3.py
+   python postprocessing/scripts/motif_comformation_considering_non/find_unique_graphs.py
+   ```
+
+## 🔄 Complete Workflow
+
+The pipeline follows this workflow:
+
+1. **Data Acquisition** → `RNA_downloader.py` downloads PDB files and extracts RNA chains
+2. **Graph Generation** → `Creat_graph_*.py` scripts convert structures to NetworkX graphs
+3. **Motif Discovery** → `find_all_motifs_parallel.py` and `find_pk.py` identify structural motifs
+4. **Database Processing** → Tools merge and optimize databases
+5. **Analysis & Visualization** → Statistical analysis and plotting scripts
+
+## 📁 Project Structure
+
+```
+├── data/                           # Data files (not included in repository)
+│   ├── rna_annotation/            # RNA annotation files
+│   ├── noncanonical_graphs/       # Batch pickle files
+│   └── motif_database/            # Database shards
+├── RNA_downloader.py              # PDB file download and processing
+├── Creat_graph_canonical.py       # Graph creation (standard base pairs)
+├── Creat_graph_noncanonical.py    # Graph creation (all interactions)  
+├── find_all_motifs_parallel.py    # Parallel motif discovery
+├── find_pk.py                     # Pseudoknot detection
+├── postprocessing_obtain_db.py    # Database optimization and merging
+├── postprocessing/                # Analysis and visualization tools
+│   └── scripts/
+│       ├── plot_motif_distributions/ # Statistical plotting
+│       ├── similarity_map/        # Similarity analysis
+│       ├── motif_comformation_considering_non/ # Unique graph analysis
+│       └── pk/                    # Pseudoknot analysis
+├── tools/                         # Utility scripts
+│   ├── find_all_motifs.py        # Core motif discovery functions
+│   ├── merge_databases.py        # Database merging
+│   ├── pickle_to_db.py           # Format conversion
+│   └── print_all_edges.py        # Debug utilities
+└── requirements.txt               # Python dependencies
+```
+
+## 📊 Data Files
+
+**Note**: Large data files (>100GB) are not included in this repository. The pipeline expects:
+
+- Input PDB files in `data/rna_final/`
+- Annotation files in `data/rna_annotation/`
+- Reference interaction files in `data/` directory
+- Graph and database files will be generated during processing
+
+## 🌐 Online Database
+
+The complete RNA motif database generated by this pipeline is hosted at: **http://atlas.dokhlab.org**
+
+## 🔧 Development
+
+### Key Components
+
+- **Graph Creation**: Converts PDB structures to NetworkX graphs with canonical/noncanonical interactions
+- **Motif Detection**: Uses subgraph isomorphism to find structural patterns
+- **Parallel Processing**: 8-process parallel motif discovery for performance
+- **Database Management**: SQLite-based storage with batch processing and deduplication
+
+### Performance Notes
+
+- Uses batch processing to handle large datasets efficiently
+- Parallel motif discovery significantly improves processing time
+- Memory-efficient streaming approaches for graph conversion
+
+## 🤝 Contributing
+
+This project is designed for structural biology and bioinformatics research. Feel free to contribute improvements or report issues.
+
+## 📧 Contact
+
+For questions about the RNA motif analysis pipeline, please open an issue in this repository. 

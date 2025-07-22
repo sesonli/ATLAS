@@ -1,0 +1,104 @@
+Unique Graphs Analysis for hairpin
+Motif Size Constraint: All Sizes
+Date and Time: 2025-07-08 16:34:29
+==================================================
+
+Retrieved 133555 records of type 'hairpin' from database
+
+Analysis Results:
+Total graphs processed: 133555
+Total graphs skipped: 0
+Number of unique graphs found: 12226
+Number of top graphs plotted (Top 8): 36614
+Number of other graphs not plotted: 96941
+
+Detailed Frequency Information:
+Graph 1 has been found 14468 time(s) (10.83%)
+  Edges in Graph 1:
+    A12 -- A7 : [1, 0, 0]
+    A12 -- A11 : [0, 0, 1]
+    A7 -- A8 : [0, 0, 1]
+    A11 -- A8 : [0, 1, 0]
+    A11 -- A10 : [0, 0, 1]
+    A8 -- A10 : [0, 1, 0]
+    A8 -- A9 : [0, 0, 1]
+    A10 -- A9 : [0, 0, 1]
+
+Graph 2 has been found 5089 time(s) (3.81%)
+  Edges in Graph 2:
+    A13 -- A14 : [0, 0, 1]
+    A13 -- A12 : [0, 0, 1]
+    A14 -- A9 : [1, 0, 0]
+    A12 -- A11 : [0, 0, 1]
+    A10 -- A11 : [0, 0, 1]
+    A10 -- A9 : [0, 0, 1]
+
+Graph 3 has been found 4844 time(s) (3.63%)
+  Edges in Graph 3:
+    A17 -- A20 : [0, 1, 0]
+    A17 -- A18 : [0, 0, 1]
+    A17 -- A16 : [0, 0, 1]
+    A20 -- A19 : [0, 0, 1]
+    A20 -- A21 : [0, 0, 1]
+    A18 -- A19 : [0, 0, 1]
+    A16 -- A21 : [1, 0, 0]
+
+Graph 4 has been found 3045 time(s) (2.28%)
+  Edges in Graph 4:
+    E46 -- E44 : [0, 1, 0]
+    E46 -- E47 : [0, 0, 1]
+    E46 -- E45 : [0, 0, 1]
+    E44 -- E45 : [0, 0, 1]
+    E44 -- E47 : [0, 1, 0]
+    E44 -- E43 : [0, 0, 1]
+    E47 -- E48 : [0, 0, 1]
+    E42 -- E49 : [1, 0, 0]
+    E42 -- E43 : [0, 0, 1]
+    E49 -- E48 : [0, 0, 1]
+    E43 -- E48 : [0, 1, 0]
+
+Graph 5 has been found 2600 time(s) (1.95%)
+  Edges in Graph 5:
+    A17 -- A13 : [1, 0, 0]
+    A17 -- A16 : [0, 0, 1]
+    A13 -- A14 : [0, 0, 1]
+    A16 -- A15 : [0, 0, 1]
+    A14 -- A15 : [0, 0, 1]
+
+Graph 6 has been found 2459 time(s) (1.84%)
+  Edges in Graph 6:
+    A38 -- A32 : [1, 0, 0]
+    A38 -- A37 : [0, 0, 1]
+    A32 -- A33 : [0, 0, 1]
+    A37 -- A36 : [0, 0, 1]
+    A34 -- A35 : [0, 0, 1]
+    A34 -- A33 : [0, 0, 1]
+    A35 -- A36 : [0, 0, 1]
+
+Graph 7 has been found 2237 time(s) (1.67%)
+  Edges in Graph 7:
+    B416 -- B417 : [0, 0, 1]
+    B416 -- B415 : [0, 0, 1]
+    B417 -- B410 : [1, 0, 0]
+    B415 -- B414 : [0, 0, 1]
+    B414 -- B413 : [0, 0, 1]
+    B411 -- B412 : [0, 0, 1]
+    B411 -- B410 : [0, 0, 1]
+    B412 -- B413 : [0, 0, 1]
+
+Graph 8 has been found 1872 time(s) (1.40%)
+  Edges in Graph 8:
+    A17 -- A12 : [1, 0, 0]
+    A17 -- A16 : [0, 0, 1]
+    A12 -- A13 : [0, 0, 1]
+    A16 -- A15 : [0, 0, 1]
+    A13 -- A15 : [0, 1, 0]
+    A13 -- A14 : [0, 0, 1]
+    A15 -- A14 : [0, 0, 1]
+
+
+Results saved to: postprocessing/results2025/unique_graphs\unique_graphs_hairpin_all_sizes_20250708_163429.txt
+Plot saved to: postprocessing/results2025/unique_graphs\unique_graphs_hairpin_all_sizes_20250708_163429.png
+
+Generating pie chart of graph distribution...
+Pie chart saved to: postprocessing/results2025/unique_graphs\pie_chart_hairpin_all_sizes_20250708_165301.png
