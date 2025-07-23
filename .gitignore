@@ -1,6 +1,9 @@
 # Ignore data directory and all its contents
 data/
 
+# Ignore ATLAS directory (too large for GitHub)
+postprocessing/scripts/Atlas/
+
 # Ignore all .md files except README.md
 *.md
 !README.md
