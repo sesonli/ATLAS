@@ -8,6 +8,7 @@ A Python-based toolkit for identifying and analyzing RNA structural motifs from 
 
 ## 🧬 Overview
 
+Use http://atlas.dokhlab.org to access the dataset. 
 This project analyzes RNA structures from the Protein Data Bank to identify recurring structural motifs including hairpins, internal loops, bulges, junctions, and pseudoknots. The approach converts RNA structures into NetworkX graph representations and uses subgraph isomorphism algorithms to discover and catalog common motifs.
 
 ## ✨ Key Features
